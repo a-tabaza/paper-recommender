@@ -321,7 +321,7 @@
 05Cxx Graph theory {For computer science, see 68R10}
 05C05 Trees
 05C07 Vertex degrees [See also 05E30]
-05C09 Graphical indices (Wiener index, Zagreb index, Randi´c index, etc.)
+05C09 Graphical indices (Wiener index, Zagreb index, Randic index, etc.)
 05C10 Planar graphs; geometric and topological aspects of graph theory [See also 57K10, 57M15]
 05C12 Distance in graphs
 05C15 Coloring of graphs and hypergraphs
@@ -469,7 +469,7 @@
 08A72 Fuzzy algebraic structures
 08A99 None of the above, but in this section
 08Bxx Varieties [See also 03C05]
-08B05 Equational logic, Mal’tsev conditions
+08B05 Equational logic, Maltsev conditions
 08B10 Congruence modularity, congruence distributivity
 08B15 Lattices of varieties
 08B20 Free algebras
@@ -600,7 +600,7 @@
 11G20 Curves over finite and local fields [See also 14H25]
 11G25 Varieties over finite and local fields [See also 14G15, 14G20]
 11G30 Curves of arbitrary genus or genus (cid:54)= 1 over global fields [See also 14H25]
-11G32 Arithmetic aspects of dessins d’enfants, Bely˘ı theory
+11G32 Arithmetic aspects of dessins denfants, Belyl theory
 11G35 Varieties over global fields [See also 14G25]
 11G40 L-functions of varieties over global fields; Birch-Swinnerton-Dyer conjecture [See also 14G10]
 11G42 Arithmetic mirror symmetry [See also 14J33]
@@ -635,8 +635,8 @@
 11J81 Transcendence (general theory)
 11J82 Measures of irrationality and of transcendence
 11J83 Metric theory
-11J85 Algebraic independence; Gel’fond’s method
-11J86 Linear forms in logarithms; Baker’s method
+11J85 Algebraic independence; Gelfond's method
+11J86 Linear forms in logarithms; Baker's method
 11J87 Schmidt Subspace Theorem and applications
 11J89 Transcendence theory of elliptic and abelian functions
 11J91 Transcendence theory of other special functions
@@ -892,7 +892,7 @@
 13C99 None of the above, but in this section
 13Dxx Homological methods in commutative ring theory {For noncommutative rings, see 16Exx; for general categories, see 18Gxx}
 13D02 Syzygies, resolutions, complexes and commutative rings
-13D03 (Co)homology of commutative rings and algebras (e.g., Hochschild, Andr´e-Quillen, cyclic, dihedral, etc.)
+13D03 (Co)homology of commutative rings and algebras (e.g., Hochschild, Andre-Quillen, cyclic, dihedral, etc.)
 13D05 Homological dimension and commutative rings
 13D07 Homological functors on modules of commutative rings (Tor, Ext, etc.)
 13D09 Derived categories and commutative rings
@@ -987,7 +987,7 @@
 14B12 Local deformation theory, Artin approximation, etc. [See also 13B40, 13D10]
 14B15 Local cohomology and algebraic geometry [See also 13D45, 32C36]
 14B20 Formal neighborhoods in algebraic geometry
-14B25 Local structure of morphisms in algebraic geometry: ´etale, flat, etc. [See also 13B40]
+14B25 Local structure of morphisms in algebraic geometry: etale, flat, etc. [See also 13B40]
 14B99 None of the above, but in this section
 14Cxx Cycles and subschemes
 14C05 Parametrization (Chow and Hilbert schemes)
@@ -2094,7 +2094,7 @@
 30F30 Differentials on Riemann surfaces
 30F35 Fuchsian groups and automorphic functions (aspects of compact Riemann surfaces and uniformization) [See also 11Fxx, 20H10, 22E40, 32Gxx, 32Nxx]
 30F40 Kleinian groups (aspects of compact Riemann surfaces and uniformization) [See also 20H10]
-30F45 Conformal metrics (hyperbolic, Poincar´e, distance functions)
+30F45 Conformal metrics (hyperbolic, Poincare, distance functions)
 30F50 Klein surfaces
 30F60 Teichmuller theory for Riemann surfaces [See also 32G15]
 30F99 None of the above, but in this section
@@ -2631,7 +2631,7 @@
 34M45 Ordinary differential equations on complex manifolds
 34M46 Spectral theory for ordinary differential operators in the complex domain
 34M50 Inverse problems (Riemann-Hilbert, inverse differential Galois, etc.) for ordinary differential equations in the complex domain
-34M55 Painlev´e and other special ordinary differential equations in the complex domain; classification, hierarchies
+34M55 Painleve and other special ordinary differential equations in the complex domain; classification, hierarchies
 34M56 Isomonodromic deformations for ordinary differential equations in the complex domain
 34M60 Singular perturbation problems for ordinary differential equations in the complex domain (complex WKB, turning points, steepest descent) [See also 34E20]
 34M65 Topological structure of trajectories of ordinary differential equations in the complex domain
@@ -2692,7 +2692,7 @@
 35B45 A priori estimates in context of PDEs
 35B50 Maximum principles in context of PDEs
 35B51 Comparison principles in context of PDEs
-35B53 Liouville theorems and Phragm´en-Lindel¨of theorems in context of PDEs
+35B53 Liouville theorems and Phragmen-Lindel¨of theorems in context of PDEs
 35B60 Continuation and prolongation of solutions to PDEs [See also 58A15, 58A17, 58Hxx]
 35B65 Smoothness and regularity of solutions to PDEs
 35B99 None of the above, but in this section
@@ -3100,7 +3100,7 @@
 37J51 Action-minimizing orbits and measures for finite-dimensional Hamiltonian and Lagrangian systems; variational principles; degree theoretic methods
 37J55 Contact systems [See also 53D10]
 37J60 Nonholonomic dynamical systems [See also 70F25]
-37J65 Nonautonomous Hamiltonian dynamical systems (Painlev´e equations, etc.) [See also 34M55]
+37J65 Nonautonomous Hamiltonian dynamical systems (Painleve equations, etc.) [See also 34M55]
 37J70 Completely integrable discrete dynamical systems
 37J99 None of the above, but in this section
 37Kxx Dynamical system aspects of infinite-dimensional Hamiltonian and Lagrangian systems [See also 35Axx, 35Qxx]
@@ -3333,7 +3333,7 @@
 42B08 Summability in several variables
 42B10 Fourier and Fourier-Stieltjes transforms and other transforms of Fourier type
 42B15 Multipliers for harmonic analysis in several variables
-42B20 Singular and oscillatory integrals (Calder´on-Zygmund, etc.)
+42B20 Singular and oscillatory integrals (Calderon-Zygmund, etc.)
 42B25 Maximal functions, Littlewood-Paley theory
 42B30 Hp-spaces
 42B35 Function spaces arising in harmonic analysis
@@ -3401,7 +3401,7 @@
 44A20 Integral transforms of special functions
 44A30 Multiple integral transforms
 44A35 Convolution as an integral transform
-44A40 Calculus of Mikusi´nski and other operational calculi
+44A40 Calculus of Mikusinski and other operational calculi
 44A45 Classical operational calculus
 44A55 Discrete operational calculus
 44A60 Moment problems {For trigonometric moment problems, see 42A70}
@@ -3481,7 +3481,7 @@
 46-11 Research data for problems pertaining to functional analysis
 46Axx Topological linear spaces and related structures {For function spaces, see 46Exx}
 46A03 General theory of locally convex spaces
-46A04 Locally convex Fr´echet spaces and (DF)-spaces
+46A04 Locally convex Frechet spaces and (DF)-spaces
 46A08 Barrelled spaces, bornological spaces
 46A11 Spaces determined by compactness or summability properties (nuclear spaces, Schwartz spaces, Montel spaces, etc.)
 46A13 Spaces defined by inductive or projective limits (LB, LF, etc.) [See also 46M40]
@@ -4489,7 +4489,7 @@
 57N99 None of the above, but in this section
 57Pxx Generalized manifolds [See also 18F15]
 57P05 Local properties of generalized manifolds
-57P10 Poincar´e duality spaces
+57P10 Poincare duality spaces
 57P99 None of the above, but in this section
 57Qxx PL-topology
 57Q05 General topology of complexes
@@ -4533,7 +4533,7 @@
 57R56 Topological quantum field theories (aspects of differential topology)
 57R57 Applications of global analysis to structures on manifolds [See also 57K41, 58-XX]
 57R58 Floer homology
-57R60 Homotopy spheres, Poincar´e conjecture
+57R60 Homotopy spheres, Poincare conjecture
 57R65 Surgery and handlebodies
 57R67 Surgery obstructions, Wall groups [See also 19J25]
 57R70 Critical points and critical submanifolds in differential topology
@@ -4613,7 +4613,7 @@
 58C07 Continuity properties of mappings on manifolds
 58C10 Holomorphic maps on manifolds [See also 32-XX]
 58C15 Implicit function theorems; global Newton methods on manifolds
-58C20 Differentiation theory (Gateaux, Fr´echet, etc.) on manifolds [See also 26Exx, 46G05]
+58C20 Differentiation theory (Gateaux, Frechet, etc.) on manifolds [See also 26Exx, 46G05]
 58C25 Differentiable maps on manifolds
 58C30 Fixed-point theorems on manifolds [See also 47H10]
 58C35 Integration on manifolds; measures on manifolds [See also 28Cxx]
@@ -4762,13 +4762,13 @@
 60G46 Martingales and classical analysis
 60G48 Generalizations of martingales
 60G50 Sums of independent random variables; random walks
-60G51 Processes with independent increments; L´evy processes
+60G51 Processes with independent increments; Levy processes
 60G52 Stable stochastic processes
 60G53 Feller processes
 60G55 Point processes (e.g., Poisson, Cox, Hawkes processes)
 60G57 Random measures
 60G60 Random fields
-60G65 Nonlinear processes (e.g., G-Brownian motion, G-L´evy processes)
+60G65 Nonlinear processes (e.g., G-Brownian motion, G-Levy processes)
 60G70 Extreme value theory; extremal stochastic processes
 60G99 None of the above, but in this section
 60Hxx Stochastic analysis [See also 58J65]
