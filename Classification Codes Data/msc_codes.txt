@@ -142,9 +142,7 @@
 
 00A09 Popularization of mathematics
 
-00A15 Bibliographies for mathematics in general [See also 01A70 and the classification number –00 in the other
-
-sections]
+00A15 Bibliographies for mathematics in general [See also 01A70 and the classification number –00 in the other sections]
 
 00A17 External book reviews
 
@@ -440,9 +438,7 @@ sections]
 
 03D40 Word problems, etc. in computability and recursion theory [See also 06B25, 08A50, 20F10, 68R15]
 
-03D45 Theory of numerations, effectively presented structures [See also 03C57] {For intuitionistic and similar
-
-approaches, see 03F55}
+03D45 Theory of numerations, effectively presented structures [See also 03C57] {For intuitionistic and similar approaches, see 03F55}
 
 03D50 Recursive equivalence types of sets and structures, isols
 
@@ -1152,9 +1148,7 @@ approaches, see 03F55}
 
 11F37 Forms of half-integer weight; nonholomorphic modular forms
 
-11F41 Automorphic forms on GL(2); Hilbert and Hilbert-Siegel modular groups and their modular and automorphic
-
-forms; Hilbert modular surfaces [See also 14G35]
+11F41 Automorphic forms on GL(2); Hilbert and Hilbert-Siegel modular groups and their modular and automorphic forms; Hilbert modular surfaces [See also 14G35]
 
 11F46 Siegel modular groups; Siegel and Hilbert-Siegel modular and automorphic forms
 
@@ -1380,7 +1374,7 @@ forms; Hilbert modular surfaces [See also 14G35]
 
 11N25 Distribution of integers with specified multiplicative constraints
 
-11N30 Tur´an theory [See also 30Bxx]
+11N30 Turan theory [See also 30Bxx]
 
 11N32 Primes represented by polynomials; other multiplicative structures of polynomial values
 
@@ -1408,7 +1402,7 @@ forms; Hilbert modular surfaces [See also 14G35]
 
 11Pxx Additive number theory; partitions
 
-11P05 Waring’s problem and variants
+11P05 Waring's problem and variants
 
 11P21 Lattice points in specified regions
 
@@ -1474,7 +1468,7 @@ forms; Hilbert modular surfaces [See also 14G35]
 
 11R54 Other algebras and orders, and their zeta and L-functions [See also 11S45, 16Hxx]
 
-11R56 Ad`ele rings and groups
+11R56 Adele rings and groups
 
 11R58 Arithmetic theory of algebraic function fields [See also 14Gxx, 14H05]
 
@@ -1732,9 +1726,7 @@ forms; Hilbert modular surfaces [See also 14G35]
 
 13A30 Associated graded rings of ideals (Rees ring, form ring), analytic spread and related topics
 
-13A35 Characteristic p methods (Frobenius endomorphism) and reduction to characteristic p; tight closure [See
-
-also 13B22]
+13A35 Characteristic p methods (Frobenius endomorphism) and reduction to characteristic p; tight closure [See also 13B22]
 
 13A50 Actions of groups on commutative rings; invariant theory [See also 14L24]
 
@@ -1760,7 +1752,7 @@ also 13B22]
 
 13B35 Completion of commutative rings [See also 13J10]
 
-13B40 ´Etale and ﬂat extensions; Henselization; Artin approximation [See also 13J15, 14B12, 14B25]
+13B40 Etale and flat extensions; Henselization; Artin approximation [See also 13J15, 14B12, 14B25]
 
 13B99 None of the above, but in this section
 
@@ -1770,7 +1762,7 @@ also 13B22]
 
 13C10 Projective and free modules and ideals in commutative rings [See also 19A13]
 
-13C11 Injective and ﬂat modules and ideals in commutative rings
+13C11 Injective and flat modules and ideals in commutative rings
 
 13C12 Torsion modules and ideals in commutative rings
 
@@ -1986,7 +1978,7 @@ gebraic geometry, derived algebraic geometry, etc.) {For categorical aspects, se
 
 14B20 Formal neighborhoods in algebraic geometry
 
-14B25 Local structure of morphisms in algebraic geometry: ´etale, ﬂat, etc. [See also 13B40]
+14B25 Local structure of morphisms in algebraic geometry: ´etale, flat, etc. [See also 13B40]
 
 14B99 None of the above, but in this section
 
@@ -2076,7 +2068,7 @@ gebraic geometry, derived algebraic geometry, etc.) {For categorical aspects, se
 
 14F18 Multiplier ideals
 
-14F20 ´Etale and other Grothendieck topologies and (co)homologies
+14F20 Etale and other Grothendieck topologies and (co)homologies
 
 14F22 Brauer groups of schemes [See also 12G05, 16K50]
 
@@ -2268,7 +2260,7 @@ gebraic geometry, derived algebraic geometry, etc.) {For categorical aspects, se
 
 14M12 Determinantal varieties [See also 13C40]
 
-14M15 Grassmannians, Schubert varieties, ﬂag manifolds [See also 32M10, 51M35]
+14M15 Grassmannians, Schubert varieties, flag manifolds [See also 32M10, 51M35]
 
 14M17 Homogeneous spaces and generalizations [See also 32M10, 53C30, 57T15]
 
@@ -2512,7 +2504,7 @@ gebraic geometry, derived algebraic geometry, etc.) {For categorical aspects, se
 
 16D30 Infinite-dimensional simple rings (except as in 16Kxx)
 
-16D40 Free, projective, and ﬂat modules and ideals in associative algebras [See also 19A13]
+16D40 Free, projective, and flat modules and ideals in associative algebras [See also 19A13]
 
 16D50 Injective modules, self-injective associative rings [See also 16L60]
 
@@ -2920,7 +2912,7 @@ gebraic geometry, derived algebraic geometry, etc.) {For categorical aspects, se
 
 17D05 Alternative rings
 
-17D10 Mal’tsev rings and algebras
+17D10 Maltsev rings and algebras
 
 17D15 Right alternative rings
 
@@ -2974,7 +2966,7 @@ gebraic geometry, derived algebraic geometry, etc.) {For categorical aspects, se
 
 18A35 Categories admitting limits (complete categories), functors preserving limits, completions
 
-18A40 Adjoint functors (universal constructions, reﬂective subcategories, Kan extensions, etc.)
+18A40 Adjoint functors (universal constructions, reflective subcategories, Kan extensions, etc.)
 
 18A50 Graded categories (general) {For dg categories, see 18G35}
 
@@ -3030,9 +3022,7 @@ gebraic geometry, derived algebraic geometry, etc.) {For categorical aspects, se
 
 18D30 Fibered categories
 
-18D40 Internal categories and groupoids {For double categories, see 18N10; for topological groupoids, see 22A22;
-
-for Lie groupoids, see 58H05}
+18D40 Internal categories and groupoids {For double categories, see 18N10; for topological groupoids, see 22A22; for Lie groupoids, see 58H05}
 
 18D60 Profunctors (= correspondences, distributors, modules)
 
@@ -3050,7 +3040,7 @@ for Lie groupoids, see 58H05}
 
 18E10 Abelian categories, Grothendieck categories
 
-18E13 Protomodular categories, semi-abelian categories, Mal’tsev categories [See also 08B05 and 18B10]
+18E13 Protomodular categories, semi-abelian categories, Maltsev categories [See also 08B05 and 18B10]
 
 18E20 Categorical embedding theorems [See also 18B15]
 
@@ -3498,9 +3488,7 @@ for Lie groupoids, see 58H05}
 
 20F06 Cancellation theory of groups; application of van Kampen diagrams [See also 57M05]
 
-20F10 Word problems, other decision problems, connections with logic and automata (group-theoretic aspects) [See
-
-also 03B25, 03D05, 03D40, 06B25, 08A50, 20M05, 68Q70]
+20F10 Word problems, other decision problems, connections with logic and automata (group-theoretic aspects) [See also 03B25, 03D05, 03D40, 06B25, 08A50, 20M05, 68Q70]
 
 20F11 Groups of finite Morley rank [See also 03C45, 03C60]
 
@@ -3536,7 +3524,7 @@ also 03B25, 03D05, 03D40, 06B25, 08A50, 20M05, 68Q70]
 
 20F50 Periodic groups; locally finite groups
 
-20F55 Reﬂection and Coxeter groups (group-theoretic aspects) [See also 22E40, 51F15]
+20F55 Reflection and Coxeter groups (group-theoretic aspects) [See also 22E40, 51F15]
 
 20F60 Ordered groups (group-theoretic aspects) [See mainly 06F15]
 
@@ -3930,9 +3918,7 @@ also 03B25, 03D05, 03D40, 06B25, 08A50, 20M05, 68Q70]
 
 26C05 Real polynomials: analytic properties, etc. [See also 12Dxx, 12Exx]
 
-26C10 Real polynomials: location of zeros {For algebraic theory, see 12D10; for complex methods, see 30C15; for
-
-numerical methods, see 65H05}
+26C10 Real polynomials: location of zeros {For algebraic theory, see 12D10; for complex methods, see 30C15; for numerical methods, see 65H05}
 
 26C15 Real rational functions [See also 14Pxx]
 
@@ -4606,8 +4592,6 @@ numerical methods, see 65H05}
 
 32J99 None of the above, but in this section
 
-77
-
 32Kxx Generalizations of analytic spaces
 
 32K05 Banach analytic manifolds and spaces [See also 46G20, 58Bxx]
@@ -4624,9 +4608,7 @@ numerical methods, see 65H05}
 
 32L05 Holomorphic bundles and generalizations
 
-32L10 Sheaves and cohomology of sections of holomorphic vector bundles, general results [See also 14F06, 14H60,
-
-14J60, 18F20, 55N30]
+32L10 Sheaves and cohomology of sections of holomorphic vector bundles, general results [See also 14F06, 14H60, 14J60, 18F20, 55N30]
 
 32L15 Bundle convexity [See also 32F10]
 
@@ -4646,9 +4628,7 @@ numerical methods, see 65H05}
 
 32M12 Almost homogeneous manifolds and spaces [See also 14M17]
 
-32M15 Hermitian symmetric spaces, bounded symmetric domains, Jordan algebras (complex-analytic aspects) [See
-
-also 22E10, 22E40, 53C35, 57T15]
+32M15 Hermitian symmetric spaces, bounded symmetric domains, Jordan algebras (complex-analytic aspects) [See also 22E10, 22E40, 53C35, 57T15]
 
 32M17 Automorphism groups of Cn and affine manifolds
 
@@ -4668,13 +4648,9 @@ also 22E10, 22E40, 53C35, 57T15]
 
 32N99 None of the above, but in this section
 
-78
-
 32Pxx Non-Archimedean analysis [Should also be assigned at least one other classifi- cation number from Section 32 describing the type of problem]
 
-32P05 Non-Archimedean analysis [Should also be assigned at least one other classification number from Section 32
-
-describing the type of problem]
+32P05 Non-Archimedean analysis [Should also be assigned at least one other classification number from Section 32 describing the type of problem]
 
 32P99 None of the above, but in this section
 
@@ -4686,9 +4662,9 @@ describing the type of problem]
 
 32Q10 Positive curvature complex manifolds
 
-32Q15 K¨ahler manifolds
+32Q15 Kahler manifolds
 
-32Q20 K¨ahler-Einstein manifolds [See also 53Cxx]
+32Q20 Kahler-Einstein manifolds [See also 53Cxx]
 
 32Q25 Calabi-Yau theory (complex-analytic aspects) [See also 14J32]
 
@@ -4734,8 +4710,6 @@ describing the type of problem]
 
 32S35 Mixed Hodge theory of singular varieties (complex-analytic aspects) [See also 14C30, 14D07]
 
-79
-
 32S40 Monodromy; relations with differential equations and D-modules (complex-analytic aspects)
 
 32S45 Modifications; resolution of singularities (complex-analytic aspects) [See also 14E15]
@@ -4760,11 +4734,7 @@ describing the type of problem]
 
 32T20 Worm domains
 
-32T25 Finite
-
-
-
-type domains
+32T25 Finite-type domains
 
 32T27 Geometric and analytic invariants on weakly pseudoconvex boundaries
 
@@ -4794,8 +4764,6 @@ type domains
 
 32U99 None of the above, but in this section
 
-80
-
 32Vxx CR manifolds
 
 32V05 CR structures, CR operators, and generalizations
@@ -4818,23 +4786,11 @@ type domains
 
 32Wxx Differential operators in several variables
 
-32W05 ∂ and ∂
+32W05 ∂ and ∂-Neumann operators
 
+32W10 ∂b and ∂b-Neumann operators
 
-
-Neumann operators
-
-32W10 ∂b and ∂b
-
-
-
-Neumann operators
-
-32W20 Complex Monge
-
-
-
-Amp`ere operators
+32W20 Complex Monge-Ampere operators
 
 32W25 Pseudodifferential operators in several complex variables
 
@@ -4860,8 +4816,6 @@ Amp`ere operators
 
 33-11 Research data for problems pertaining to special functions
 
-81
-
 33Bxx Elementary classical functions
 
 33B10 Exponential and trigonometric functions
@@ -4880,19 +4834,15 @@ Amp`ere operators
 
 33C10 Bessel and Airy functions, cylinder functions, 0F1
 
-33C15 Conﬂuent hypergeometric functions, Whittaker functions, 1F1
+33C15 Confluent hypergeometric functions, Whittaker functions, 1F1
 
 33C20 Generalized hypergeometric series, pFq
 
-33C45 Orthogonal polynomials and functions of hypergeometric type (Jacobi, Laguerre, Hermite, Askey scheme,
-
-etc.) {For general orthogonal polynomials and functions, see also 42C05}
+33C45 Orthogonal polynomials and functions of hypergeometric type (Jacobi, Laguerre, Hermite, Askey scheme, etc.) {For general orthogonal polynomials and functions, see also 42C05}
 
 33C47 Other special orthogonal polynomials and functions
 
-33C50 Orthogonal polynomials and functions in several variables expressible in terms of special functions in one
-
-variable
+33C50 Orthogonal polynomials and functions in several variables expressible in terms of special functions in one variable
 
 33C52 Orthogonal polynomials and functions associated with root systems
 
@@ -4916,29 +4866,17 @@ variable
 
 33Dxx Basic hypergeometric functions
 
-33D05 q
-
-
-
-gamma functions, q
-
-
-
-beta functions and integrals
+33D05 q-gamma functions, q-beta functions and integrals
 
 33D15 Basic hypergeometric functions in one variable, rφs
 
 33D45 Basic orthogonal polynomials and functions (Askey-Wilson polynomials, etc.)
 
-33D50 Orthogonal polynomials and functions in several variables expressible in terms of basic hypergeometric
-
-functions in one variable
+33D50 Orthogonal polynomials and functions in several variables expressible in terms of basic hypergeometric functions in one variable
 
 33D52 Basic orthogonal polynomials and functions associated with root systems (Macdonald polynomials, etc.)
 
 33D60 Basic hypergeometric integrals and functions defined by them
-
-82
 
 33D65 Bibasic functions and multiple bases
 
@@ -4946,9 +4884,7 @@ functions in one variable
 
 33D70 Other basic hypergeometric functions and integrals in several variables
 
-33D80 Connections of basic hypergeometric functions with quantum groups, Chevalley groups, p-adic groups, Hecke
-
-algebras, and related topics
+33D80 Connections of basic hypergeometric functions with quantum groups, Chevalley groups, p-adic groups, Hecke algebras, and related topics
 
 33D90 Applications of basic hypergeometric functions
 
@@ -4958,21 +4894,13 @@ algebras, and related topics
 
 33E05 Elliptic functions and integrals
 
-33E10 Lam´e, Mathieu, and spheroidal wave functions
+33E10 Lame, Mathieu, and spheroidal wave functions
 
-33E12 Mittag
-
-
-
-Leﬄer functions and generalizations
+33E12 Mittag-Leffler functions and generalizations
 
 33E15 Other wave functions
 
-33E17 Painlev´e
-
-
-
-type functions
+33E17 Painleve type functions
 
 33E20 Other functions defined by series and integrals
 
@@ -4990,15 +4918,9 @@ type functions
 
 33F99 None of the above, but in this section
 
-34
+34-XX Ordinary differential equations
 
-
-
-XX Ordinary differential equations
-
-34-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to ordinary differential
-
-equations
+34-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to ordinary differential equations
 
 34-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to ordinary differential equations
 
@@ -5012,15 +4934,11 @@ equations
 
 34-11 Research data for problems pertaining to ordinary differential equations
 
-83
-
 34Axx General theory for ordinary differential equations
 
 34A05 Explicit solutions, first integrals of ordinary differential equations
 
-34A06 Generalized ordinary differential equations (measure-differential equations, set-valued differential equations,
-
-etc.)
+34A06 Generalized ordinary differential equations (measure-differential equations, set-valued differential equations, etc.)
 
 34A07 Fuzzy ordinary differential equations
 
@@ -5028,17 +4946,9 @@ etc.)
 
 34A09 Implicit ordinary differential equations, differential-algebraic equations
 
-34A12 Initial value problems, existence, uniqueness, continuous dependence and continuation of solutions to ordi-
+34A12 Initial value problems, existence, uniqueness, continuous dependence and continuation of solutions to ordinary differential equations
 
-nary differential equations
-
-34A25 Analytical theory of ordinary differential equations: series, transformations, transforms, operational calculus,
-
-etc. [See also 44
-
-
-
-XX]
+34A25 Analytical theory of ordinary differential equations: series, transformations, transforms, operational calculus, etc. [See also 44-XX]
 
 34A26 Geometric methods in ordinary differential equations
 
@@ -5070,9 +4980,7 @@ XX]
 
 34B05 Linear boundary value problems for ordinary differential equations
 
-34B07 Linear boundary value problems for ordinary differential equations with nonlinear dependence on the spectral
-
-parameter
+34B07 Linear boundary value problems for ordinary differential equations with nonlinear dependence on the spectral parameter
 
 34B08 Parameter dependent boundary value problems for ordinary differential equations
 
@@ -5085,8 +4993,6 @@ parameter
 34B16 Singular nonlinear boundary value problems for ordinary differential equations
 
 34B18 Positive solutions to nonlinear boundary value problems for ordinary differential equations
-
-84
 
 34B20 Weyl theory and its generalizations for ordinary differential equations
 
@@ -5110,13 +5016,9 @@ parameter
 
 34C05 Topological structure of integral curves, singular points, limit cycles of ordinary differential equations
 
-34C07 Theory of limit cycles of polynomial and analytic vector fields (existence, uniqueness, bounds, Hilbert’s 16th
+34C07 Theory of limit cycles of polynomial and analytic vector fields (existence, uniqueness, bounds, Hilbert’s 16th problem and ramifications) for ordinary differential equations
 
-problem and ramifications) for ordinary differential equations
-
-34C08 Ordinary differential equations and connections with real algebraic geometry (fewnomials, desingularization,
-
-zeros of abelian integrals, etc.)
+34C08 Ordinary differential equations and connections with real algebraic geometry (fewnomials, desingularization, zeros of abelian integrals, etc.)
 
 34C10 Oscillation theory, zeros, disconjugacy and comparison theory for ordinary differential equations
 
@@ -5157,8 +5059,6 @@ zeros of abelian integrals, etc.)
 34C60 Qualitative investigation and simulation of ordinary differential equation models
 
 34C99 None of the above, but in this section
-
-85
 
 34Dxx Stability theory for ordinary differential equations [See also 37C75, 93Dxx]
 
@@ -5224,8 +5124,6 @@ zeros of abelian integrals, etc.)
 
 34G99 None of the above, but in this section
 
-86
-
 34Hxx Control problems involving ordinary differential equations [See also 49J15, 49K15, 93C15]
 
 34H05 Control problems involving ordinary differential equations
@@ -5244,21 +5142,13 @@ zeros of abelian integrals, etc.)
 
 34K05 General theory of functional-differential equations
 
-34K06 Linear functional
-
-
-
-differential equations
+34K06 Linear functional differential equations
 
 34K07 Theoretical approximation of solutions to functional-differential equations
 
 34K08 Spectral theory of functional-differential operators
 
-34K09 Functional
-
-
-
-differential inclusions
+34K09 Functional differential inclusions
 
 34K10 Boundary value problems for functional-differential equations
 
@@ -5284,95 +5174,45 @@ differential inclusions
 
 34K23 Complex (chaotic) behavior of solutions to functional-differential equations [See also 37D45]
 
-34K24 Synchronization of functional
-
-
-
-differential equations
+34K24 Synchronization of functional differential equations
 
 34K25 Asymptotic theory of functional-differential equations
 
 34K26 Singular perturbations of functional-differential equations
 
-34K27 Perturbations of functional
-
-
-
-differential equations
+34K27 Perturbations of functional differential equations
 
 34K29 Inverse problems for functional-differential equations
 
 34K30 Functional-differential equations in abstract spaces [See also 34Gxx, 35R09, 35R10, 47Jxx]
 
-87
+34K31 Lattice functional differential equations
 
-34K31 Lattice functional
+34K32 Implicit functional differential equations
 
-
-
-differential equations
-
-34K32 Implicit functional
-
-
-
-differential equations
-
-34K33 Averaging for functional
-
-
-
-differential equations
+34K33 Averaging for functional differential equations
 
 34K34 Hybrid systems of functional-differential equations
 
 34K35 Control problems for functional-differential equations [See also 49J21, 49K21, 93C23]
 
-34K36 Fuzzy functional
-
-
-
-differential equations
+34K36 Fuzzy functional differential equations
 
 34K37 Functional-differential equations with fractional derivatives
 
-34K38 Functional
+34K38 Functional differential inequalities
 
+34K39 Discontinuous functional differential equations
 
-
-differential inequalities
-
-34K39 Discontinuous functional
-
-
-
-differential equations
-
-34K40 Neutral functional
-
-
-
-differential equations
+34K40 Neutral functional differential equations
 
 34K41 Functional-differential equations in the complex domain
 
 34K42 Functional-differential equations on time scales or measure chains
 
-34K43 Functional
+34K43 Functional differential equations with state dependent arguments
 
-
-
-differential equations with state
-
-
-
-dependent arguments
-
-34K45 Functional
-
-
-
-differential equations with impulses
+34K45 Functional differential equations with impulses
 
 34K50 Stochastic functional-differential equations [See also 34Fxx, 60Hxx]
 
@@ -5400,8 +5240,6 @@ differential equations with impulses
 
 34L99 None of the above, but in this section
 
-88
-
 34Mxx Ordinary differential equations in the complex domain [See also 30Dxx, 32G34]
 
 34M03 Linear ordinary differential equations and systems in the complex domain
@@ -5412,45 +5250,27 @@ differential equations with impulses
 
 34M10 Oscillation, growth of solutions to ordinary differential equations in the complex domain
 
-34M15 Algebraic aspects (differential
-
-
-
-algebraic, hypertranscendence, group
-
-
-
-theoretical) of ordinary differential
-
-equations in the complex domain
+34M15 Algebraic aspects (differential algebraic, hypertranscendence, group theoretical) of ordinary differential equations in the complex domain
 
 34M25 Formal solutions and transform techniques for ordinary differential equations in the complex domain
 
 34M30 Asymptotics and summation methods for ordinary differential equations in the complex domain
 
-34M35 Singularities, monodromy and local behavior of solutions to ordinary differential equations in the complex
+34M35 Singularities, monodromy and local behavior of solutions to ordinary differential equations in the complex domain, normal forms
 
-domain, normal forms
-
-34M40 Stokes phenomena and connection problems (linear and nonlinear) for ordinary differential equations in the
-
-complex domain
+34M40 Stokes phenomena and connection problems (linear and nonlinear) for ordinary differential equations in the complex domain
 
 34M45 Ordinary differential equations on complex manifolds
 
 34M46 Spectral theory for ordinary differential operators in the complex domain
 
-34M50 Inverse problems (Riemann-Hilbert, inverse differential Galois, etc.) for ordinary differential equations in
-
-the complex domain
+34M50 Inverse problems (Riemann-Hilbert, inverse differential Galois, etc.) for ordinary differential equations in the complex domain
 
 34M55 Painlev´e and other special ordinary differential equations in the complex domain; classification, hierarchies
 
 34M56 Isomonodromic deformations for ordinary differential equations in the complex domain
 
-34M60 Singular perturbation problems for ordinary differential equations in the complex domain (complex WKB,
-
-turning points, steepest descent) [See also 34E20]
+34M60 Singular perturbation problems for ordinary differential equations in the complex domain (complex WKB, turning points, steepest descent) [See also 34E20]
 
 34M65 Topological structure of trajectories of ordinary differential equations in the complex domain
 
@@ -5458,21 +5278,13 @@ turning points, steepest descent) [See also 34E20]
 
 34Nxx Dynamic equations on time scales or measure chains {For real analysis on time scales, see 26E70}
 
-34N05 Dynamic equations on time scales or measure chains {For real analysis on time scales or measure chains, see
-
-26E70}
+34N05 Dynamic equations on time scales or measure chains {For real analysis on time scales or measure chains, see 26E70}
 
 34N99 None of the above, but in this section
 
-35
+35-XX Partial differential equations
 
-
-
-XX Partial differential equations
-
-35-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to partial differential equa-
-
-tions
+35-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to partial differential equations
 
 35-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to partial differential equations
 
@@ -5486,8 +5298,6 @@ tions
 
 35-11 Research data for problems pertaining to partial differential equations
 
-89
-
 35Axx General topics in partial differential equations
 
 35A01 Existence problems for PDEs: global existence, local existence, non-existence
@@ -5498,11 +5308,7 @@ tions
 
 35A09 Classical solutions to PDEs
 
-35A10 Cauchy
-
-
-
-Kovalevskaya theorems
+35A10 Cauchy-Kovalevskaya theorems
 
 35A15 Variational methods applied to PDEs
 
@@ -5524,9 +5330,7 @@ Kovalevskaya theorems
 
 35A25 Other special methods applied to PDEs
 
-35A27 Microlocal methods and methods of sheaf theory and homological algebra applied to PDEs [See also 32C38,
-
-58J15]
+35A27 Microlocal methods and methods of sheaf theory and homological algebra applied to PDEs [See also 32C38, 58J15]
 
 35A30 Geometric theory, characteristics, transformations in context of PDEs [See also 58J70, 58J72]
 
@@ -5554,27 +5358,17 @@ Kovalevskaya theorems
 
 35B25 Singular perturbations in context of PDEs
 
-35B27 Homogenization in context of PDEs; PDEs in media with periodic structure [See also 74Q05, 74Q10, 76M50,
+35B27 Homogenization in context of PDEs; PDEs in media with periodic structure [See also 74Q05, 74Q10, 76M50, 78M40, 80M40]
 
-78M40, 80M40]
+35B30 Dependence of solutions to PDEs on initial and/or boundary data and/or on parameters of PDEs [See also 37Cxx]
 
-90
-
-35B30 Dependence of solutions to PDEs on initial and/or boundary data and/or on parameters of PDEs [See also
-
-37Cxx]
-
-35B32 Bifurcations in context of PDEs [See also 34C23, 34F10, 34H20, 37F46, 37Gxx, 37H20, 37J20, 37K50, 37L10,
-
-37M20, 47J15, 58E05, 58E07, 58J55]
+35B32 Bifurcations in context of PDEs [See also 34C23, 34F10, 34H20, 37F46, 37Gxx, 37H20, 37J20, 37K50, 37L10, 37M20, 47J15, 58E05, 58E07, 58J55]
 
 35B33 Critical exponents in context of PDEs
 
 35B34 Resonance in context of PDEs [See also 34F15, 70J40, 70K28, 70K30, 81U24]
 
-35B35 Stability in context of PDEs [See also 34Dxx, 37B25, 37C20, 37C75, 37F15, 37J25, 37K45, 37L15, 49K40,
-
-58K25, 93Dxx]
+35B35 Stability in context of PDEs [See also 34Dxx, 37B25, 37C20, 37C75, 37F15, 37J25, 37K45, 37L15, 49K40, 58K25, 93Dxx]
 
 35B36 Pattern formations in context of PDEs [See also 92C15]
 
@@ -5606,11 +5400,7 @@ Kovalevskaya theorems
 
 35C05 Solutions to PDEs in closed form
 
-35C06 Self
-
-
-
-similar solutions to PDEs
+35C06 Self-similar solutions to PDEs
 
 35C07 Traveling wave solutions
 
@@ -5627,8 +5417,6 @@ similar solutions to PDEs
 35C20 Asymptotic expansions of solutions to PDEs
 
 35C99 None of the above, but in this section
-
-91
 
 35Dxx Generalized solutions to partial differential equations
 
@@ -5654,11 +5442,7 @@ similar solutions to PDEs
 
 35Fxx General first-order partial differential equations and systems of first-order par- tial differential equations
 
-35F05 Linear first
-
-
-
-order PDEs
+35F05 Linear first-order PDEs
 
 35F10 Initial value problems for linear first-order PDEs
 
@@ -5666,15 +5450,9 @@ order PDEs
 
 35F16 Initial-boundary value problems for linear first-order PDEs
 
-35F20 Nonlinear first
+35F20 Nonlinear first-order PDEs
 
-
-
-order PDEs
-
-35F21 Hamilton-Jacobi equations {For calculus of variations and optimal control, see 49Lxx; for mechanics of
-
-particles and systems, see 70H20}
+35F21 Hamilton-Jacobi equations {For calculus of variations and optimal control, see 49Lxx; for mechanics of particles and systems, see 70H20}
 
 35F25 Initial value problems for nonlinear first-order PDEs
 
@@ -5700,15 +5478,9 @@ particles and systems, see 70H20}
 
 35F99 None of the above, but in this section
 
-92
-
 35Gxx General higher-order partial differential equations and systems of higher-order partial differential equations
 
-35G05 Linear higher
-
-
-
-order PDEs
+35G05 Linear higher-order PDEs
 
 35G10 Initial value problems for linear higher-order PDEs
 
@@ -5716,11 +5488,7 @@ order PDEs
 
 35G16 Initial-boundary value problems for linear higher-order PDEs
 
-35G20 Nonlinear higher
-
-
-
-order PDEs
+35G20 Nonlinear higher-order PDEs
 
 35G25 Initial value problems for nonlinear higher-order PDEs
 
@@ -5746,15 +5514,7 @@ order PDEs
 
 35G99 None of the above, but in this section
 
-35Hxx Close
-
-
-
-to
-
-
-
-elliptic equations
+35Hxx Close to elliptic equations
 
 35H10 Hypoelliptic equations
 
@@ -5774,17 +5534,11 @@ elliptic equations
 
 theory, see 47D08; for quantum theory, see 81Q05; for statistical mechanics, see 82B44}
 
-35J15 Second
-
-
-
-order elliptic equations
+35J15 Second-order elliptic equations
 
 35J20 Variational methods for second-order elliptic equations
 
 35J25 Boundary value problems for second-order elliptic equations
-
-93
 
 35J30 Higher-order elliptic equations [See also 31A30, 31B30]
 
@@ -5792,23 +5546,11 @@ order elliptic equations
 
 35J40 Boundary value problems for higher-order elliptic equations
 
-35J46 First
+35J46 First-order elliptic systems
 
+35J47 Second-order elliptic systems
 
-
-order elliptic systems
-
-35J47 Second
-
-
-
-order elliptic systems
-
-35J48 Higher
-
-
-
-order elliptic systems
+35J48 Higher-order elliptic systems
 
 35J50 Variational methods for elliptic systems
 
@@ -5834,17 +5576,11 @@ order elliptic systems
 
 35J75 Singular elliptic equations
 
-35J86 Unilateral problems for linear elliptic equations and variational inequalities with linear elliptic operators [See
+35J86 Unilateral problems for linear elliptic equations and variational inequalities with linear elliptic operators [See also 35R35, 49J40]
 
-also 35R35, 49J40]
+35J87 Unilateral problems for nonlinear elliptic equations and variational inequalities with nonlinear elliptic operators [See also 35R35, 49J40]
 
-35J87 Unilateral problems for nonlinear elliptic equations and variational inequalities with nonlinear elliptic oper-
-
-ators [See also 35R35, 49J40]
-
-35J88 Unilateral problems for elliptic systems and systems of variational inequalities with elliptic operators [See
-
-also 35R35, 49J40]
+35J88 Unilateral problems for elliptic systems and systems of variational inequalities with elliptic operators [See also 35R35, 49J40]
 
 35J91 Semilinear elliptic equations with Laplacian, bi-Laplacian or poly-Laplacian
 
@@ -5854,13 +5590,9 @@ also 35R35, 49J40]
 
 35J94 Elliptic equations with infinity-Laplacian
 
-35J96 Monge-Amp`ere equations {For complex Monge-Amp`ere operators, see 32W20; for parabolic Monge-Amp`ere
-
-equations, see 35K96}
+35J96 Monge-Ampere equations {For complex Monge-Ampere operators, see 32W20; for parabolic Monge-Ampere equations, see 35K96}
 
 35J99 None of the above, but in this section
-
-94
 
 35Kxx Parabolic equations and parabolic systems {For global analysis, analysis on manifolds, see 58J35}
 
@@ -5868,37 +5600,21 @@ equations, see 35K96}
 
 35K08 Heat kernel
 
-35K10 Second
-
-
-
-order parabolic equations
+35K10 Second-order parabolic equations
 
 35K15 Initial value problems for second-order parabolic equations
 
 35K20 Initial-boundary value problems for second-order parabolic equations
 
-35K25 Higher
-
-
-
-order parabolic equations
+35K25 Higher-order parabolic equations
 
 35K30 Initial value problems for higher-order parabolic equations
 
 35K35 Initial-boundary value problems for higher-order parabolic equations
 
-35K40 Second
+35K40 Second-order parabolic systems
 
-
-
-order parabolic systems
-
-35K41 Higher
-
-
-
-order parabolic systems
+35K41 Higher-order parabolic systems
 
 35K45 Initial value problems for second-order parabolic systems
 
@@ -5910,9 +5626,7 @@ order parabolic systems
 
 35K55 Nonlinear parabolic equations
 
-35K57 Reaction-diffusion equations {For diffusion processes and reaction effects, see 47D07, 58J65, 60J60, 60J70,
-
-74N25, 76R50, 76V05, 80A23, 82B24, 82C24, 92E20}
+35K57 Reaction-diffusion equations {For diffusion processes and reaction effects, see 47D07, 58J65, 60J60, 60J70, 74N25, 76R50, 76V05, 80A23, 82B24, 82C24, 92E20}
 
 35K58 Semilinear parabolic equations
 
@@ -5928,17 +5642,11 @@ order parabolic systems
 
 35K70 Ultraparabolic equations, pseudoparabolic equations, etc.
 
-35K85 Unilateral problems for linear parabolic equations and variational inequalities with linear parabolic operators
+35K85 Unilateral problems for linear parabolic equations and variational inequalities with linear parabolic operators [See also 35R35, 49J40]
 
-[See also 35R35, 49J40]
+35K86 Unilateral problems for nonlinear parabolic equations and variational inequalities with nonlinear parabolic operators [See also 35R35, 49J40]
 
-35K86 Unilateral problems for nonlinear parabolic equations and variational inequalities with nonlinear parabolic
-
-operators [See also 35R35, 49J40]
-
-35K87 Unilateral problems for parabolic systems and systems of variational inequalities with parabolic operators
-
-[See also 35R35, 49J40]
+35K87 Unilateral problems for parabolic systems and systems of variational inequalities with parabolic operators [See also 35R35, 49J40]
 
 35K90 Abstract parabolic equations
 
@@ -5948,23 +5656,13 @@ operators [See also 35R35, 49J40]
 
 35K93 Quasilinear parabolic equations with mean curvature operator
 
-35K96 Parabolic Monge
-
-
-
-Amp`ere equations
+35K96 Parabolic Monge-Ampere equations
 
 35K99 None of the above, but in this section
 
-95
-
 35Lxx Hyperbolic equations and hyperbolic systems {For global analysis, see 58J45}
 
-35L02 First
-
-
-
-order hyperbolic equations
+35L02 First-order hyperbolic equations
 
 35L03 Initial value problems for first-order hyperbolic equations
 
@@ -5972,101 +5670,53 @@ order hyperbolic equations
 
 35L05 Wave equation
 
-35L10 Second
-
-
-
-order hyperbolic equations
+35L10 Second-order hyperbolic equations
 
 35L15 Initial value problems for second-order hyperbolic equations
 
 35L20 Initial-boundary value problems for second-order hyperbolic equations
 
-35L25 Higher
-
-
-
-order hyperbolic equations
+35L25 Higher-order hyperbolic equations
 
 35L30 Initial value problems for higher-order hyperbolic equations
 
 35L35 Initial-boundary value problems for higher-order hyperbolic equations
 
-35L40 First
-
-
-
-order hyperbolic systems
+35L40 First-order hyperbolic systems
 
 35L45 Initial value problems for first-order hyperbolic systems
 
 35L50 Initial-boundary value problems for first-order hyperbolic systems
 
-35L51 Second
-
-
-
-order hyperbolic systems
+35L51 Second-order hyperbolic systems
 
 35L52 Initial value problems for second-order hyperbolic systems
 
 35L53 Initial-boundary value problems for second-order hyperbolic systems
 
-35L55 Higher
-
-
-
-order hyperbolic systems
+35L55 Higher-order hyperbolic systems
 
 35L56 Initial value problems for higher-order hyperbolic systems
 
 35L57 Initial-boundary value problems for higher-order hyperbolic systems
 
-35L60 First
-
-
-
-order nonlinear hyperbolic equations
+35L60 First-order nonlinear hyperbolic equations
 
 35L65 Hyperbolic conservation laws
 
 35L67 Shocks and singularities for hyperbolic equations [See also 58Kxx, 74J40, 76L05]
 
-35L70 Second
+35L70 Second-order nonlinear hyperbolic equations
 
+35L71 Second-order semilinear hyperbolic equations
 
+35L72 Second-order quasilinear hyperbolic equations
 
-order nonlinear hyperbolic equations
+35L75 Higher-order nonlinear hyperbolic equations
 
-35L71 Second
+35L76 Higher-order semilinear hyperbolic equations
 
-
-
-order semilinear hyperbolic equations
-
-35L72 Second
-
-
-
-order quasilinear hyperbolic equations
-
-35L75 Higher
-
-
-
-order nonlinear hyperbolic equations
-
-35L76 Higher
-
-
-
-order semilinear hyperbolic equations
-
-35L77 Higher
-
-
-
-order quasilinear hyperbolic equations
+35L77 Higher-order quasilinear hyperbolic equations
 
 35L80 Degenerate hyperbolic equations
 
@@ -6074,19 +5724,11 @@ order quasilinear hyperbolic equations
 
 35L82 Pseudohyperbolic equations
 
-35L85 Unilateral problems for linear hyperbolic equations and variational inequalities with linear hyperbolic oper-
+35L85 Unilateral problems for linear hyperbolic equations and variational inequalities with linear hyperbolic operators [See also 35R35, 49J40]
 
-ators [See also 35R35, 49J40]
+35L86 Unilateral problems for nonlinear hyperbolic equations and variational inequalities with nonlinear hyperbolic operators [See also 35R35, 49J40]
 
-96
-
-35L86 Unilateral problems for nonlinear hyperbolic equations and variational inequalities with nonlinear hyperbolic
-
-operators [See also 35R35, 49J40]
-
-35L87 Unilateral problems for hyperbolic systems and systems of variational inequalities with hyperbolic operators
-
-[See also 35R35, 49J40]
+35L87 Unilateral problems for hyperbolic systems and systems of variational inequalities with hyperbolic operators [See also 35R35, 49J40]
 
 35L90 Abstract hyperbolic equations
 
@@ -6102,11 +5744,7 @@ operators [See also 35R35, 49J40]
 
 35M13 Initial-boundary value problems for PDEs of mixed type
 
-35M30 Mixed
-
-
-
-type systems of PDEs
+35M30 Mixed-type systems of PDEs
 
 35M31 Initial value problems for mixed-type systems of PDEs
 
@@ -6114,17 +5752,11 @@ type systems of PDEs
 
 35M33 Initial-boundary value problems for mixed-type systems of PDEs
 
-35M85 Unilateral problems for linear PDEs of mixed type and variational inequalities with partial differential
+35M85 Unilateral problems for linear PDEs of mixed type and variational inequalities with partial differential operators of mixed type [See also 35R35, 49J40]
 
-operators of mixed type [See also 35R35, 49J40]
+35M86 Unilateral problems for nonlinear PDEs of mixed type and variational inequalities with nonlinear partial differential operators of mixed type [See also 35R35, 49J40]
 
-35M86 Unilateral problems for nonlinear PDEs of mixed type and variational inequalities with nonlinear partial
-
-differential operators of mixed type [See also 35R35, 49J40]
-
-35M87 Unilateral problems for mixed-type systems of PDEs and systems of variational inequalities with partial
-
-differential operators of mixed type [See also 35R35, 49J40]
+35M87 Unilateral problems for mixed-type systems of PDEs and systems of variational inequalities with partial differential operators of mixed type [See also 35R35, 49J40]
 
 35M99 None of the above, but in this section
 
@@ -6144,8 +5776,6 @@ differential operators of mixed type [See also 35R35, 49J40]
 
 35N99 None of the above, but in this section
 
-97
-
 35Pxx Spectral theory and eigenvalue problems for partial differential equations {For operator theory, see 47Axx, 47Bxx, 47F05}
 
 35P05 General topics in linear spectral theory for PDEs
@@ -6164,35 +5794,25 @@ differential operators of mixed type [See also 35R35, 49J40]
 
 35Qxx Partial differential equations of mathematical physics and other areas of appli- cation [See also 35J05, 35J10, 35K05, 35L05]
 
-35Q05 Euler
-
-
-
-Poisson
-
-
-
-Darboux equations
+35Q05 Euler-Poisson-Darboux equations
 
 35Q07 Fuchsian PDEs
 
 35Q15 Riemann-Hilbert problems in context of PDEs [See also 30E25, 31A25, 31B20]
 
-35Q20 Boltzmann equations {For ﬂuid mechanics, see 76P05; for statistical mechanics, see 82B40, 82C40, 82D05}
+35Q20 Boltzmann equations {For fluid mechanics, see 76P05; for statistical mechanics, see 82B40, 82C40, 82D05}
 
-35Q30 Navier-Stokes equations {For ﬂuid mechanics, see 76D05, 76D07, 76N10}
+35Q30 Navier-Stokes equations {For fluid mechanics, see 76D05, 76D07, 76N10}
 
-35Q31 Euler equations {For ﬂuid mechanics, see 76D05, 76D07, 76N10}
+35Q31 Euler equations {For fluid mechanics, see 76D05, 76D07, 76N10}
 
-35Q35 PDEs in connection with ﬂuid mechanics
+35Q35 PDEs in connection with fluid mechanics
 
 35Q40 PDEs in connection with quantum mechanics
 
-35Q41 Time-dependent Schr¨odinger equations and Dirac equations {For quantum theory, see 81Q05; for relativity
+35Q41 Time-dependent Schr¨odinger equations and Dirac equations {For quantum theory, see 81Q05; for relativity and gravitational theory, see 83A05, 83C10}
 
-and gravitational theory, see 83A05, 83C10}
-
-35Q49 Transport equations {For calculus of variations and optimal control, see 49Q22; for ﬂuid mechanics, see 76F25; for statistical mechanics, see 82C70, 82D75; for operations research, see 90B06; for mathematical programming, see 90C08}
+35Q49 Transport equations {For calculus of variations and optimal control, see 49Q22; for fluid mechanics, see 76F25; for statistical mechanics, see 82C70, 82D75; for operations research, see 90B06; for mathematical programming, see 90C08}
 
 35Q51 Soliton equations {For dynamical systems and ergodic theory, see 37K40}
 
@@ -6204,9 +5824,7 @@ and gravitational theory, see 83A05, 83C10}
 
 35Q60 PDEs in connection with optics and electromagnetic theory
 
-35Q61 Maxwell equations {For optics and electromagnetic theory, see 78A25; for relativity and gravitational theory,
-
-see 83C22}
+35Q61 Maxwell equations {For optics and electromagnetic theory, see 78A25; for relativity and gravitational theory, see 83C22}
 
 35Q62 PDEs in connection with statistics
 
@@ -6216,13 +5834,9 @@ see 83C22}
 
 35Q74 PDEs in connection with mechanics of deformable solids
 
-98
-
 35Q75 PDEs in connection with relativity and gravitational theory
 
-35Q76 Einstein equations {For several complex variables and analytic spaces, see 32Q40; for differential geometry,
-
-see 53C07; for relativity and gravitational theory, see 83C05, 83C25, 83D05}
+35Q76 Einstein equations {For several complex variables and analytic spaces, see 32Q40; for differential geometry, see 53C07; for relativity and gravitational theory, see 83C05, 83C25, 83D05}
 
 35Q79 PDEs in connection with classical thermodynamics and heat transfer
 
@@ -6232,15 +5846,13 @@ see 53C07; for relativity and gravitational theory, see 83C05, 83C25, 83D05}
 
 35Q83 Vlasov equations {For statistical mechanics, see 82C70, 82D75}
 
-35Q84 Fokker-Planck equations {For ﬂuid mechanics, see 76X05, 76W05; for statistical mechanics, see 82C31}
+35Q84 Fokker-Planck equations {For fluid mechanics, see 76X05, 76W05; for statistical mechanics, see 82C31}
 
 35Q85 PDEs in connection with astronomy and astrophysics
 
 35Q86 PDEs in connection with geophysics
 
-35Q89 PDEs in connection with mean field game theory {For calculus of variations and optimal control, see 49N80;
-
-for game theory, see 91A16}
+35Q89 PDEs in connection with mean field game theory {For calculus of variations and optimal control, see 49N80; for game theory, see 91A16}
 
 35Q90 PDEs in connection with mathematical programming
 
@@ -6270,11 +5882,7 @@ for game theory, see 91A16}
 
 35R09 Integro-partial differential equations [See also 34K30, 45K05]
 
-35R10 Partial functional
-
-
-
-differential equations
+35R10 Partial functional-differential equations
 
 35R11 Fractional partial differential equations
 
@@ -6282,21 +5890,11 @@ differential equations
 
 35R13 Fuzzy partial differential equations
 
-35R15 PDEs on infinite-dimensional (e.g., function) spaces (= PDEs in infinitely many variables) [See also 46Gxx,
+35R15 PDEs on infinite-dimensional (e.g., function) spaces (= PDEs in infinitely many variables) [See also 46Gxx, 58D25]
 
-58D25]
+35R20 Operator partial differential equations (= PDEs on finite-dimensional spaces for abstract space valued functions) [See also 34Gxx, 47A50, 47D03, 47D06, 47D09, 47H20, 47Jxx]
 
-99
-
-35R20 Operator partial differential equations (= PDEs on finite-dimensional spaces for abstract space valued func-
-
-tions) [See also 34Gxx, 47A50, 47D03, 47D06, 47D09, 47H20, 47Jxx]
-
-35R25 Ill
-
-
-
-posed problems for PDEs
+35R25 Ill-posed problems for PDEs
 
 35R30 Inverse problems for PDEs
 
@@ -6316,9 +5914,7 @@ posed problems for PDEs
 
 35Sxx Pseudodifferential operators and other generalizations of partial differential op- erators {For operator theory, see 47G30, 58J40}
 
-35S05 Pseudodifferential operators as generalizations of partial differential operators [See also 32W25, 47G30, 47L80,
-
-58J40]
+35S05 Pseudodifferential operators as generalizations of partial differential operators [See also 32W25, 47G30, 47L80, 58J40]
 
 35S10 Initial value problems for PDEs with pseudodifferential operators
 
@@ -6328,9 +5924,7 @@ posed problems for PDEs
 
 35S30 Fourier integral operators applied to PDEs [See also 43A32, 58J40]
 
-35S35 Topological aspects for pseudodifferential operators in context of PDEs: intersection cohomology, stratified
-
-sets, etc. [See also 32C38, 32S40, 32S60, 58J15]
+35S35 Topological aspects for pseudodifferential operators in context of PDEs: intersection cohomology, stratified sets, etc. [See also 32C38, 32S40, 32S60, 58J15]
 
 35S50 Paradifferential operators as generalizations of partial differential operators in context of PDEs
 
@@ -6338,9 +5932,7 @@ sets, etc. [See also 32C38, 32S40, 32S60, 58J15]
 
 37-XX Dynamical systems and ergodic theory [See also 26A18, 28Dxx, 34Cxx, 34Dxx, 35Bxx, 46Lxx, 58Jxx, 70-XX]
 
-37-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to dynamical systems and
-
-ergodic theory
+37-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to dynamical systems and ergodic theory
 
 37-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to dynamical systems and ergodic theory
 
@@ -6354,8 +5946,6 @@ ergodic theory
 
 37-11 Research data for problems pertaining to dynamical systems and ergodic theory
 
-100
-
 37Axx Ergodic theory [See also 28Dxx]
 
 37A05 Dynamical aspects of measure-preserving transformations
@@ -6364,7 +5954,7 @@ ergodic theory
 
 37A15 General groups of measure-preserving transformations and dynamical systems [See mainly 22Fxx]
 
-37A17 Homogeneous ﬂows [See also 22Fxx]
+37A17 Homogeneous flows [See also 22Fxx]
 
 37A20 Algebraic ergodic theory, cocycles, orbit equivalence, ergodic equivalence relations
 
@@ -6374,19 +5964,13 @@ ergodic theory
 
 37A35 Entropy and other invariants, isomorphism, classification in ergodic theory
 
-37A40 Nonsingular (and infinite
-
-
-
-measure preserving) transformations
+37A40 Nonsingular (and infinite measure preserving) transformations
 
 37A44 Relations between ergodic theory and number theory [See also 11Kxx]
 
 37A46 Relations between ergodic theory and harmonic analysis
 
-37A50 Dynamical systems and their relations with probability theory and stochastic processes [See also 60Fxx,
-
-60G10]
+37A50 Dynamical systems and their relations with probability theory and stochastic processes [See also 60Fxx, 60G10]
 
 37A55 Dynamical systems and the theory of C ∗-algebras [See mainly 46L55]
 
@@ -6398,9 +5982,7 @@ measure preserving) transformations
 
 37B02 Dynamics in general topological spaces
 
-37B05 Dynamical systems involving transformations and group actions with special properties (minimality, distality,
-
-proximality, expansivity, etc.)
+37B05 Dynamical systems involving transformations and group actions with special properties (minimality, distality, proximality, expansivity, etc.)
 
 37B10 Symbolic dynamics
 
@@ -6412,9 +5994,7 @@ proximality, expansivity, etc.)
 
 37B30 Index theory for dynamical systems, Morse-Conley indices
 
-37B35 Gradient-like behavior; isolated (locally maximal) invariant sets; attractors, repellers for topological dynam-
-
-ical systems
+37B35 Gradient-like behavior; isolated (locally maximal) invariant sets; attractors, repellers for topological dynamical systems
 
 37B40 Topological entropy
 
@@ -6426,19 +6006,15 @@ ical systems
 
 37B55 Topological dynamics of nonautonomous systems
 
-37B65 Approximate trajectories, pseudotrajectories, shadowing and related notions for topological dynamical sys-
-
-tems
+37B65 Approximate trajectories, pseudotrajectories, shadowing and related notions for topological dynamical systems
 
 37B99 None of the above, but in this section
-
-101
 
 37Cxx Smooth dynamical systems: general theory [See also 34Cxx, 34Dxx]
 
 37C05 Dynamical systems involving smooth mappings and diffeomorphisms
 
-37C10 Dynamics induced by ﬂows and semiﬂows
+37C10 Dynamics induced by flows and semiflows
 
 37C15 Topological and differentiable equivalence, conjugacy, moduli, classification of dynamical systems
 
@@ -6446,13 +6022,11 @@ tems
 
 37C25 Fixed points and periodic points of dynamical systems; fixed-point index theory; local dynamics
 
-37C27 Periodic orbits of vector fields and ﬂows
+37C27 Periodic orbits of vector fields and flows
 
 37C29 Homoclinic and heteroclinic orbits for dynamical systems
 
-37C30 Functional analytic techniques in dynamical systems; zeta functions, (Ruelle-Frobenius) transfer operators,
-
-etc.
+37C30 Functional analytic techniques in dynamical systems; zeta functions, (Ruelle-Frobenius) transfer operators, etc.
 
 37C35 Orbit growth in dynamical systems
 
@@ -6462,15 +6036,11 @@ etc.
 
 37C50 Approximate trajectories (pseudotrajectories, shadowing, etc.) in smooth dynamics
 
-37C55 Periodic and quasi
-
-
-
-periodic ﬂows and diffeomorphisms
+37C55 Periodic and quasi-periodic flows and diffeomorphisms
 
 37C60 Nonautonomous smooth dynamical systems
 
-37C65 Monotone ﬂows as dynamical systems
+37C65 Monotone flows as dynamical systems
 
 37C70 Attractors and repellers of smooth dynamical systems and their topological structure
 
@@ -6482,9 +6052,7 @@ periodic ﬂows and diffeomorphisms
 
 37C83 Dynamical systems with singularities (billiards, etc.)
 
-37C85 Dynamics induced by group actions other than Z and R, and C [See mainly 22Fxx, and also 32M25, 57R30,
-
-57Sxx]
+37C85 Dynamics induced by group actions other than Z and R, and C [See mainly 22Fxx, and also 32M25, 57R30, 57Sxx]
 
 37C86 Foliations generated by dynamical systems
 
@@ -6496,11 +6064,7 @@ periodic ﬂows and diffeomorphisms
 
 37D10 Invariant manifold theory for dynamical systems
 
-37D15 Morse
-
-
-
-Smale systems
+37D15 Morse-Smale systems
 
 37D20 Uniformly hyperbolic systems (expanding, Anosov, Axiom A, etc.)
 
@@ -6510,19 +6074,13 @@ Smale systems
 
 37D35 Thermodynamic formalism, variational principles, equilibrium states for dynamical systems
 
-102
-
-37D40 Dynamical systems of geometric origin and hyperbolicity (geodesic and horocycle ﬂows, etc.)
+37D40 Dynamical systems of geometric origin and hyperbolicity (geodesic and horocycle flows, etc.)
 
 37D45 Strange attractors, chaotic dynamics of systems with hyperbolic behavior
 
 37D99 None of the above, but in this section
 
-37Exx Low
-
-
-
-dimensional dynamical systems
+37Exx Low-dimensional dynamical systems
 
 37E05 Dynamical systems involving maps of the interval
 
@@ -6548,9 +6106,7 @@ dimensional dynamical systems
 
 37F05 Dynamical systems involving relations and correspondences in one complex variable
 
-37F10 Dynamics of complex polynomials, rational maps, entire and meromorphic functions; Fatou and Julia sets
-
-[See also 32A10, 32A20, 32H02, 32H04]
+37F10 Dynamics of complex polynomials, rational maps, entire and meromorphic functions; Fatou and Julia sets [See also 32A10, 32A20, 32H02, 32H04]
 
 37F12 Critical orbits for holomorphic dynamical systems
 
@@ -6582,8 +6138,6 @@ dimensional dynamical systems
 
 37F99 None of the above, but in this section
 
-103
-
 37Gxx Local and nonlocal bifurcation theory for dynamical systems [See also 34C23, 34K18]
 
 37G05 Normal forms for dynamical systems
@@ -6608,15 +6162,11 @@ dimensional dynamical systems
 
 37H05 General theory of random and stochastic dynamical systems
 
-37H10 Generation, random and stochastic difference and differential equations [See also 34F05, 34K50, 60H10,
-
-60H15]
+37H10 Generation, random and stochastic difference and differential equations [See also 34F05, 34K50, 60H10, 60H15]
 
 37H12 Random iteration
 
-37H15 Random dynamical systems aspects of multiplicative ergodic theory, Lyapunov exponents [See also 34Fxx,
-
-37Axx, 37Cxx, 37Dxx]
+37H15 Random dynamical systems aspects of multiplicative ergodic theory, Lyapunov exponents [See also 34Fxx, 37Axx, 37Cxx, 37Dxx]
 
 37H20 Bifurcation theory for random and stochastic dynamical systems [See also 37Gxx]
 
@@ -6626,9 +6176,7 @@ dimensional dynamical systems
 
 37Jxx Dynamical aspects of finite-dimensional Hamiltonian and Lagrangian systems [See also 53Dxx, 70Fxx, 70Hxx]
 
-37J06 General theory of finite-dimensional Hamiltonian and Lagrangian systems, Hamiltonian and Lagrangian
-
-structures, symmetries, invariants
+37J06 General theory of finite-dimensional Hamiltonian and Lagrangian systems, Hamiltonian and Lagrangian structures, symmetries, invariants
 
 37J11 Symplectic and canonical mappings
 
@@ -6638,39 +6186,21 @@ structures, symmetries, invariants
 
 37J25 Stability problems for finite-dimensional Hamiltonian and Lagrangian systems
 
-37J30 Obstructions to integrability for finite-dimensional Hamiltonian and Lagrangian systems (nonintegrability
-
-criteria)
+37J30 Obstructions to integrability for finite-dimensional Hamiltonian and Lagrangian systems (nonintegrability criteria)
 
 37J35 Completely integrable finite-dimensional Hamiltonian systems, integration methods, integrability tests
 
-37J37 Relations of finite-dimensional Hamiltonian and Lagrangian systems with Lie algebras and other algebraic
+37J37 Relations of finite-dimensional Hamiltonian and Lagrangian systems with Lie algebras and other algebraic structures
 
-structures
+37J38 Relations of finite-dimensional Hamiltonian and Lagrangian systems with algebraic geometry, complex analysis, special functions
 
-104
+37J39 Relations of finite-dimensional Hamiltonian and Lagrangian systems with topology, geometry and differential geometry (symplectic geometry, Poisson geometry, etc.) [See also 53D20]
 
-37J38 Relations of finite-dimensional Hamiltonian and Lagrangian systems with algebraic geometry, complex anal-
-
-ysis, special functions
-
-37J39 Relations of finite-dimensional Hamiltonian and Lagrangian systems with topology, geometry and differential
-
-geometry (symplectic geometry, Poisson geometry, etc.) [See also 53D20]
-
-37J40 Perturbations of finite-dimensional Hamiltonian systems, normal forms, small divisors, KAM theory, Arnol’d
-
-diffusion
+37J40 Perturbations of finite-dimensional Hamiltonian systems, normal forms, small divisors, KAM theory, Arnold diffusion
 
 37J46 Periodic, homoclinic and heteroclinic orbits of finite-dimensional Hamiltonian systems
 
-37J51 Action-minimizing orbits and measures for finite-dimensional Hamiltonian and Lagrangian systems; varia-
-
-tional principles; degree
-
-
-
-theoretic methods
+37J51 Action-minimizing orbits and measures for finite-dimensional Hamiltonian and Lagrangian systems; variational principles; degree theoretic methods
 
 37J55 Contact systems [See also 53D10]
 
@@ -6684,29 +6214,19 @@ theoretic methods
 
 37Kxx Dynamical system aspects of infinite-dimensional Hamiltonian and Lagrangian systems [See also 35Axx, 35Qxx]
 
-37K06 General theory of infinite-dimensional Hamiltonian and Lagrangian systems, Hamiltonian and Lagrangian
+37K06 General theory of infinite-dimensional Hamiltonian and Lagrangian systems, Hamiltonian and Lagrangian structures, symmetries, conservation laws
 
-structures, symmetries, conservation laws
-
-37K10 Completely integrable infinite-dimensional Hamiltonian and Lagrangian systems, integration methods, inte-
-
-grability tests, integrable hierarchies (KdV, KP, Toda, etc.)
+37K10 Completely integrable infinite-dimensional Hamiltonian and Lagrangian systems, integration methods, integrability tests, integrable hierarchies (KdV, KP, Toda, etc.)
 
 37K15 Inverse spectral and scattering methods for infinite-dimensional Hamiltonian and Lagrangian systems
 
-37K20 Relations of infinite-dimensional Hamiltonian and Lagrangian dynamical systems with algebraic geometry,
+37K20 Relations of infinite-dimensional Hamiltonian and Lagrangian dynamical systems with algebraic geometry, complex analysis, and special functions [See also 14H70]
 
-complex analysis, and special functions [See also 14H70]
+37K25 Relations of infinite-dimensional Hamiltonian and Lagrangian dynamical systems with topology, geometry and differential geometry
 
-37K25 Relations of infinite-dimensional Hamiltonian and Lagrangian dynamical systems with topology, geometry
+37K30 Relations of infinite-dimensional Hamiltonian and Lagrangian dynamical systems with infinite-dimensional Lie algebras and other algebraic structures
 
-and differential geometry
-
-37K30 Relations of infinite-dimensional Hamiltonian and Lagrangian dynamical systems with infinite-dimensional
-
-Lie algebras and other algebraic structures
-
-37K35 Lie-B¨acklund and other transformations for infinite-dimensional Hamiltonian and Lagrangian systems
+37K35 Lie-Backlund and other transformations for infinite-dimensional Hamiltonian and Lagrangian systems
 
 37K40 Soliton theory, asymptotic behavior of solutions of infinite-dimensional Hamiltonian systems
 
@@ -6724,25 +6244,15 @@ Lie algebras and other algebraic structures
 
 37K99 None of the above, but in this section
 
-105
-
 37Lxx Infinite-dimensional dissipative dynamical systems [See also 35Bxx, 35Qxx]
 
-37L05 General theory of infinite-dimensional dissipative dynamical systems, nonlinear semigroups, evolution equa-
+37L05 General theory of infinite-dimensional dissipative dynamical systems, nonlinear semigroups, evolution equations
 
-tions
-
-37L10 Normal forms, center manifold theory, bifurcation theory for infinite-dimensional dissipative dynamical sys-
-
-tems
+37L10 Normal forms, center manifold theory, bifurcation theory for infinite-dimensional dissipative dynamical systems
 
 37L15 Stability problems for infinite-dimensional dissipative dynamical systems
 
-37L20 Symmetries of infinite
-
-
-
-dimensional dissipative dynamical systems
+37L20 Symmetries of infinite dimensional dissipative dynamical systems
 
 37L25 Inertial manifolds and other invariant attracting sets of infinite-dimensional dissipative dynamical systems
 
@@ -6752,23 +6262,13 @@ dimensional dissipative dynamical systems
 
 37L45 Hyperbolicity, Lyapunov functions for infinite-dimensional dissipative dynamical systems
 
-37L50 Noncompact semigroups, dispersive equations, perturbations of infinite-dimensional dissipative dynamical
-
-systems
+37L50 Noncompact semigroups, dispersive equations, perturbations of infinite-dimensional dissipative dynamical systems
 
 37L55 Infinite-dimensional random dynamical systems; stochastic equations [See also 35R60, 60H10, 60H15]
 
 37L60 Lattice dynamics and infinite-dimensional dissipative dynamical systems [See also 37K60]
 
-37L65 Special approximation methods (nonlinear Galerkin, etc.)
-
-for infinite
-
-
-
-dimensional dissipative dynamical
-
-systems
+37L65 Special approximation methods (nonlinear Galerkin, etc.) for infinite dimensional dissipative dynamical systems
 
 37L99 None of the above, but in this section
 
@@ -6786,9 +6286,7 @@ systems
 
 37M22 Computational methods for attractors of dynamical systems
 
-37M25 Computational methods for ergodic theory (approximation of invariant measures, computation of Lyapunov
-
-exponents, entropy, etc.)
+37M25 Computational methods for ergodic theory (approximation of invariant measures, computation of Lyapunov exponents, entropy, etc.)
 
 37M99 None of the above, but in this section
 
@@ -6796,15 +6294,11 @@ exponents, entropy, etc.)
 
 37N05 Dynamical systems in classical and celestial mechanics [See mainly 70Fxx, 70Hxx, 70Kxx]
 
-37N10 Dynamical systems in ﬂuid mechanics, oceanography and meteorology [See mainly 76-XX, especially 76D05,
-
-76F20, 86A05, 86A10]
+37N10 Dynamical systems in fluid mechanics, oceanography and meteorology [See mainly 76-XX, especially 76D05, 76F20, 86A05, 86A10]
 
 37N15 Dynamical systems in solid mechanics [See mainly 74Hxx]
 
 37N20 Dynamical systems in other branches of physics (quantum mechanics, general relativity, laser physics)
-
-106
 
 37N25 Dynamical systems in biology [See also 92-XX]
 
@@ -6828,9 +6322,7 @@ exponents, entropy, etc.)
 
 37P25 Dynamical systems over finite ground fields
 
-37P30 Height functions; Green functions; invariant measures in arithmetic and non-Archimedean dynamical systems
-
-[See also 11G50, 14G40]
+37P30 Height functions; Green functions; invariant measures in arithmetic and non-Archimedean dynamical systems [See also 11G50, 14G40]
 
 37P35 Arithmetic properties of periodic points
 
@@ -6846,9 +6338,7 @@ exponents, entropy, etc.)
 
 39-XX Difference and functional equations
 
-39-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to difference and functional
-
-equations
+39-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to difference and functional equations
 
 39-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to difference and functional equations
 
@@ -6863,8 +6353,6 @@ equations
 39-08 Computational methods for problems pertaining to difference and functional equations
 
 39-11 Research data for problems pertaining to difference and functional equations
-
-107
 
 39Axx Difference equations {For dynamic equations on time scales, see 34N05; for dynamical systems, see 37-XX}
 
@@ -6936,17 +6424,9 @@ equations
 
 39B99 None of the above, but in this section
 
-108
+40-XX Sequences, series, summability
 
-40
-
-
-
-XX Sequences, series, summability
-
-40-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to sequences, series, summa-
-
-bility
+40-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to sequences, series, summability
 
 40-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to sequences, series, summability
 
@@ -6972,9 +6452,7 @@ bility
 
 40A20 Convergence and divergence of infinite products
 
-40A25 Approximation to limiting values (summation of series, etc.) {For the Euler-Maclaurin summation formula,
-
-see 65B15}
+40A25 Approximation to limiting values (summation of series, etc.) {For the Euler-Maclaurin summation formula, see 65B15}
 
 40A30 Convergence and divergence of series and sequences of functions
 
@@ -6997,8 +6475,6 @@ see 65B15}
 40C15 Function-theoretic methods (including power series methods and semicontinuous methods) for summability
 
 40C99 None of the above, but in this section
-
-109
 
 40Dxx Direct theorems on summability
 
@@ -7030,15 +6506,13 @@ see 65B15}
 
 40Fxx Absolute and strong summability [Should also be assigned at least one other classification number in Section 40]
 
-40F05 Absolute and strong summability [Should also be assigned at least one other classification number in Section
-
-40]
+40F05 Absolute and strong summability [Should also be assigned at least one other classification number in Section 40]
 
 40F99 None of the above, but in this section
 
 40Gxx Special methods of summability
 
-40G05 Ces`aro, Euler, N¨orlund and Hausdorff methods
+40G05 Cesaro, Euler, N¨orlund and Hausdorff methods
 
 40G10 Abel, Borel and power series methods
 
@@ -7054,19 +6528,13 @@ see 65B15}
 
 40Jxx Summability in abstract structures [Should also be assigned at least one other classification number from Section 40] [See also 43A55, 46A35, 46B15]
 
-40J05 Summability in abstract structures [Should also be assigned at least one other classification number from
-
-Section 40] [See also 43A55, 46A35, 46B15]
+40J05 Summability in abstract structures [Should also be assigned at least one other classification number from Section 40] [See also 43A55, 46A35, 46B15]
 
 40J99 None of the above, but in this section
 
-110
-
 41-XX Approximations and expansions {For approximation theory in the complex domain, see 30E05, 30E10; for trigonometric approximation and interpolation, see 42A10, 42A15; for numerical approximation, see 65Dxx}
 
-41-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to approximations and
-
-expansions
+41-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to approximations and expansions
 
 41-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to approximations and expansions
 
@@ -7092,7 +6560,7 @@ expansions
 
 41A20 Approximation by rational functions
 
-41A21 Pad´e approximation
+41A21 Pade approximation
 
 41A25 Rate of convergence, degree of approximation
 
@@ -7120,17 +6588,13 @@ expansions
 
 41A52 Uniqueness of best approximation
 
-111
-
 41A55 Approximate quadratures
 
 41A58 Series expansions (e.g., Taylor, Lidstone series, but not Fourier series)
 
 41A60 Asymptotic approximations, asymptotic expansions (steepest descent, etc.) [See also 30E15]
 
-41A63 Multidimensional problems [Should also be assigned at least one other classification number from Section
-
-41]
+41A63 Multidimensional problems [Should also be assigned at least one other classification number from Section 41]
 
 41A65 Abstract approximation theory (approximation in normed linear spaces and other abstract spaces)
 
@@ -7142,9 +6606,7 @@ expansions
 
 42-XX Harmonic analysis on Euclidean spaces
 
-42-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to harmonic analysis on
-
-Euclidean spaces
+42-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to harmonic analysis on Euclidean spaces
 
 42-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to harmonic analysis on Euclidean spaces
 
@@ -7168,9 +6630,7 @@ Euclidean spaces
 
 42A15 Trigonometric interpolation
 
-42A16 Fourier coefficients, Fourier series of functions with special properties, special Fourier series {For automorphic
-
-theory, see mainly 11F30}
+42A16 Fourier coefficients, Fourier series of functions with special properties, special Fourier series {For automorphic theory, see mainly 11F30}
 
 42A20 Convergence and absolute convergence of Fourier and trigonometric series
 
@@ -7187,8 +6647,6 @@ theory, see mainly 11F30}
 42A55 Lacunary series of trigonometric and other functions; Riesz products
 
 42A61 Probabilistic methods for one variable harmonic analysis
-
-112
 
 42A63 Uniqueness of trigonometric expansions, uniqueness of Fourier expansions, Riemann theory, localization
 
@@ -7216,17 +6674,9 @@ theory, see mainly 11F30}
 
 42B20 Singular and oscillatory integrals (Calder´on-Zygmund, etc.)
 
-42B25 Maximal functions, Littlewood
+42B25 Maximal functions, Littlewood-Paley theory
 
-
-
-Paley theory
-
-42B30 H p
-
-
-
-spaces
+42B30 Hp-spaces
 
 42B35 Function spaces arising in harmonic analysis
 
@@ -7236,9 +6686,7 @@ spaces
 
 42Cxx Nontrigonometric harmonic analysis
 
-42C05 Orthogonal functions and polynomials, general theory of nontrigonometric harmonic analysis [See also 33C45,
-
-33C50, 33D45]
+42C05 Orthogonal functions and polynomials, general theory of nontrigonometric harmonic analysis [See also 33C45, 33C50, 33D45]
 
 42C10 Fourier series in special orthogonal functions (Legendre polynomials, Walsh functions, etc.)
 
@@ -7254,13 +6702,9 @@ spaces
 
 42C99 None of the above, but in this section
 
-113
-
 43-XX Abstract harmonic analysis {For other analysis on topological and Lie groups, see 22Exx}
 
-43-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to abstract harmonic anal-
-
-ysis
+43-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to abstract harmonic analysis
 
 43-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to abstract harmonic analysis
 
@@ -7310,17 +6754,11 @@ ysis
 
 43A55 Summability methods on groups, semigroups, etc. [See also 40J05]
 
-43A60 Almost periodic functions on groups and semigroups and their generalizations (recurrent functions, distal
-
-functions, etc.); almost automorphic functions
+43A60 Almost periodic functions on groups and semigroups and their generalizations (recurrent functions, distal functions, etc.); almost automorphic functions
 
 43A62 Harmonic analysis on hypergroups
 
-43A65 Representations of groups, semigroups, etc. (aspects of abstract harmonic analysis) [See also 22A10, 22A20,
-
-22Dxx, 22E45]
-
-114
+43A65 Representations of groups, semigroups, etc. (aspects of abstract harmonic analysis) [See also 22A10, 22A20, 22Dxx, 22E45]
 
 43A70 Analysis on specific locally compact and other abelian groups [See also 11R56, 22B05]
 
@@ -7380,13 +6818,7 @@ functions, etc.); almost automorphic functions
 
 44A99 None of the above, but in this section
 
-115
-
-45
-
-
-
-XX Integral equations
+45-XX Integral equations
 
 45-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to integral equations
 
@@ -7443,8 +6875,6 @@ XX Integral equations
 45F15 Systems of singular linear integral equations
 
 45F99 None of the above, but in this section
-
-116
 
 45Gxx Nonlinear integral equations [See also 47H30, 47Jxx]
 
@@ -7504,8 +6934,6 @@ XX Integral equations
 
 45P99 None of the above, but in this section
 
-117
-
 45Qxx Inverse problems for integral equations
 
 45Q05 Inverse problems for integral equations
@@ -7544,39 +6972,25 @@ XX Integral equations
 
 46A08 Barrelled spaces, bornological spaces
 
-46A11 Spaces determined by compactness or summability properties (nuclear spaces, Schwartz spaces, Montel
-
-spaces, etc.)
+46A11 Spaces determined by compactness or summability properties (nuclear spaces, Schwartz spaces, Montel spaces, etc.)
 
 46A13 Spaces defined by inductive or projective limits (LB, LF, etc.) [See also 46M40]
 
-46A16 Not locally convex spaces (metrizable topological linear spaces, locally bounded spaces, quasi-Banach spaces,
-
-etc.)
+46A16 Not locally convex spaces (metrizable topological linear spaces, locally bounded spaces, quasi-Banach spaces, etc.)
 
 46A17 Bornologies and related structures; Mackey convergence, etc.
 
-46A19 Other “topological” linear spaces (convergence spaces, ranked spaces, spaces with a metric taking values in
-
-an ordered structure more general than R, etc.)
+46A19 Other “topological” linear spaces (convergence spaces, ranked spaces, spaces with a metric taking values in an ordered structure more general than R, etc.)
 
 46A20 Duality theory for topological vector spaces
 
 46A22 Theorems of Hahn-Banach type; extension and lifting of functionals and operators [See also 46M10]
 
-46A25 Reﬂexivity and semi
-
-
-
-reﬂexivity [See also 46B10]
+46A25 Reflexivity and semi-reflexivity [See also 46B10]
 
 46A30 Open mapping and closed graph theorems; completeness (including B-, Br-completeness)
 
-118
-
-46A32 Spaces of linear operators; topological tensor products; approximation properties [See also 46B28, 46M05,
-
-47L05, 47L20]
+46A32 Spaces of linear operators; topological tensor products; approximation properties [See also 46B28, 46M05, 47L05, 47L20]
 
 46A35 Summability and bases in topological vector spaces [See also 46B15]
 
@@ -7588,7 +7002,7 @@ reﬂexivity [See also 46B10]
 
 46A55 Convex sets in topological linear spaces; Choquet theory [See also 52A07]
 
-46A61 Graded Fr´echet spaces and tame operators
+46A61 Graded Frechet spaces and tame operators
 
 46A63 Topological invariants ((DN), (Ω), etc.) for locally convex spaces
 
@@ -7612,15 +7026,13 @@ reﬂexivity [See also 46B10]
 
 46B09 Probabilistic methods in Banach space theory [See also 60Bxx]
 
-46B10 Duality and reﬂexivity in normed linear and Banach spaces [See also 46A25]
+46B10 Duality and reflexivity in normed linear and Banach spaces [See also 46A25]
 
-46B15 Summability and bases; functional analytic aspects of frames in Banach and Hilbert spaces [See also 46A35,
-
-42C15]
+46B15 Summability and bases; functional analytic aspects of frames in Banach and Hilbert spaces [See also 46A35, 42C15]
 
 46B20 Geometry and structure of normed linear spaces
 
-46B22 Radon-Nikod´ym, Kre˘ın-Milman and related properties [See also 46G10]
+46B22 Radon-Nikodym, Kreın-Milman and related properties [See also 46G10]
 
 46B25 Classical Banach spaces in the general theory
 
@@ -7640,11 +7052,7 @@ reﬂexivity [See also 46B10]
 
 46B80 Nonlinear classification of Banach spaces; nonlinear quotients
 
-119
-
-46B85 Embeddings of discrete metric spaces into Banach spaces; applications in topology and computer science
-
-[See also 05C12, 68Rxx]
+46B85 Embeddings of discrete metric spaces into Banach spaces; applications in topology and computer science [See also 05C12, 68Rxx]
 
 46B87 Lineability in functional analysis [See also 15A03]
 
@@ -7654,9 +7062,7 @@ reﬂexivity [See also 46B10]
 
 46C05 Hilbert and pre-Hilbert spaces: geometry and topology (including spaces with semidefinite inner product)
 
-46C07 Hilbert subspaces (= operator ranges); complementation (Aronszajn, de Branges, etc.) [See also 46B70,
-
-46M35]
+46C07 Hilbert subspaces (= operator ranges); complementation (Aronszajn, de Branges, etc.) [See also 46B70, 46M35]
 
 46C15 Characterizations of Hilbert spaces
 
@@ -7676,13 +7082,9 @@ reﬂexivity [See also 46B10]
 
 46E20 Hilbert spaces of continuous, differentiable or analytic functions
 
-46E22 Hilbert spaces with reproducing kernels (= (proper) functional Hilbert spaces, including de Branges-Rovnyak
+46E22 Hilbert spaces with reproducing kernels (= (proper) functional Hilbert spaces, including de Branges-Rovnyak and other structured spaces) [See also 47B32]
 
-and other structured spaces) [See also 47B32]
-
-46E25 Rings and algebras of continuous, differentiable or analytic functions {For Banach function algebras, see
-
-46J10, 46J15}
+46E25 Rings and algebras of continuous, differentiable or analytic functions {For Banach function algebras, see 46J10, 46J15}
 
 46E27 Spaces of measures [See also 28A33, 46Gxx]
 
@@ -7696,23 +7098,11 @@ ment invariant spaces, ideal spaces, etc.)
 
 46E39 Sobolev (and similar kinds of) spaces of functions of discrete variables
 
-46E40 Spaces of vector
+46E40 Spaces of vector and operator valued functions
 
-
-
-and operator
-
-
-
-valued functions
-
-46E50 Spaces of differentiable or holomorphic functions on infinite-dimensional spaces [See also 46G20, 46G25,
-
-47H60]
+46E50 Spaces of differentiable or holomorphic functions on infinite-dimensional spaces [See also 46G20, 46G25, 47H60]
 
 46E99 None of the above, but in this section
-
-120
 
 46Fxx Distributions, generalized functions, distribution spaces [See also 46T30]
 
@@ -7770,17 +7160,13 @@ valued functions
 
 46H99 None of the above, but in this section
 
-121
-
 46Jxx Commutative Banach algebras and commutative topological algebras [See also 46E25]
 
 46J05 General theory of commutative topological algebras
 
 46J10 Banach algebras of continuous functions, function algebras [See also 46E25]
 
-46J15 Banach algebras of differentiable or analytic functions, H p-spaces [See also 30H10, 32A35, 32A37, 32A38,
-
-42B30]
+46J15 Banach algebras of differentiable or analytic functions, H p-spaces [See also 30H10, 32A35, 32A37, 32A38, 42B30]
 
 46J20 Ideals, maximal ideals, boundaries
 
@@ -7816,11 +7202,7 @@ valued functions
 
 46L07 Operator spaces and completely bounded maps [See also 47L25]
 
-46L08 C ∗
-
-
-
-modules
+46L08 C ∗ modules
 
 46L09 Free products of C ∗-algebras
 
@@ -7837,8 +7219,6 @@ modules
 46L40 Automorphisms of selfadjoint operator algebras
 
 46L45 Decomposition theory for C ∗-algebras
-
-122
 
 46L51 Noncommutative measure and integration
 
@@ -7910,15 +7290,11 @@ modules
 
 46N99 None of the above, but in this section
 
-123
-
 46Sxx Other (nonclassical) types of functional analysis [See also 47Sxx]
 
 46S05 Quaternionic functional analysis
 
-46S10 Functional analysis over fields other than R or C or the quaternions; non-Archimedean functional analysis
-
-[See also 12J25, 32P05]
+46S10 Functional analysis over fields other than R or C or the quaternions; non-Archimedean functional analysis [See also 12J25, 32P05]
 
 46S20 Nonstandard functional analysis [See also 03H05]
 
@@ -7938,13 +7314,7 @@ modules
 
 46T10 Manifolds of mappings
 
-46T12 Measure (Gaussian, cylindrical, etc.) and integrals (Feynman, path, Fresnel, etc.) on manifolds [See also
-
-28Cxx, 46G12, 60
-
-
-
-XX]
+46T12 Measure (Gaussian, cylindrical, etc.) and integrals (Feynman, path, Fresnel, etc.) on manifolds [See also 28Cxx, 46G12, 60-XX]
 
 46T20 Continuous and differentiable maps in nonlinear functional analysis [See also 46G05]
 
@@ -7954,11 +7324,7 @@ XX]
 
 46T99 None of the above, but in this section
 
-47
-
-
-
-XX Operator theory
+47-XX Operator theory
 
 47-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to operator theory
 
@@ -7975,8 +7341,6 @@ XX Operator theory
 47-08 Computational methods for problems pertaining to operator theory
 
 47-11 Research data for problems pertaining to operator theory
-
-124
 
 47Axx General theory of linear operators
 
@@ -8018,21 +7382,15 @@ XX Operator theory
 
 47A50 Equations and inequalities involving linear operators, with vector unknowns
 
-47A52 Linear operators and ill-posed problems, regularization [See also 35R25, 47J06, 65F22, 65J20, 65L08, 65M30,
-
-65R30]
+47A52 Linear operators and ill-posed problems, regularization [See also 35R25, 47J06, 65F22, 65J20, 65L08, 65M30, 65R30]
 
 47A53 (Semi-) Fredholm operators; index theories [See also 58B15, 58J20]
 
 47A55 Perturbation theory of linear operators [See also 47H14, 58J37, 70H09, 81Q15]
 
-47A56 Functions whose values are linear operators (operator- and matrix-valued functions, etc., including analytic
+47A56 Functions whose values are linear operators (operator- and matrix-valued functions, etc., including analytic and meromorphic ones)
 
-and meromorphic ones)
-
-47A57 Linear operator methods in interpolation, moment and extension problems [See also 30E05, 42A70, 42A82,
-
-44A60]
+47A57 Linear operator methods in interpolation, moment and extension problems [See also 30E05, 42A70, 42A82, 44A60]
 
 47A58 Linear operator approximation theory
 
@@ -8045,8 +7403,6 @@ and meromorphic ones)
 47A64 Operator means involving linear operators, shorted linear operators, etc.
 
 47A65 Structure theory of linear operators
-
-125
 
 47A66 Quasitriangular and nonquasitriangular, quasidiagonal and nonquasidiagonal linear operators
 
@@ -8068,23 +7424,15 @@ and meromorphic ones)
 
 47B02 Operators on Hilbert spaces (general)
 
-47B06 Riesz operators; eigenvalue distributions; approximation numbers, s-numbers, Kolmogorov numbers, entropy
-
-numbers, etc. of operators
+47B06 Riesz operators; eigenvalue distributions; approximation numbers, s-numbers, Kolmogorov numbers, entropy numbers, etc. of operators
 
 47B07 Linear operators defined by compactness properties
 
-47B10 Linear operators belonging to operator ideals (nuclear, p-summing, in the Schatten-von Neumann classes,
-
-etc.) [See also 47L20]
+47B10 Linear operators belonging to operator ideals (nuclear, p-summing, in the Schatten-von Neumann classes, etc.) [See also 47L20]
 
 47B12 Sectorial operators
 
-47B13 Cowen
-
-
-
-Douglas operators
+47B13 Cowen-Douglas operators
 
 47B15 Hermitian and normal operators (spectral measures, functional calculus, etc.)
 
@@ -8119,8 +7467,6 @@ structured spaces) [See also 46E22]
 47B44 Linear accretive operators, dissipative operators, etc.
 
 47B47 Commutators, derivations, elementary operators, etc.
-
-126
 
 47B48 Linear operators on Banach algebras
 
@@ -8162,19 +7508,11 @@ structured spaces) [See also 46E22]
 
 47D07 Markov semigroups and applications to diffusion processes {For Markov processes, see 60Jxx}
 
-47D08 Schr¨odinger and Feynman
-
-
-
-Kac semigroups
+47D08 Schrodinger and Feynman-Kac semigroups
 
 47D09 Operator sine and cosine functions and higher-order Cauchy problems [See also 34G10]
 
-47D60 C
-
-
-
-semigroups, regularized semigroups
+47D60 C-semigroups, regularized semigroups
 
 47D62 Integrated semigroups
 
@@ -8182,21 +7520,15 @@ semigroups, regularized semigroups
 
 47Exx Ordinary differential operators [See also 34Bxx, 34Lxx]
 
-47E05 General theory of ordinary differential operators [Should also be assigned at least one other classification
-
-number in Section 47] [See also 34Bxx, 34Lxx]
+47E05 General theory of ordinary differential operators [Should also be assigned at least one other classification number in Section 47] [See also 34Bxx, 34Lxx]
 
 47E07 Functional-differential and differential-difference operators [See also 34K08]
 
 47E99 None of the above, but in this section
 
-127
-
 47Fxx Partial differential operators [See also 35Pxx, 58Jxx]
 
-47F05 General theory of partial differential operators [Should also be assigned at least one other classification
-
-number in Section 47] [See also 35Pxx, 58Jxx]
+47F05 General theory of partial differential operators [Should also be assigned at least one other classification number in Section 47] [See also 35Pxx, 58Jxx]
 
 47F10 Elliptic operators and their generalizations {For elliptic complexes, see 58J10}
 
@@ -8238,11 +7570,7 @@ number in Section 47] [See also 35Pxx, 58Jxx]
 
 47H25 Nonlinear ergodic theorems [See also 28Dxx, 37Axx, 47A35]
 
-47H30 Particular nonlinear operators (superposition, Hammerstein, Nemytski˘ı, Uryson, etc.)
-
-[See also 45Gxx,
-
-45P05]
+47H30 Particular nonlinear operators (superposition, Hammerstein, Nemytski˘ı, Uryson, etc.) [See also 45Gxx, 45P05]
 
 47H40 Random nonlinear operators [See also 47B80, 60H25]
 
@@ -8250,17 +7578,13 @@ number in Section 47] [See also 35Pxx, 58Jxx]
 
 47H99 None of the above, but in this section
 
-128
-
 47Jxx Equations and inequalities involving nonlinear operators [See also 46Txx] {For global and geometric aspects, see 58-XX}
 
 47J05 Equations involving nonlinear operators (general) [See also 47H10, 47J25]
 
 47J06 Nonlinear ill-posed problems [See also 35R25, 47A52, 65F22, 65J20, 65L08, 65M30, 65R30]
 
-47J07 Abstract inverse mapping and implicit function theorems involving nonlinear operators [See also 46T20,
-
-58C15]
+47J07 Abstract inverse mapping and implicit function theorems involving nonlinear operators [See also 46T20, 58C15]
 
 47J10 Nonlinear spectral theory, nonlinear eigenvalue problems [See also 49R05]
 
@@ -8316,8 +7640,6 @@ number in Section 47] [See also 35Pxx, 58Jxx]
 
 47L70 Nonassociative nonselfadjoint operator algebras
 
-129
-
 47L75 Other nonselfadjoint operator algebras
 
 47L80 Algebras of specific types of operators (Toeplitz, integral, pseudodifferential, etc.)
@@ -8362,13 +7684,9 @@ number in Section 47] [See also 35Pxx, 58Jxx]
 
 49-XX Calculus of variations and optimal control; optimization [See also 34H05, 34K35, 65Kxx, 90Cxx, 93-XX]
 
-49-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to calculus of variations
+49-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to calculus of variations and optimal control
 
-and optimal control
-
-49-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to calculus of variations and optimal
-
-control
+49-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to calculus of variations and optimal control
 
 49-02 Research exposition (monographs, survey articles) pertaining to calculus of variations and optimal control
 
@@ -8379,8 +7697,6 @@ control
 49-06 Proceedings, conferences, collections, etc. pertaining to calculus of variations and optimal control
 
 49-11 Research data for problems pertaining to calculus of variations and optimal control
-
-130
 
 49Jxx Existence theories in calculus of variations and optimal control
 
@@ -8404,7 +7720,7 @@ control
 
 49J45 Methods involving semicontinuity and convergence; relaxation
 
-49J50 Fr´echet and Gateaux differentiability in optimization [See also 46G05, 58C20]
+49J50 Frechet and Gateaux differentiability in optimization [See also 46G05, 58C20]
 
 49J52 Nonsmooth analysis [See also 46G05, 58C50, 90C56]
 
@@ -8428,17 +7744,11 @@ control
 
 49K27 Optimality conditions for problems in abstract spaces [See also 90C48, 93C25]
 
-49K30 Optimality conditions for solutions belonging to restricted classes (Lipschitz controls, bang-bang controls,
-
-etc.)
+49K30 Optimality conditions for solutions belonging to restricted classes (Lipschitz controls, bang-bang controls, etc.)
 
 49K35 Optimality conditions for minimax problems
 
-49K40 Sensitivity, stability, well
-
-
-
-posedness [See also 90C31]
+49K40 Sensitivity, stability, well-posedness [See also 90C31]
 
 49K45 Optimality conditions for problems involving randomness [See also 93E20]
 
@@ -8453,8 +7763,6 @@ posedness [See also 90C31]
 49L25 Viscosity solutions to Hamilton-Jacobi equations in optimal control and differential games
 
 49L99 None of the above, but in this section
-
-131
 
 49Mxx Numerical methods in optimal control [See also 65Kxx, 90-08, 90Cxx]
 
@@ -8480,11 +7788,7 @@ posedness [See also 90C31]
 
 49N05 Linear optimal control problems [See also 93C05]
 
-49N10 Linear
-
-
-
-quadratic optimal control problems
+49N10 Linear-quadratic optimal control problems
 
 49N15 Duality theory (optimization) [See also 90C46]
 
@@ -8518,9 +7822,7 @@ quadratic optimal control problems
 
 49Q12 Sensitivity analysis for optimization problems on manifolds
 
-49Q15 Geometric measure and integration theory, integral and normal currents in optimization [See also 28A75,
-
-32C30, 58A25, 58C35]
+49Q15 Geometric measure and integration theory, integral and normal currents in optimization [See also 28A75, 32C30, 58A25, 58C35]
 
 49Q20 Variational problems in a geometric measure-theoretic setting
 
@@ -8528,21 +7830,15 @@ quadratic optimal control problems
 
 49Q99 None of the above, but in this section
 
-132
-
 49Rxx Variational methods for eigenvalues of operators [Should also be assigned at least one other classification number in Section 49] [See also 47A75]
 
-49R05 Variational methods for eigenvalues of operators [Should also be assigned at least one other classification
-
-number in Section 49] [See also 47A75]
+49R05 Variational methods for eigenvalues of operators [Should also be assigned at least one other classification number in Section 49] [See also 47A75]
 
 49R99 None of the above, but in this section
 
 49Sxx Variational principles of physics [Should also be assigned at least one other classification number in Section 49]
 
-49S05 Variational principles of physics [Should also be assigned at least one other classification number in Section
-
-49]
+49S05 Variational principles of physics [Should also be assigned at least one other classification number in Section 49]
 
 49S99 None of the above, but in this section
 
@@ -8588,13 +7884,11 @@ number in Section 49] [See also 47A75]
 
 51A99 None of the above, but in this section
 
-133
-
 51Bxx Nonlinear incidence geometry
 
 51B05 General theory of nonlinear incidence geometry
 
-51B10 M¨obius geometries
+51B10 Mobius geometries
 
 51B15 Laguerre geometries
 
@@ -8656,15 +7950,13 @@ number in Section 49] [See also 47A75]
 
 51E99 None of the above, but in this section
 
-134
-
 51Fxx Metric geometry
 
 51F05 Absolute planes in metric geometry
 
 51F10 Absolute spaces in metric geometry
 
-51F15 Reﬂection groups, reﬂection geometries [See also 20H10, 20H15] {For Coxeter groups, see 20F55}
+51F15 Reflection groups, reflection geometries [See also 20H10, 20H15] {For Coxeter groups, see 20F55}
 
 51F20 Congruence and orthogonality in metric geometry [See also 20H05]
 
@@ -8715,8 +8007,6 @@ number in Section 49] [See also 47A75]
 51K10 Synthetic differential geometry
 
 51K99 None of the above, but in this section
-
-135
 
 51Lxx Geometric order structures [See also 53C75]
 
@@ -8776,19 +8066,13 @@ their generalizations) [See also 14M15]
 
 51Pxx Classical or axiomatic geometry and physics [Should also be assigned at least one other classification number from Sections 70 through 86]
 
-51P05 Classical or axiomatic geometry and physics [Should also be assigned at least one other classification number
-
-from Sections 70 through 86]
+51P05 Classical or axiomatic geometry and physics [Should also be assigned at least one other classification number from Sections 70 through 86]
 
 51P99 None of the above, but in this section
 
-136
-
 52-XX Convex and discrete geometry
 
-52-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to convex and discrete
-
-geometry
+52-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to convex and discrete geometry
 
 52-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to convex and discrete geometry
 
@@ -8818,9 +8102,7 @@ geometry
 
 52A20 Convex sets in n dimensions (including convex hypersurfaces) [See also 53A07, 53C45]
 
-52A21 Convexity and finite-dimensional Banach spaces (including special norms, zonoids, etc.) (aspects of convex
-
-geometry) [See also 46Bxx]
+52A21 Convexity and finite-dimensional Banach spaces (including special norms, zonoids, etc.) (aspects of convex geometry) [See also 46Bxx]
 
 52A22 Random convex sets and integral geometry (aspects of convex geometry) [See also 53C65, 60D05]
 
@@ -8846,45 +8128,29 @@ geometry) [See also 46Bxx]
 
 52A99 None of the above, but in this section
 
-137
-
 52Bxx Polytopes and polyhedra
 
 52B05 Combinatorial properties of polytopes and polyhedra (number of faces, shortest paths, etc.) [See also 05Cxx]
 
-52B10 Three
+52B10 Three-dimensional polytopes
 
-
-
-dimensional polytopes
-
-52B11 n
-
-
-
-dimensional polytopes
+52B11 n-dimensional polytopes
 
 52B12 Special polytopes (linear programming, centrally symmetric, etc.)
 
 52B15 Symmetry properties of polytopes
 
-52B20 Lattice polytopes in convex geometry (including relations with commutative algebra and algebraic geometry)
-
-[See also 06A11, 13F20, 13F55, 13Hxx, 52C05, 52C07]
+52B20 Lattice polytopes in convex geometry (including relations with commutative algebra and algebraic geometry) [See also 06A11, 13F20, 13F55, 13Hxx, 52C05, 52C07]
 
 52B22 Shellability for polytopes and polyhedra
 
 52B35 Gale and other diagrams
 
-52B40 Matroids in convex geometry (realizations in the context of convex polytopes, convexity in combinatorial
-
-structures, etc.) [See also 05B35, 52Cxx]
+52B40 Matroids in convex geometry (realizations in the context of convex polytopes, convexity in combinatorial structures, etc.) [See also 05B35, 52Cxx]
 
 52B45 Dissections and valuations (Hilbert’s third problem, etc.)
 
-52B55 Computational aspects related to convexity {For computational methods, see 52-08; for computational ge-
-
-ometry and algorithms, see 68Q25, 68U05; for numerical algorithms, see 65Yxx} [See also 68Uxx]
+52B55 Computational aspects related to convexity {For computational methods, see 52-08; for computational geometry and algorithms, see 68Q25, 68U05; for numerical algorithms, see 65Yxx} [See also 68Uxx]
 
 52B60 Isoperimetric problems for polytopes
 
@@ -8898,7 +8164,7 @@ ometry and algorithms, see 68Q25, 68U05; for numerical algorithms, see 65Yxx} [S
 
 52C07 Lattices and convex bodies in n dimensions (aspects of discrete geometry) [See also 11H06, 11H31, 11P21]
 
-52C10 Erd˝os problems and related topics of discrete geometry [See also 11Hxx]
+52C10 Erdos problems and related topics of discrete geometry [See also 11Hxx]
 
 52C15 Packing and covering in 2 dimensions (aspects of discrete geometry) [See also 05B40, 11H31]
 
@@ -8910,21 +8176,19 @@ ometry and algorithms, see 68Q25, 68U05; for numerical algorithms, see 65Yxx} [S
 
 52C23 Quasicrystals and aperiodic tilings in discrete geometry
 
-52C25 Rigidity and ﬂexibility of structures (aspects of discrete geometry) [See also 70B15]
+52C25 Rigidity and flexibility of structures (aspects of discrete geometry) [See also 70B15]
 
 52C26 Circle packings and discrete conformal geometry
 
 52C30 Planar arrangements of lines and pseudolines (aspects of discrete geometry)
 
-52C35 Arrangements of points, ﬂats, hyperplanes (aspects of discrete geometry) [See also 14N20, 32S22]
+52C35 Arrangements of points, flats, hyperplanes (aspects of discrete geometry) [See also 14N20, 32S22]
 
 52C40 Oriented matroids in discrete geometry
 
 52C45 Combinatorial complexity of geometric structures [See also 68U05]
 
 52C99 None of the above, but in this section
-
-138
 
 53-XX Differential geometry {For differential topology, see 57Rxx; for foundational questions of differentiable manifolds, see 58Axx}
 
@@ -8952,9 +8216,7 @@ ometry and algorithms, see 68Q25, 68U05; for numerical algorithms, see 65Yxx} [S
 
 53A07 Higher-dimensional and -codimensional surfaces in Euclidean and related n-spaces
 
-53A10 Minimal surfaces in differential geometry, surfaces with prescribed mean curvature [See also 49Q05, 49Q10,
-
-53C42]
+53A10 Minimal surfaces in differential geometry, surfaces with prescribed mean curvature [See also 49Q05, 49Q10, 53C42]
 
 53A15 Affine differential geometry
 
@@ -8966,11 +8228,7 @@ ometry and algorithms, see 68Q25, 68U05; for numerical algorithms, see 65Yxx} [S
 
 53A31 Differential geometry of submanifolds of M¨obius space
 
-53A35 Non
-
-
-
-Euclidean differential geometry
+53A35 Non-Euclidean differential geometry
 
 53A40 Other special differential geometries
 
@@ -8983,8 +8241,6 @@ Euclidean differential geometry
 53A70 Discrete differential geometry
 
 53A99 None of the above, but in this section
-
-139
 
 53Bxx Local differential geometry
 
@@ -9020,21 +8276,13 @@ Euclidean differential geometry
 
 53C08 Differential geometric aspects of gerbes and differential characters
 
-53C10 G
-
-
-
-structures
+53C10 G-structures
 
 53C12 Foliations (differential geometric aspects) [See also 57R30, 57R32]
 
 53C15 General geometric structures on manifolds (almost complex, almost product structures, etc.)
 
-53C17 Sub
-
-
-
-Riemannian geometry
+53C17 Sub-Riemannian geometry
 
 53C18 Conformal structures on manifolds
 
@@ -9058,8 +8306,6 @@ Riemannian geometry
 
 53C29 Issues of holonomy in differential geometry
 
-140
-
 53C30 Differential geometry of homogeneous manifolds [See also 14M15, 14M17, 32M10, 57T15]
 
 53C35 Differential geometry of symmetric spaces [See also 32M15, 57T15]
@@ -9068,9 +8314,7 @@ Riemannian geometry
 
 53C40 Global submanifolds [See also 53B25]
 
-53C42 Differential geometry of immersions (minimal, prescribed curvature, tight, etc.) [See also 49Q05, 49Q10,
-
-53A10, 57R40, 57R42]
+53C42 Differential geometry of immersions (minimal, prescribed curvature, tight, etc.) [See also 49Q05, 49Q10, 53A10, 57R40, 57R42]
 
 53C43 Differential geometric aspects of harmonic maps [See also 58E20]
 
@@ -9086,11 +8330,7 @@ Riemannian geometry
 
 53C65 Integral geometry [See also 52A22, 60D05]; differential forms, currents, etc. [See mainly 58Axx]
 
-53C70 Direct methods (G
-
-
-
-spaces of Busemann, etc.)
+53C70 Direct methods (G-spaces of Busemann, etc.)
 
 53C75 Geometric orders, order geometry [See also 51Lxx]
 
@@ -9110,13 +8350,13 @@ spaces of Busemann, etc.)
 
 53D17 Poisson manifolds; Poisson groupoids and algebroids
 
-53D18 Generalized geometries (`a la Hitchin)
+53D18 Generalized geometries (a la Hitchin)
 
 53D20 Momentum maps; symplectic reduction
 
 53D22 Canonical transformations in symplectic and contact geometry
 
-53D25 Geodesic ﬂows in symplectic geometry and contact geometry
+53D25 Geodesic flows in symplectic geometry and contact geometry
 
 53D30 Symplectic structures of moduli spaces
 
@@ -9136,21 +8376,15 @@ spaces of Busemann, etc.)
 
 53D99 None of the above, but in this section
 
-141
-
 53Exx Geometric evolution equations
 
 53E10 Flows related to mean curvature
 
-53E20 Ricci ﬂows
+53E20 Ricci flows
 
-53E30 Flows related to complex manifolds (e.g., K¨ahler-Ricci ﬂows, Chern-Ricci ﬂows)
+53E30 Flows related to complex manifolds (e.g., K¨ahler-Ricci flows, Chern-Ricci flows)
 
-53E40 Higher
-
-
-
-order geometric ﬂows
+53E40 Higher-order geometric flows
 
 53E50 Flows related to symplectic and contact structures
 
@@ -9198,17 +8432,13 @@ order geometric ﬂows
 
 54A20 Convergence in general topology (sequences, filters, limits, convergence spaces, nets, etc.)
 
-54A25 Cardinality properties (cardinal functions and inequalities, discrete subsets) [See also 03Exx] {For ultrafilters,
-
-see 54D80}
+54A25 Cardinality properties (cardinal functions and inequalities, discrete subsets) [See also 03Exx] {For ultrafilters, see 54D80}
 
 54A35 Consistency and independence results in general topology [See also 03E35]
 
 54A40 Fuzzy topology [See also 03E72]
 
 54A99 None of the above, but in this section
-
-142
 
 54Bxx Basic constructions in general topology
 
@@ -9250,15 +8480,7 @@ see 54D80}
 
 54C40 Algebraic properties of function spaces in general topology [See also 46Exx]
 
-54C45 C
-
-
-
-and C ∗
-
-
-
-embedding
+54C45 C and C ∗ embedding
 
 54C50 Topology of special sets defined by functions [See also 26A21]
 
@@ -9276,8 +8498,6 @@ spaces (general properties) [See also 55M15]
 
 54C99 None of the above, but in this section
 
-143
-
 54Dxx Fairly general properties of topological spaces
 
 54D05 Connected and locally connected spaces (general aspects)
@@ -9288,15 +8508,7 @@ spaces (general properties) [See also 55M15]
 
 54D20 Noncompact covering properties (paracompact, Lindel¨of, etc.)
 
-54D25 “P
-
-
-
-minimal” and “P
-
-
-
-closed” spaces
+54D25 "P-minimal" and "P-closed" spaces
 
 54D30 Compactness
 
@@ -9304,17 +8516,9 @@ closed” spaces
 
 54D40 Remainders in general topology
 
-54D45 Local compactness, σ
+54D45 Local compactness, σ-compactness
 
-
-
-compactness
-
-54D50 k
-
-
-
-spaces
+54D50 k-spaces
 
 54D55 Sequential spaces
 
@@ -9336,19 +8540,7 @@ spaces
 
 54E17 Nearness spaces
 
-54E18 p
-
-
-
-spaces, M
-
-
-
-spaces, σ
-
-
-
-spaces, etc.
+54E18 p-spaces, M-spaces, σ-spaces, etc.
 
 54E20 Stratifiable spaces, cosmic spaces, etc.
 
@@ -9372,13 +8564,9 @@ spaces, etc.
 
 54E99 None of the above, but in this section
 
-144
-
 54Fxx Special properties of topological spaces
 
-54F05 Linearly ordered topological spaces, generalized ordered spaces, and partially ordered spaces [See also 06B30,
-
-06F30]
+54F05 Linearly ordered topological spaces, generalized ordered spaces, and partially ordered spaces [See also 06B30, 06F30]
 
 54F15 Continua and generalizations
 
@@ -9402,11 +8590,7 @@ spaces, etc.
 
 54G05 Extremally disconnected spaces, F -spaces, etc.
 
-54G10 P
-
-
-
-spaces
+54G10 P-spaces
 
 54G12 Scattered spaces
 
@@ -9418,9 +8602,7 @@ spaces
 
 54Hxx Connections of general topology with other structures, applications
 
-54H05 Descriptive set theory (topological aspects of Borel, analytic, projective, etc. sets) [See also 03E15, 26A21,
-
-28A05]
+54H05 Descriptive set theory (topological aspects of Borel, analytic, projective, etc. sets) [See also 03E15, 26A21, 28A05]
 
 54H10 Topological representations of algebraic systems [See also 22-XX]
 
@@ -9434,9 +8616,7 @@ spaces
 
 54H25 Fixed-point and coincidence theorems (topological aspects) [See also 47H10, 55M20]
 
-54H30 Applications of general topology to computer science (e.g., digital topology, image processing) [See also
-
-68U03]
+54H30 Applications of general topology to computer science (e.g., digital topology, image processing) [See also 68U03]
 
 54H99 None of the above, but in this section
 
@@ -9446,13 +8626,7 @@ spaces
 
 54J99 None of the above, but in this section
 
-145
-
-55
-
-
-
-XX Algebraic topology
+55-XX Algebraic topology
 
 55-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to algebraic topology
 
@@ -9482,9 +8656,7 @@ XX Algebraic topology
 
 55M25 Degree, winding number
 
-55M30 Lyusternik-Shnirel’man category of a space, topological complexity `a la Farber, topological robotics (topo-
-
-logical aspects)
+55M30 Lyusternik-Shnirel’man category of a space, topological complexity `a la Farber, topological robotics (topological aspects)
 
 55M35 Finite groups of transformations in algebraic topology (including Smith theory) [See also 57S17]
 
@@ -9492,11 +8664,7 @@ logical aspects)
 
 55Nxx Homology and cohomology theories in algebraic topology {For homology and cohomology of topological groups and related structures, see 57Txx} 55N05 ˇCech types
 
-55N07 Steenrod
-
-
-
-Sitnikov homologies
+55N07 Steenrod-Sitnikov homologies
 
 55N10 Singular homology and cohomology theory
 
@@ -9504,9 +8672,7 @@ Sitnikov homologies
 
 55N20 Generalized (extraordinary) homology and cohomology theories in algebraic topology
 
-55N22 Bordism and cobordism theories and formal group laws in algebraic topology [See also 14L05, 19L41, 57R75,
-
-57R77, 57R85, 57R90]
+55N22 Bordism and cobordism theories and formal group laws in algebraic topology [See also 14L05, 19L41, 57R75, 57R77, 57R85, 57R90]
 
 55N25 Homology with local coefficients, equivariant cohomology
 
@@ -9517,8 +8683,6 @@ Sitnikov homologies
 55N32 Orbifold cohomology
 
 55N33 Intersection homology and cohomology in algebraic topology
-
-146
 
 55N34 Elliptic cohomology
 
@@ -9540,23 +8704,11 @@ Sitnikov homologies
 
 55P15 Classification of homotopy type
 
-55P20 Eilenberg
+55P20 Eilenberg-Mac Lane spaces
 
+55P25 Spanier-Whitehead duality
 
-
-Mac Lane spaces
-
-55P25 Spanier
-
-
-
-Whitehead duality
-
-55P30 Eckmann
-
-
-
-Hilton duality
+55P30 Eckmann-Hilton duality
 
 55P35 Loop spaces
 
@@ -9566,11 +8718,7 @@ Hilton duality
 
 55P43 Spectra with additional structure (E∞, A∞, ring spectra, etc.)
 
-55P45 H
-
-
-
-spaces and duals
+55P45 H-spaces and duals
 
 55P47 Infinite loop spaces
 
@@ -9594,8 +8742,6 @@ spaces and duals
 
 55P99 None of the above, but in this section
 
-147
-
 55Qxx Homotopy groups
 
 55Q05 Homotopy groups, general; sets of homotopy classes
@@ -9616,17 +8762,9 @@ spaces and duals
 
 55Q45 Stable homotopy of spheres
 
-55Q50 J
+55Q50 J-morphism [See also 19L20]
 
-
-
-morphism [See also 19L20]
-
-55Q51 vn
-
-
-
-periodicity
+55Q51 vn-periodicity
 
 55Q52 Homotopy groups of special spaces
 
@@ -9660,23 +8798,11 @@ periodicity
 
 55R45 Homology and homotopy of BO and BU; Bott periodicity
 
-55R50 Stable classes of vector space bundles in algebraic topology and relations to K-theory [See also 19Lxx] {For
-
-algebraic K
-
-
-
-theory, see 18F25, 19
-
-
-
-XX}
+55R50 Stable classes of vector space bundles in algebraic topology and relations to K-theory [See also 19Lxx] {For algebraic K-theory, see 18F25, 19-XX}
 
 55R55 Fiberings with singularities in algebraic topology
 
 55R60 Microbundles and block bundles in algebraic topology [See also 57N55, 57Q50]
-
-148
 
 55R65 Generalizations of fiber spaces and bundles in algebraic topology
 
@@ -9694,11 +8820,7 @@ XX}
 
 55S10 Steenrod algebra
 
-55S12 Dyer
-
-
-
-Lashof operations
+55S12 Dyer-Lashof operations
 
 55S15 Symmetric products and cyclic products in algebraic topology
 
@@ -9716,11 +8838,7 @@ Lashof operations
 
 55S40 Sectioning fiber spaces and bundles in algebraic topology
 
-55S45 Postnikov systems, k
-
-
-
-invariants
+55S45 Postnikov systems, k-invariants
 
 55S91 Equivariant operations and obstructions in algebraic topology [See also 19L47]
 
@@ -9739,8 +8857,6 @@ invariants
 55T25 Generalized cohomology and spectral sequences in algebraic topology
 
 55T99 None of the above, but in this section
-
-149
 
 55Uxx Applied homological algebra and category theory in algebraic topology [See also 18Gxx]
 
@@ -9764,9 +8880,7 @@ invariants
 
 57-XX Manifolds and cell complexes {For complex manifolds, see 32Qxx}
 
-57-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to manifolds and cell
-
-complexes
+57-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to manifolds and cell complexes
 
 57-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to manifolds and cell complexes
 
@@ -9794,21 +8908,13 @@ complexes
 
 57K18 Homology theories in knot theory (Khovanov, Heegaard-Floer, etc.)
 
-57K20 2-dimensional topology (including mapping class groups of surfaces, Teichm¨uller theory, curve complexes,
-
-etc.)
+57K20 2-dimensional topology (including mapping class groups of surfaces, Teichm¨uller theory, curve complexes, etc.)
 
 57K30 General topology of 3-manifolds
 
 57K31 Invariants of 3-manifolds (including skein modules, character varieties)
 
-57K32 Hyperbolic 3
-
-
-
-manifolds
-
-150
+57K32 Hyperbolic 3-manifolds
 
 57K33 Contact structures in 3 dimensions [See also 57R17]
 
@@ -9820,21 +8926,13 @@ manifolds
 
 57K43 Symplectic structures in 4 dimensions [See also 57R17]
 
-57K45 Higher
-
-
-
-dimensional knots and links
+57K45 Higher-dimensional knots and links
 
 57K50 Low-dimensional manifolds of specific dimension 5 or higher
 
 57K99 None of the above, but in this section
 
-57Mxx General low
-
-
-
-dimensional topology
+57Mxx General low-dimensional topology
 
 57M05 Fundamental group, presentations, free differential calculus
 
@@ -9868,25 +8966,19 @@ dimensional topology
 
 57N35 Embeddings and immersions in topological manifolds
 
-57N37 Isotopy and pseudo
-
-
-
-isotopy
+57N37 Isotopy and pseudo-isotopy
 
 57N40 Neighborhoods of submanifolds
 
 57N45 Flatness and tameness of topological manifolds
 
-57N50 Sn−1 ⊂ En, Schoenﬂies problem
+57N50 Sn−1 ⊂ En, Schoenflies problem
 
 57N55 Microbundles and block bundles [See also 55R60, 57Q50]
 
 57N60 Cellularity in topological manifolds
 
 57N65 Algebraic topology of manifolds
-
-151
 
 57N70 Cobordism and concordance in topological manifolds
 
@@ -9904,11 +8996,7 @@ isotopy
 
 57P99 None of the above, but in this section
 
-57Qxx PL
-
-
-
-topology
+57Qxx PL-topology
 
 57Q05 General topology of complexes
 
@@ -9918,37 +9006,21 @@ topology
 
 57Q15 Triangulating manifolds
 
-57Q20 Cobordism in PL
+57Q20 Cobordism in PL-topology
 
-
-
-topology
-
-57Q25 Comparison of PL
-
-
-
-structures: classification, Hauptvermutung
+57Q25 Comparison of PL-structures: classification, Hauptvermutung
 
 57Q30 Engulfing
 
 57Q35 Embeddings and immersions in PL-topology
 
-57Q37 Isotopy in PL
-
-
-
-topology
+57Q37 Isotopy in PL-topology
 
 57Q40 Regular neighborhoods in PL-topology
 
 57Q50 Microbundles and block bundles [See also 55R60, 57N55]
 
-57Q55 Approximations in PL
-
-
-
-topology
+57Q55 Approximations in PL-topology
 
 57Q60 Cobordism and concordance in PL-topology
 
@@ -9956,15 +9028,9 @@ topology
 
 57Q70 Discrete Morse theory and related ideas in manifold topology
 
-57Q91 Equivariant PL
-
-
-
-topology
+57Q91 Equivariant PL-topology
 
 57Q99 None of the above, but in this section
-
-152
 
 57Rxx Differential topology {For foundational questions of differentiable manifolds, see 58Axx; for infinite-dimensional manifolds, see 58Bxx}
 
@@ -10022,39 +9088,13 @@ topology
 
 57R70 Critical points and critical submanifolds in differential topology
 
-57R75 O
+57R75 O and SO cobordism
 
+57R77 Complex cobordism (U and SU cobordism) [See also 55N22]
 
-
-and SO
-
-
-
-cobordism
-
-57R77 Complex cobordism (U
-
-
-
-and SU
-
-
-
-cobordism) [See also 55N22]
-
-57R80 h
-
-
-
-and s
-
-
-
-cobordism
+57R80 h and s cobordism
 
 57R85 Equivariant cobordism
-
-153
 
 57R90 Other types of cobordism [See also 55N22]
 
@@ -10116,8 +9156,6 @@ cobordism
 
 57Z99 None of the above, but in this section
 
-154
-
 58-XX Global analysis, analysis on manifolds [See also 32Cxx, 32Fxx, 32Wxx, 46-XX, 53Cxx] {For nonlinear operators, see 47Hxx; for geo- metric integration theory, see 49Q15}
 
 58-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to global analysis
@@ -10170,13 +9208,7 @@ cobordism
 
 58A99 None of the above, but in this section
 
-155
-
-58Bxx Infinite
-
-
-
-dimensional manifolds
+58Bxx Infinite-dimensional manifolds
 
 58B05 Homotopy and topological questions for infinite-dimensional manifolds
 
@@ -10198,11 +9230,7 @@ dimensional manifolds
 
 58Cxx Calculus on manifolds; nonlinear operators [See also 46Txx, 47Hxx, 47Jxx]
 
-58C05 Real
-
-
-
-valued functions on manifolds
+58C05 Real-valued functions on manifolds
 
 58C06 Set-valued and function-space-valued mappings on manifolds [See also 47H04, 54C60]
 
@@ -10244,8 +9272,6 @@ valued functions on manifolds
 
 58D25 Equations in function spaces; evolution equations [See also 34Gxx, 35K90, 35L90, 35R15, 37Lxx, 47Jxx]
 
-156
-
 58D27 Moduli problems for differential geometric structures
 
 58D29 Moduli problems for topological structures
@@ -10256,9 +9282,7 @@ valued functions on manifolds
 
 58Exx Variational problems in infinite-dimensional spaces
 
-58E05 Abstract critical point theory (Morse theory, Lyusternik-Shnirel’man theory, etc.) in infinite-dimensional
-
-spaces
+58E05 Abstract critical point theory (Morse theory, Lyusternik-Shnirel’man theory, etc.) in infinite-dimensional spaces
 
 58E07 Variational problems in abstract bifurcation theory in infinite-dimensional spaces
 
@@ -10270,15 +9294,9 @@ spaces
 
 58E12 Variational problems concerning minimal surfaces (problems in two independent variables) [See also 49Q05]
 
-58E15 Variational problems concerning extremal problems in several variables; Yang-Mills functionals [See also
+58E15 Variational problems concerning extremal problems in several variables; Yang-Mills functionals [See also 81T13], etc.
 
-81T13], etc.
-
-58E17 Multiobjective variational problems, Pareto optimality, applications to economics, etc.
-
-[See also 90C29,
-
-91Bxx]
+58E17 Multiobjective variational problems, Pareto optimality, applications to economics, etc. [See also 90C29, 91Bxx]
 
 58E20 Harmonic maps, etc. [See also 53C43]
 
@@ -10304,8 +9322,6 @@ spaces
 
 58H99 None of the above, but in this section
 
-157
-
 58Jxx Partial differential equations on manifolds; differential operators [See also 32Wxx, 35-XX, 53Cxx]
 
 58J05 Elliptic equations on manifolds, general theory [See also 35Jxx]
@@ -10320,17 +9336,9 @@ spaces
 
 58J26 Elliptic genera
 
-58J28 Eta
+58J28 Eta invariants, Chern-Simons invariants
 
-
-
-invariants, Chern
-
-
-
-Simons invariants
-
-58J30 Spectral ﬂows
+58J30 Spectral flows
 
 58J32 Boundary value problems on manifolds
 
@@ -10362,15 +9370,11 @@ Simons invariants
 
 58J70 Invariance and symmetry properties for PDEs on manifolds [See also 35A30]
 
-58J72 Correspondences and other transformation methods (e.g., Lie-B¨acklund) for PDEs on manifolds [See also
-
-35A22]
+58J72 Correspondences and other transformation methods (e.g., Lie-B¨acklund) for PDEs on manifolds [See also 35A22]
 
 58J90 Applications of PDEs on manifolds
 
 58J99 None of the above, but in this section
-
-158
 
 58Kxx Theory of singularities and catastrophe theory [See also 32Sxx, 37-XX]
 
@@ -10427,8 +9431,6 @@ Simons invariants
 60-08 Computational methods for problems pertaining to probability theory
 
 60-11 Research data for problems pertaining to probability theory
-
-159
 
 60Axx Foundations of probability theory
 
@@ -10490,21 +9492,11 @@ Simons invariants
 
 60F17 Functional limit theorems; invariance principles
 
-60F20 Zero
+60F20 Zero-one laws
 
-
-
-one laws
-
-60F25 Lp
-
-
-
-limit theorems
+60F25 Lp-limit theorems
 
 60F99 None of the above, but in this section
-
-160
 
 60Gxx Stochastic processes
 
@@ -10516,21 +9508,13 @@ limit theorems
 
 60G10 Stationary stochastic processes
 
-60G12 General second
-
-
-
-order stochastic processes
+60G12 General second order stochastic processes
 
 60G15 Gaussian processes
 
 60G17 Sample path properties
 
-60G18 Self
-
-
-
-similar stochastic processes
+60G18 Self-similar stochastic processes
 
 60G20 Generalized stochastic processes
 
@@ -10572,8 +9556,6 @@ similar stochastic processes
 
 60G99 None of the above, but in this section
 
-161
-
 60Hxx Stochastic analysis [See also 58J65]
 
 60H05 Stochastic integrals
@@ -10606,9 +9588,7 @@ similar stochastic processes
 
 60J10 Markov chains (discrete-time Markov processes on discrete state spaces)
 
-60J20 Applications of Markov chains and discrete-time Markov processes on general state spaces (social mobility,
-
-learning theory, industrial processes, etc.) [See also 90B30, 91D10, 91E40]
+60J20 Applications of Markov chains and discrete-time Markov processes on general state spaces (social mobility, learning theory, industrial processes, etc.) [See also 90B30, 91D10, 91E40]
 
 60J22 Computational methods in Markov chains [See also 65C40]
 
@@ -10636,37 +9616,17 @@ learning theory, industrial processes, etc.) [See also 90B30, 91D10, 91E40]
 
 60J65 Brownian motion [See also 58J65]
 
-60J67 Stochastic (Schramm
-
-
-
-)Loewner evolution (SLE)
+60J67 Stochastic (Schramm)Loewner evolution (SLE)
 
 60J68 Superprocesses
 
-162
-
-60J70 Applications of Brownian motions and diffusion theory (population genetics, absorption problems, etc.) [See
-
-also 92Dxx]
+60J70 Applications of Brownian motions and diffusion theory (population genetics, absorption problems, etc.) [See also 92Dxx]
 
 60J74 Jump processes on discrete state spaces
 
 60J76 Jump processes on general state spaces
 
-60J80 Branching processes (Galton
-
-
-
-Watson, birth
-
-
-
-and
-
-
-
-death, etc.)
+60J80 Branching processes (Galton-Watson, birth and death, etc.)
 
 60J85 Applications of branching processes [See also 92Dxx]
 
@@ -10718,13 +9678,7 @@ death, etc.)
 
 60L99 None of the above, but in this section
 
-163
-
-62
-
-
-
-XX Statistics
+62-XX Statistics
 
 62-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to statistics
 
@@ -10785,8 +9739,6 @@ XX Statistics
 62C86 Statistical decision theory and fuzziness
 
 62C99 None of the above, but in this section
-
-164
 
 62Dxx Statistical sampling theory and related topics
 
@@ -10852,8 +9804,6 @@ XX Statistics
 
 62G15 Nonparametric tolerance and confidence regions
 
-165
-
 62G20 Asymptotic properties of nonparametric inference
 
 62G30 Order statistics; empirical distribution functions
@@ -10886,9 +9836,7 @@ XX Statistics
 
 62H25 Factor analysis and principal components; correspondence analysis
 
-62H30 Classification and discrimination; cluster analysis (statistical aspects) [See also 68T10, 91C20]; mixture
-
-models
+62H30 Classification and discrimination; cluster analysis (statistical aspects) [See also 68T10, 91C20]; mixture models
 
 62H35 Image analysis in multivariate analysis
 
@@ -10915,8 +9863,6 @@ models
 62J86 Fuzziness, and linear inference and regression
 
 62J99 None of the above, but in this section
-
-166
 
 62Kxx Design of statistical experiments [See also 05Bxx]
 
@@ -10956,17 +9902,9 @@ models
 
 62M05 Markov processes: estimation; hidden Markov models
 
-62M07 Non
+62M07 Non-Markovian processes: hypothesis testing
 
-
-
-Markovian processes: hypothesis testing
-
-62M09 Non
-
-
-
-Markovian processes: estimation
+62M09 Non-Markovian processes: estimation
 
 62M10 Time series, auto-correlation, regression, etc. in statistics (GARCH) [See also 91B84]
 
@@ -10983,8 +9921,6 @@ Markovian processes: estimation
 62M86 Inference from stochastic processes and fuzziness
 
 62M99 None of the above, but in this section
-
-167
 
 62Nxx Survival analysis and censored data
 
@@ -11030,9 +9966,7 @@ Markovian processes: estimation
 
 62R01 Algebraic statistics
 
-62R07 Statistical aspects of big data and data science {For computer science aspects, see 68T09; for information-
-
-theoretic aspects, see 94A16}
+62R07 Statistical aspects of big data and data science {For computer science aspects, see 68T09; for information-theoretic aspects, see 94A16}
 
 62R10 Functional data analysis
 
@@ -11044,13 +9978,7 @@ theoretic aspects, see 94A16}
 
 62R99 None of the above, but in this section
 
-168
-
-65
-
-
-
-XX Numerical analysis
+65-XX Numerical analysis
 
 65-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to numerical analysis
 
@@ -11090,9 +10018,7 @@ XX Numerical analysis
 
 65C20 Probabilistic models, generic numerical methods in probability and statistics [See also 60-08, 62-08]
 
-65C30 Numerical solutions to stochastic differential and integral equations {For theoretical aspects, see 60H35}
-
-[See also 65M75, 65N75]
+65C30 Numerical solutions to stochastic differential and integral equations {For theoretical aspects, see 60H35} [See also 65M75, 65N75]
 
 65C35 Stochastic particle methods [See also 82M60]
 
@@ -11112,13 +10038,9 @@ XX Numerical analysis
 
 65D15 Algorithms for approximation of functions
 
-169
-
 65D17 Computer-aided design (modeling of curves and surfaces) [See also 68U07]
 
-65D18 Numerical aspects of computer graphics, image analysis, and computational geometry [See also 51N05,
-
-68U05]
+65D18 Numerical aspects of computer graphics, image analysis, and computational geometry [See also 51N05, 68U05]
 
 65D19 Computational issues in computer and robotic vision
 
@@ -11136,13 +10058,7 @@ XX Numerical analysis
 
 65Exx Numerical methods in complex analysis (potential theory, etc.)
 
-65E05 General theory of numerical methods in complex analysis (potential theory, etc.) [See also 30-08, 31-08,
-
-32
-
-
-
-08]
+65E05 General theory of numerical methods in complex analysis (potential theory, etc.) [See also 30-08, 31-08, 32-08]
 
 65E10 Numerical methods in conformal mappings [See also 30C30]
 
@@ -11180,8 +10096,6 @@ XX Numerical analysis
 
 65F99 None of the above, but in this section
 
-170
-
 65Gxx Error analysis and interval analysis
 
 65G20 Algorithms with automatic result verification
@@ -11204,13 +10118,9 @@ XX Numerical analysis
 
 65H14 Numerical algebraic geometry
 
-65H17 Numerical solution of nonlinear eigenvalue and eigenvector problems [See also 47Hxx, 47Jxx, 58C40, 58E07,
+65H17 Numerical solution of nonlinear eigenvalue and eigenvector problems [See also 47Hxx, 47Jxx, 58C40, 58E07, 90C30]
 
-90C30]
-
-65H20 Global methods, including homotopy approaches to the numerical solution of nonlinear equations [See also
-
-58C30, 90C30]
+65H20 Global methods, including homotopy approaches to the numerical solution of nonlinear equations [See also 58C30, 90C30]
 
 65H99 None of the above, but in this section
 
@@ -11239,8 +10149,6 @@ XX Numerical analysis
 65K15 Numerical methods for variational inequalities and related problems
 
 65K99 None of the above, but in this section
-
-171
 
 65Lxx Numerical methods for ordinary differential equations
 
@@ -11284,57 +10192,33 @@ XX Numerical analysis
 
 65M08 Finite volume methods for initial value and initial-boundary value problems involving PDEs
 
-65M12 Stability and convergence of numerical methods for initial value and initial-boundary value problems in-
-
-volving PDEs
+65M12 Stability and convergence of numerical methods for initial value and initial-boundary value problems involving PDEs
 
 65M15 Error bounds for initial value and initial-boundary value problems involving PDEs
 
 65M20 Method of lines for initial value and initial-boundary value problems involving PDEs
 
-65M22 Numerical solution of discretized equations for initial value and initial-boundary value problems involving
+65M22 Numerical solution of discretized equations for initial value and initial-boundary value problems involving PDEs [See also 65Fxx, 65Hxx]
 
-PDEs [See also 65Fxx, 65Hxx]
+65M25 Numerical aspects of the method of characteristics for initial value and initial-boundary value problems involving PDEs
 
-65M25 Numerical aspects of the method of characteristics for initial value and initial-boundary value problems
+65M30 Numerical methods for ill-posed problems for initial value and initial-boundary value problems involving PDEs
 
-involving PDEs
-
-65M30 Numerical methods for ill-posed problems for initial value and initial-boundary value problems involving
-
-PDEs
-
-65M32 Numerical methods for inverse problems for initial value and initial-boundary value problems involving
-
-PDEs
+65M32 Numerical methods for inverse problems for initial value and initial-boundary value problems involving PDEs
 
 65M38 Boundary element methods for initial value and initial-boundary value problems involving PDEs
 
-172
+65M50 Mesh generation, refinement, and adaptive methods for the numerical solution of initial value and initial boundary value problems involving PDEs
 
-65M50 Mesh generation, refinement, and adaptive methods for the numerical solution of initial value and initial-
+65M55 Multigrid methods; domain decomposition for initial value and initial-boundary value problems involving PDEs
 
-boundary value problems involving PDEs
+65M60 Finite element, Rayleigh-Ritz and Galerkin methods for initial value and initial-boundary value problems involving PDEs
 
-65M55 Multigrid methods; domain decomposition for initial value and initial-boundary value problems involving
+65M70 Spectral, collocation and related methods for initial value and initial-boundary value problems involving PDEs
 
-PDEs
+65M75 Probabilistic methods, particle methods, etc. for initial value and initial-boundary value problems involving PDEs
 
-65M60 Finite element, Rayleigh-Ritz and Galerkin methods for initial value and initial-boundary value problems
-
-involving PDEs
-
-65M70 Spectral, collocation and related methods for initial value and initial-boundary value problems involving
-
-PDEs
-
-65M75 Probabilistic methods, particle methods, etc. for initial value and initial-boundary value problems involving
-
-PDEs
-
-65M80 Fundamental solutions, Green’s function methods, etc. for initial value and initial-boundary value problems
-
-involving PDEs
+65M80 Fundamental solutions, Green’s function methods, etc. for initial value and initial-boundary value problems involving PDEs
 
 65M85 Fictitious domain methods for initial value and initial-boundary value problems involving PDEs
 
@@ -11354,9 +10238,7 @@ involving PDEs
 
 65N21 Numerical methods for inverse problems for boundary value problems involving PDEs
 
-65N22 Numerical solution of discretized equations for boundary value problems involving PDEs [See also 65Fxx,
-
-65Hxx]
+65N22 Numerical solution of discretized equations for boundary value problems involving PDEs [See also 65Fxx, 65Hxx]
 
 65N25 Numerical methods for eigenvalue problems for boundary value problems involving PDEs
 
@@ -11381,8 +10263,6 @@ involving PDEs
 65N85 Fictitious domain methods for boundary value problems involving PDEs
 
 65N99 None of the above, but in this section
-
-173
 
 65Pxx Numerical problems in dynamical systems [See also 37Mxx]
 
@@ -11450,8 +10330,6 @@ involving PDEs
 
 65Y99 None of the above, but in this section
 
-174
-
 65Zxx Applications to the sciences
 
 65Z05 Applications to the sciences
@@ -11492,9 +10370,7 @@ involving PDEs
 
 68M18 Wireless sensor networks as related to computer science [See also 90B18, 90B80]
 
-68M20 Performance evaluation, queueing, and scheduling in the context of computer systems [See also 60K20,
-
-60K25, 90B22, 90B35, 90B36]
+68M20 Performance evaluation, queueing, and scheduling in the context of computer systems [See also 60K20, 60K25, 90B22, 90B35, 90B36]
 
 68M25 Computer security
 
@@ -11511,8 +10387,6 @@ involving PDEs
 68N18 Functional programming and lambda calculus [See also 03B40]
 
 68N19 Other programming paradigms (object-oriented, sequential, concurrent, automatic, etc.)
-
-175
 
 68N20 Theory of compilers and interpreters
 
@@ -11538,9 +10412,7 @@ involving PDEs
 
 68P27 Privacy of data
 
-68P30 Coding and information theory (compaction, compression, models of communication, encoding schemes, etc.)
-
-(aspects in computer science) [See also 94Axx, 94Bxx]
+68P30 Coding and information theory (compaction, compression, models of communication, encoding schemes, etc.) (aspects in computer science) [See also 94Axx, 94Bxx]
 
 68P99 None of the above, but in this section
 
@@ -11564,9 +10436,7 @@ involving PDEs
 
 68Q15 Complexity classes (hierarchies, relations among complexity classes, etc.) [See also 03D15, 68Q17, 68Q19]
 
-68Q17 Computational difficulty of problems (lower bounds, completeness, difficulty of approximation, etc.) [See
-
-also 68Q15]
+68Q17 Computational difficulty of problems (lower bounds, completeness, difficulty of approximation, etc.) [See also 68Q15]
 
 68Q19 Descriptive complexity and finite models [See also 03C13]
 
@@ -11580,8 +10450,6 @@ also 68Q15]
 
 68Q42 Grammars and rewriting systems
 
-176
-
 68Q45 Formal languages and automata [See also 03D05, 68Q70, 94A45]
 
 68Q55 Semantics in the theory of computing [See also 03B70, 06B35, 18C50]
@@ -11594,13 +10462,9 @@ also 68Q15]
 
 68Q80 Cellular automata (computational aspects) {For cellular automata as dynamical systems, see 37B15}
 
-68Q85 Models and methods for concurrent and distributed computing (process algebras, bisimulation, transition
+68Q85 Models and methods for concurrent and distributed computing (process algebras, bisimulation, transition nets, etc.)
 
-nets, etc.)
-
-68Q87 Probability in computer science (algorithm analysis, random structures, phase transitions, etc.) [See also
-
-68W20, 68W40]
+68Q87 Probability in computer science (algorithm analysis, random structures, phase transitions, etc.) [See also 68W20, 68W40]
 
 68Q99 None of the above, but in this section
 
@@ -11638,9 +10502,7 @@ nets, etc.)
 
 68T30 Knowledge representation
 
-68T35 Theory of languages and software systems (knowledge-based systems, expert systems, etc.) for artificial
-
-intelligence
+68T35 Theory of languages and software systems (knowledge-based systems, expert systems, etc.) for artificial intelligence
 
 68T37 Reasoning under uncertainty in the context of artificial intelligence
 
@@ -11654,23 +10516,13 @@ intelligence
 
 68T99 None of the above, but in this section
 
-177
-
 68Uxx Computing methodologies and applications
 
 68U01 General topics in computing methodologies
 
-68U03 Computational aspects of digital topology {For topological aspects, see 54H30; for homological aspects, see
+68U03 Computational aspects of digital topology {For topological aspects, see 54H30; for homological aspects, see 55-XX}
 
-55
-
-
-
-XX}
-
-68U05 Computer graphics; computational geometry (digital and algorithmic aspects) {For methods of numerical
-
-mathematics, see 65D18}
+68U05 Computer graphics; computational geometry (digital and algorithmic aspects) {For methods of numerical mathematics, see 65D18}
 
 68U07 Computer science aspects of computer-aided design {For methods of numerical mathematics, see 65D17}
 
@@ -11678,9 +10530,7 @@ mathematics, see 65D18}
 
 68U15 Computing methodologies for text processing; mathematical typography
 
-68U35 Computing methodologies for information systems (hypertext navigation, interfaces, decision support, etc.)
-
-[See also 68M11]
+68U35 Computing methodologies for information systems (hypertext navigation, interfaces, decision support, etc.) [See also 68M11]
 
 68U99 None of the above, but in this section
 
@@ -11718,9 +10568,7 @@ ploying automated or interactive theorem provers, see 68V15}
 
 68W27 Online algorithms; streaming algorithms
 
-68W30 Symbolic computation and algebraic computation [See also 11Yxx, 12-08, 13Pxx, 14Qxx, 16Z05, 17-08,
-
-33F10]
+68W30 Symbolic computation and algebraic computation [See also 11Yxx, 12-08, 13Pxx, 14Qxx, 16Z05, 17-08, 33F10]
 
 68W32 Algorithms on strings
 
@@ -11732,13 +10580,9 @@ ploying automated or interactive theorem provers, see 68V15}
 
 68W99 None of the above, but in this section
 
-178
-
 70-XX Mechanics of particles and systems {For relativistic mechanics, see 83A05, 83C10; for statistical mechanics, see 82-XX}
 
-70-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to mechanics of particles
-
-and systems
+70-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to mechanics of particles and systems
 
 70-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to mechanics of particles and systems
 
@@ -11796,8 +10640,6 @@ and systems
 
 70E45 Higher-dimensional generalizations in rigid body dynamics
 
-179
-
 70E50 Stability problems in rigid body dynamics
 
 70E55 Dynamics of multibody systems
@@ -11808,23 +10650,11 @@ and systems
 
 70Fxx Dynamics of a system of particles, including celestial mechanics
 
-70F05 Two
+70F05 Two-body problems
 
+70F07 Three-body problems
 
-
-body problems
-
-70F07 Three
-
-
-
-body problems
-
-70F10 n
-
-
-
-body problems
+70F10 n-body problems
 
 70F15 Celestial mechanics
 
@@ -11846,15 +10676,11 @@ body problems
 
 70Gxx General models, approaches, and methods in mechanics of particles and systems [See also 37-XX]
 
-70G10 Generalized coordinates; event, impulse-energy, configuration, state, or phase space for problems in mechan-
-
-ics
+70G10 Generalized coordinates; event, impulse-energy, configuration, state, or phase space for problems in mechanics
 
 70G40 Topological and differential topological methods for problems in mechanics
 
-70G45 Differential geometric methods (tensors, connections, symplectic, Poisson, contact, Riemannian, nonholo-
-
-nomic, etc.) for problems in mechanics [See also 53Cxx, 53Dxx, 58Axx]
+70G45 Differential geometric methods (tensors, connections, symplectic, Poisson, contact, Riemannian, nonholonomic, etc.) for problems in mechanics [See also 53Cxx, 53Dxx, 58Axx]
 
 70G55 Algebraic geometry methods for problems in mechanics
 
@@ -11868,17 +10694,13 @@ nomic, etc.) for problems in mechanics [See also 53Cxx, 53Dxx, 58Axx]
 
 70G99 None of the above, but in this section
 
-180
-
 70Hxx Hamiltonian and Lagrangian mechanics [See also 37Jxx]
 
 70H03 Lagrange’s equations
 
 70H05 Hamilton’s equations
 
-70H06 Completely integrable systems and methods of integration for problems in Hamiltonian and Lagrangian
-
-mechanics
+70H06 Completely integrable systems and methods of integration for problems in Hamiltonian and Lagrangian mechanics
 
 70H07 Nonintegrable systems for problems in Hamiltonian and Lagrangian mechanics
 
@@ -11894,19 +10716,13 @@ mechanics
 
 70H15 Canonical and symplectic transformations for problems in Hamiltonian and Lagrangian mechanics
 
-70H20 Hamilton
-
-
-
-Jacobi equations in mechanics
+70H20 Hamilton-Jacobi equations in mechanics
 
 70H25 Hamilton’s principle
 
 70H30 Other variational principles in mechanics
 
-70H33 Symmetries and conservation laws, reverse symmetries, invariant manifolds and their bifurcations, reduction
-
-for problems in Hamiltonian and Lagrangian mechanics
+70H33 Symmetries and conservation laws, reverse symmetries, invariant manifolds and their bifurcations, reduction for problems in Hamiltonian and Lagrangian mechanics
 
 70H40 Relativistic dynamics for problems in Hamiltonian and Lagrangian mechanics
 
@@ -11931,8 +10747,6 @@ for problems in Hamiltonian and Lagrangian mechanics
 70J50 Systems arising from the discretization of structural vibration problems
 
 70J99 None of the above, but in this section
-
-181
 
 70Kxx Nonlinear dynamics in mechanics [See also 34Cxx, 37-XX]
 
@@ -11996,8 +10810,6 @@ for problems in Hamiltonian and Lagrangian mechanics
 
 70Q99 None of the above, but in this section
 
-182
-
 70Sxx Classical field theories [See also 37Kxx, 37Lxx, 78-XX, 81Txx, 83-XX]
 
 70S05 Lagrangian formalism and Hamiltonian formalism in mechanics of particles and systems
@@ -12012,9 +10824,7 @@ for problems in Hamiltonian and Lagrangian mechanics
 
 74-XX Mechanics of deformable solids
 
-74-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to mechanics of deformable
-
-solids
+74-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to mechanics of deformable solids
 
 74-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to mechanics of deformable solids
 
@@ -12064,8 +10874,6 @@ solids
 
 74A99 None of the above, but in this section
 
-183
-
 74Bxx Elastic materials
 
 74B05 Classical linear elasticity
@@ -12086,15 +10894,7 @@ solids
 
 74C15 Large-strain, rate-independent theories of plasticity (including nonlinear plasticity)
 
-74C20 Large
-
-
-
-strain, rate
-
-
-
-dependent theories of plasticity
+74C20 Large-strain, rate-dependent theories of plasticity
 
 74C99 None of the above, but in this section
 
@@ -12130,19 +10930,7 @@ dependent theories of plasticity
 
 74F05 Thermal effects in solid mechanics
 
-74F10 Fluid
-
-
-
-solid interactions (including aero
-
-
-
-and hydro
-
-
-
-elasticity, porosity, etc.)
+74F10 Fluid-solid interactions (including aero and hydro elasticity, porosity, etc.)
 
 74F15 Electromagnetic effects in solid mechanics
 
@@ -12152,15 +10940,11 @@ elasticity, porosity, etc.)
 
 74F99 None of the above, but in this section
 
-184
-
 74Gxx Equilibrium (steady-state) problems in solid mechanics
 
 74G05 Explicit solutions of equilibrium problems in solid mechanics
 
-74G10 Analytic approximation of solutions (perturbation methods, asymptotic methods, series, etc.) of equilibrium
-
-problems in solid mechanics
+74G10 Analytic approximation of solutions (perturbation methods, asymptotic methods, series, etc.) of equilibrium problems in solid mechanics
 
 74G15 Numerical approximation of solutions of equilibrium problems in solid mechanics
 
@@ -12174,11 +10958,7 @@ problems in solid mechanics
 
 74G45 Bounds for solutions of equilibrium problems in solid mechanics
 
-74G50 Saint
-
-
-
-Venant’s principle
+74G50 Saint-Venant's principle
 
 74G55 Qualitative behavior of solutions of equilibrium problems in solid mechanics
 
@@ -12196,9 +10976,7 @@ Venant’s principle
 
 74H05 Explicit solutions of dynamical problems in solid mechanics
 
-74H10 Analytic approximation of solutions (perturbation methods, asymptotic methods, series, etc.) of dynamical
-
-problems in solid mechanics
+74H10 Analytic approximation of solutions (perturbation methods, asymptotic methods, series, etc.) of dynamical problems in solid mechanics
 
 74H15 Numerical approximation of solutions of dynamical problems in solid mechanics
 
@@ -12227,8 +11005,6 @@ problems in solid mechanics
 74H80 Energy minimization in dynamical problems in solid mechanics
 
 74H99 None of the above, but in this section
-
-185
 
 74Jxx Waves in solid mechanics
 
@@ -12292,8 +11068,6 @@ problems in solid mechanics
 
 74M99 None of the above, but in this section
 
-186
-
 74Nxx Phase transformations in solids [See also 74A50, 80A22, 82B26, 82C26]
 
 74N05 Crystals in solids
@@ -12340,17 +11114,11 @@ problems in solid mechanics
 
 74R10 Brittle fracture
 
-74R15 High
-
-
-
-velocity fracture
+74R15 High-velocity fracture
 
 74R20 Anelastic fracture and damage
 
 74R99 None of the above, but in this section
-
-187
 
 74Sxx Numerical and other methods in solid mechanics [See also 65-XX, 74G15, 74H15]
 
@@ -12378,123 +11146,109 @@ velocity fracture
 
 76-XX Fluid mechanics {For general continuum mechanics, see 74Axx, or other parts of 74-XX}
 
-76-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to ﬂuid mechanics
+76-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to fluid mechanics
 
-76-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to ﬂuid mechanics
+76-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to fluid mechanics
 
-76-02 Research exposition (monographs, survey articles) pertaining to ﬂuid mechanics
+76-02 Research exposition (monographs, survey articles) pertaining to fluid mechanics
 
-76-03 History of ﬂuid mechanics [Consider also classification numbers from Section 01]
+76-03 History of fluid mechanics [Consider also classification numbers from Section 01]
 
-76-04 Software, source code, etc. for problems pertaining to ﬂuid mechanics
+76-04 Software, source code, etc. for problems pertaining to fluid mechanics
 
-76-05 Experimental work for problems pertaining to ﬂuid mechanics
+76-05 Experimental work for problems pertaining to fluid mechanics
 
-76-06 Proceedings, conferences, collections, etc. pertaining to ﬂuid mechanics
+76-06 Proceedings, conferences, collections, etc. pertaining to fluid mechanics
 
-76-10 Mathematical modeling or simulation for problems pertaining to ﬂuid mechanics
+76-10 Mathematical modeling or simulation for problems pertaining to fluid mechanics
 
-76-11 Research data for problems pertaining to ﬂuid mechanics
+76-11 Research data for problems pertaining to fluid mechanics
 
-76Axx Foundations, constitutive equations, rheology, hydrodynamical models of non- ﬂuid phenomena
+76Axx Foundations, constitutive equations, rheology, hydrodynamical models of non- fluid phenomena
 
-76A02 Foundations of ﬂuid mechanics
+76A02 Foundations of fluid mechanics
 
-76A05 Non
+76A05 Non-Newtonian fluids
 
-
-
-Newtonian ﬂuids
-
-76A10 Viscoelastic ﬂuids
+76A10 Viscoelastic fluids
 
 76A15 Liquid crystals [See also 82D30]
 
-76A20 Thin ﬂuid films
+76A20 Thin fluid films
 
-76A25 Superﬂuids (classical aspects)
+76A25 Superfluids (classical aspects)
 
-76A30 Traffic and pedestrian ﬂow models
+76A30 Traffic and pedestrian flow models
 
 76A99 None of the above, but in this section
 
-188
+76Bxx Incompressible inviscid fluids
 
-76Bxx Incompressible inviscid ﬂuids
+76B03 Existence, uniqueness, and regularity theory for incompressible inviscid fluids [See also 35Q35]
 
-76B03 Existence, uniqueness, and regularity theory for incompressible inviscid ﬂuids [See also 35Q35]
+76B07 Free-surface potential flows for incompressible inviscid fluids
 
-76B07 Free-surface potential ﬂows for incompressible inviscid ﬂuids
-
-76B10 Jets and cavities, cavitation, free-streamline theory, water-entry problems, airfoil and hydrofoil theory, slosh-
-
-ing
+76B10 Jets and cavities, cavitation, free-streamline theory, water-entry problems, airfoil and hydrofoil theory, sloshing
 
 76B15 Water waves, gravity waves; dispersion and scattering, nonlinear interaction [See also 35Q30]
 
 76B20 Ship waves
 
-76B25 Solitary waves for incompressible inviscid ﬂuids [See also 35C11]
+76B25 Solitary waves for incompressible inviscid fluids [See also 35C11]
 
-76B45 Capillarity (surface tension) for incompressible inviscid ﬂuids [See also 76D45]
+76B45 Capillarity (surface tension) for incompressible inviscid fluids [See also 76D45]
 
-76B47 Vortex ﬂows for incompressible inviscid ﬂuids
+76B47 Vortex flows for incompressible inviscid fluids
 
-76B55 Internal waves for incompressible inviscid ﬂuids
+76B55 Internal waves for incompressible inviscid fluids
 
-76B70 Stratification effects in inviscid ﬂuids
+76B70 Stratification effects in inviscid fluids
 
-76B75 Flow control and optimization for incompressible inviscid ﬂuids [See also 49Q10, 93C20, 93C95]
+76B75 Flow control and optimization for incompressible inviscid fluids [See also 49Q10, 93C20, 93C95]
 
 76B99 None of the above, but in this section
 
-76Dxx Incompressible viscous ﬂuids
+76Dxx Incompressible viscous fluids
 
-76D03 Existence, uniqueness, and regularity theory for incompressible viscous ﬂuids [See also 35Q30]
+76D03 Existence, uniqueness, and regularity theory for incompressible viscous fluids [See also 35Q30]
 
-76D05 Navier-Stokes equations for incompressible viscous ﬂuids [See also 35Q30]
+76D05 Navier-Stokes equations for incompressible viscous fluids [See also 35Q30]
 
 76D06 Statistical solutions of Navier-Stokes and related equations [See also 60H30, 76M35]
 
-76D07 Stokes and related (Oseen, etc.) ﬂows
+76D07 Stokes and related (Oseen, etc.) flows
 
 76D08 Lubrication theory
 
-76D09 Viscous
-
-
-
-inviscid interaction
+76D09 Viscous inviscid interaction
 
 76D10 Boundary-layer theory, separation and reattachment, higher-order effects
 
-76D17 Viscous vortex ﬂows
+76D17 Viscous vortex flows
 
 76D25 Wakes and jets
 
-76D27 Other free boundary ﬂows; Hele-Shaw ﬂows
+76D27 Other free boundary flows; Hele-Shaw flows
 
-76D33 Waves for incompressible viscous ﬂuids
+76D33 Waves for incompressible viscous fluids
 
-76D45 Capillarity (surface tension) for incompressible viscous ﬂuids [See also 76B45]
+76D45 Capillarity (surface tension) for incompressible viscous fluids [See also 76B45]
 
-76D50 Stratification effects in viscous ﬂuids
+76D50 Stratification effects in viscous fluids
 
-76D55 Flow control and optimization for incompressible viscous ﬂuids [See also 49Q10, 93C20, 93C95]
+76D55 Flow control and optimization for incompressible viscous fluids [See also 49Q10, 93C20, 93C95]
 
 76D99 None of the above, but in this section
 
-189
-
 76Exx Hydrodynamic stability
 
-76E05 Parallel shear ﬂows in hydrodynamic stability
+76E05 Parallel shear flows in hydrodynamic stability
 
 76E06 Convection in hydrodynamic stability
 
 76E07 Rotation in hydrodynamic stability
 
-76E09 Stability and instability of nonparallel ﬂows in hydrodynamic stability
+76E09 Stability and instability of nonparallel flows in hydrodynamic stability
 
 76E15 Absolute and convective instability and stability in hydrodynamic stability
 
@@ -12502,9 +11256,9 @@ inviscid interaction
 
 76E19 Compressibility effects in hydrodynamic stability
 
-76E20 Stability and instability of geophysical and astrophysical ﬂows
+76E20 Stability and instability of geophysical and astrophysical flows
 
-76E25 Stability and instability of magnetohydrodynamic and electrohydrodynamic ﬂows
+76E25 Stability and instability of magnetohydrodynamic and electrohydrodynamic flows
 
 76E30 Nonlinear effects in hydrodynamic stability
 
@@ -12518,7 +11272,7 @@ inviscid interaction
 
 76F06 Transition to turbulence
 
-76F10 Shear ﬂows and turbulence
+76F10 Shear flows and turbulence
 
 76F20 Dynamical systems approach to turbulence [See also 37-XX]
 
@@ -12536,139 +11290,109 @@ inviscid interaction
 
 76F55 Statistical turbulence modeling [See also 76M35]
 
-76F60 k
-
-
-
-ε modeling in turbulence
+76F60 kε modeling in turbulence
 
 76F65 Direct numerical and large eddy simulation of turbulence
 
-76F70 Control of turbulent ﬂows
+76F70 Control of turbulent flows
 
 76F80 Turbulent combustion; reactive turbulence
 
 76F99 None of the above, but in this section
 
-76Gxx General aerodynamics and subsonic ﬂows
+76Gxx General aerodynamics and subsonic flows
 
-76G25 General aerodynamics and subsonic ﬂows
+76G25 General aerodynamics and subsonic flows
 
 76G99 None of the above, but in this section
 
-190
+76Hxx Transonic flows
 
-76Hxx Transonic ﬂows
-
-76H05 Transonic ﬂows
+76H05 Transonic flows
 
 76H99 None of the above, but in this section
 
-76Jxx Supersonic ﬂows
+76Jxx Supersonic flows
 
-76J20 Supersonic ﬂows
+76J20 Supersonic flows
 
 76J99 None of the above, but in this section
 
-76Kxx Hypersonic ﬂows
+76Kxx Hypersonic flows
 
-76K05 Hypersonic ﬂows
+76K05 Hypersonic flows
 
 76K99 None of the above, but in this section
 
-76Lxx Shock waves and blast waves in ﬂuid mechanics [See also 35L67]
+76Lxx Shock waves and blast waves in fluid mechanics [See also 35L67]
 
-76L05 Shock waves and blast waves in ﬂuid mechanics [See also 35L67]
+76L05 Shock waves and blast waves in fluid mechanics [See also 35L67]
 
 76L99 None of the above, but in this section
 
-76Mxx Basic methods in ﬂuid mechanics [See also 65-XX]
+76Mxx Basic methods in fluid mechanics [See also 65-XX]
 
-76M10 Finite element methods applied to problems in ﬂuid mechanics
+76M10 Finite element methods applied to problems in fluid mechanics
 
-76M12 Finite volume methods applied to problems in ﬂuid mechanics
+76M12 Finite volume methods applied to problems in fluid mechanics
 
-76M15 Boundary element methods applied to problems in ﬂuid mechanics
+76M15 Boundary element methods applied to problems in fluid mechanics
 
-76M20 Finite difference methods applied to problems in ﬂuid mechanics
+76M20 Finite difference methods applied to problems in fluid mechanics
 
-76M21 Inverse problems in ﬂuid mechanics
+76M21 Inverse problems in fluid mechanics
 
-76M22 Spectral methods applied to problems in ﬂuid mechanics
+76M22 Spectral methods applied to problems in fluid mechanics
 
-76M23 Vortex methods applied to problems in ﬂuid mechanics
+76M23 Vortex methods applied to problems in fluid mechanics
 
-76M27 Visualization algorithms applied to problems in ﬂuid mechanics
+76M27 Visualization algorithms applied to problems in fluid mechanics
 
 76M28 Particle methods and lattice-gas methods
 
-76M30 Variational methods applied to problems in ﬂuid mechanics
+76M30 Variational methods applied to problems in fluid mechanics
 
-76M35 Stochastic analysis applied to problems in ﬂuid mechanics
+76M35 Stochastic analysis applied to problems in fluid mechanics
 
-76M40 Complex variables methods applied to problems in ﬂuid mechanics
+76M40 Complex variables methods applied to problems in fluid mechanics
 
-76M45 Asymptotic methods, singular perturbations applied to problems in ﬂuid mechanics
+76M45 Asymptotic methods, singular perturbations applied to problems in fluid mechanics
 
-76M50 Homogenization applied to problems in ﬂuid mechanics
+76M50 Homogenization applied to problems in fluid mechanics
 
-76M55 Dimensional analysis and similarity applied to problems in ﬂuid mechanics
+76M55 Dimensional analysis and similarity applied to problems in fluid mechanics
 
-76M60 Symmetry analysis, Lie group and Lie algebra methods applied to problems in ﬂuid mechanics
+76M60 Symmetry analysis, Lie group and Lie algebra methods applied to problems in fluid mechanics
 
 76M99 None of the above, but in this section
 
-191
+76Nxx Compressible fluids and gas dynamics
 
-76Nxx Compressible ﬂuids and gas dynamics
+76N06 Compressible Navier-Stokes equations
 
-76N06 Compressible Navier
-
-
-
-Stokes equations
-
-76N10 Existence, uniqueness, and regularity theory for compressible ﬂuids and gas dynamics [See also 35L60, 35L65,
-
-35Q30]
+76N10 Existence, uniqueness, and regularity theory for compressible fluids and gas dynamics [See also 35L60, 35L65, 35Q30]
 
 76N15 Gas dynamics (general theory)
 
-76N17 Viscous-inviscid interaction for compressible ﬂuids and gas dynamics
+76N17 Viscous-inviscid interaction for compressible fluids and gas dynamics
 
-76N20 Boundary-layer theory for compressible ﬂuids and gas dynamics
+76N20 Boundary-layer theory for compressible fluids and gas dynamics
 
-76N25 Flow control and optimization for compressible ﬂuids and gas dynamics
+76N25 Flow control and optimization for compressible fluids and gas dynamics
 
-76N30 Waves in compressible ﬂuids
+76N30 Waves in compressible fluids
 
 76N99 None of the above, but in this section
 
-76Pxx Rarefied gas ﬂows, Boltzmann equation in ﬂuid mechanics [See also 82B40, 82C40, 82D05]
+76Pxx Rarefied gas flows, Boltzmann equation in fluid mechanics [See also 82B40, 82C40, 82D05]
 
-76P05 Rarefied gas ﬂows, Boltzmann equation in ﬂuid mechanics [See also 82B40, 82C40, 82D05]
+76P05 Rarefied gas flows, Boltzmann equation in fluid mechanics [See also 82B40, 82C40, 82D05]
 
 76P99 None of the above, but in this section
 
-76Qxx Hydro
+76Qxx Hydro and aero acoustics
 
-
-
-and aero
-
-
-
-acoustics
-
-76Q05 Hydro
-
-
-
-and aero
-
-
-
-acoustics
+76Q05 Hydro and aero acoustics
 
 76Q99 None of the above, but in this section
 
@@ -12688,59 +11412,37 @@ acoustics
 
 76S99 None of the above, but in this section
 
-76Txx Multiphase and multicomponent ﬂows
+76Txx Multiphase and multicomponent flows
 
-76T06 Liquid
+76T06 Liquid-liquid two component flows
 
+76T10 Liquid-gas two-phase flows, bubbly flows
 
+76T15 Dusty-gas two-phase flows
 
-liquid two component ﬂows
-
-76T10 Liquid
-
-
-
-gas two
-
-
-
-phase ﬂows, bubbly ﬂows
-
-76T15 Dusty
-
-
-
-gas two
-
-
-
-phase ﬂows
-
-76T17 Two gas multicomponent ﬂows
+76T17 Two gas multicomponent flows
 
 76T20 Suspensions
 
-76T25 Granular ﬂows [See also 74C99, 74E20]
+76T25 Granular flows [See also 74C99, 74E20]
 
-76T30 Three or more component ﬂows
+76T30 Three or more component flows
 
 76T99 None of the above, but in this section
 
-192
+76Uxx Rotating fluids
 
-76Uxx Rotating ﬂuids
+76U05 General theory of rotating fluids
 
-76U05 General theory of rotating ﬂuids
-
-76U60 Geophysical ﬂows [See also 86A05, 86A10]
+76U60 Geophysical flows [See also 86A05, 86A10]
 
 76U65 Rossby waves [See also 86A05, 86A10]
 
 76U99 None of the above, but in this section
 
-76Vxx Reaction effects in ﬂows [See also 80A32]
+76Vxx Reaction effects in flows [See also 80A32]
 
-76V05 Reaction effects in ﬂows [See also 80A32]
+76V05 Reaction effects in flows [See also 80A32]
 
 76V99 None of the above, but in this section
 
@@ -12750,9 +11452,9 @@ phase ﬂows
 
 76W99 None of the above, but in this section
 
-76Xxx Ionized gas ﬂow in electromagnetic fields; plasmic ﬂow [See also 82D10]
+76Xxx Ionized gas flow in electromagnetic fields; plasmic flow [See also 82D10]
 
-76X05 Ionized gas ﬂow in electromagnetic fields; plasmic ﬂow [See also 82D10]
+76X05 Ionized gas flow in electromagnetic fields; plasmic flow [See also 82D10]
 
 76X99 None of the above, but in this section
 
@@ -12762,9 +11464,9 @@ phase ﬂows
 
 76Y99 None of the above, but in this section
 
-76Zxx Biological ﬂuid mechanics [See also 74F10, 74L15, 92Cxx]
+76Zxx Biological fluid mechanics [See also 74F10, 74L15, 92Cxx]
 
-76Z05 Physiological ﬂows [See also 92C35]
+76Z05 Physiological flows [See also 92C35]
 
 76Z10 Biopropulsion in water and in air
 
@@ -12772,9 +11474,7 @@ phase ﬂows
 
 78-XX Optics, electromagnetic theory {For quantum optics, see 81V80}
 
-78-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to optics and electromag-
-
-netic theory
+78-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to optics and electromagnetic theory
 
 78-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to optics and electromagnetic theory
 
@@ -12792,8 +11492,6 @@ netic theory
 
 78-11 Research data for problems pertaining to optics and electromagnetic theory
 
-193
-
 78Axx General topics in optics and electromagnetic theory
 
 78A02 Foundations in optics and electromagnetic theory
@@ -12808,11 +11506,7 @@ netic theory
 
 78A25 Electromagnetic theory (general)
 
-78A30 Electro
-
-
-
-and magnetostatics
+78A30 Electro and magnetostatics
 
 78A35 Motion of charged particles
 
@@ -12836,9 +11530,7 @@ and magnetostatics
 
 78A70 Biological applications of optics and electromagnetic theory [See also 92-XX]
 
-78A97 Mathematically heuristic optics and electromagnetic theory (must also be assigned at least one other clas-
-
-sification number in Section 78)
+78A97 Mathematically heuristic optics and electromagnetic theory (must also be assigned at least one other classification number in Section 78)
 
 78A99 None of the above, but in this section
 
@@ -12848,9 +11540,7 @@ sification number in Section 78)
 
 78M10 Finite element, Galerkin and related methods applied to problems in optics and electromagnetic theory
 
-78M12 Finite volume methods, finite integration techniques applied to problems in optics and electromagnetic
-
-theory
+78M12 Finite volume methods, finite integration techniques applied to problems in optics and electromagnetic theory
 
 78M15 Boundary element methods applied to problems in optics and electromagnetic theory
 
@@ -12863,8 +11553,6 @@ theory
 78M30 Variational methods applied to problems in optics and electromagnetic theory
 
 78M31 Monte Carlo methods applied to problems in optics and electromagnetic theory
-
-194
 
 78M32 Neural and heuristic methods applied to problems in optics and electromagnetic theory
 
@@ -12906,7 +11594,7 @@ theory
 
 80A17 Thermodynamics of continua [See also 74A15]
 
-80A19 Diffusive and convective heat and mass transfer, heat ﬂow
+80A19 Diffusive and convective heat and mass transfer, heat flow
 
 80A21 Radiative heat transfer
 
@@ -12918,13 +11606,11 @@ theory
 
 80A30 Chemical kinetics in thermodynamics and heat transfer [See also 76V05, 92C45, 92E20]
 
-80A32 Chemically reacting ﬂows [See also 92C45, 92E20]
+80A32 Chemically reacting flows [See also 92C45, 92E20]
 
 80A50 Chemistry (general) in thermodynamics and heat transfer [See mainly 92Exx]
 
 80A99 None of the above, but in this section
-
-195
 
 80Mxx Basic methods in thermodynamics and heat transfer [See also 65-XX]
 
@@ -12936,9 +11622,7 @@ theory
 
 80M20 Finite difference methods applied to problems in thermodynamics and heat transfer
 
-80M22 Spectral, collocation and related (meshless) methods applied to problems in thermodynamics and heat
-
-transfer
+80M22 Spectral, collocation and related (meshless) methods applied to problems in thermodynamics and heat transfer
 
 80M30 Variational methods applied to problems in thermodynamics and heat transfer
 
@@ -12954,11 +11638,7 @@ transfer
 
 80M99 None of the above, but in this section
 
-81
-
-
-
-XX Quantum theory
+81-XX Quantum theory
 
 81-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to quantum theory
 
@@ -12984,17 +11664,13 @@ XX Quantum theory
 
 81P05 General and philosophical questions in quantum theory
 
-81P10 Logical foundations of quantum mechanics; quantum logic (quantum-theoretic aspects) [See also 03G12,
-
-06C15]
+81P10 Logical foundations of quantum mechanics; quantum logic (quantum-theoretic aspects) [See also 03G12, 06C15]
 
 81P13 Contextuality in quantum theory
 
 81P15 Quantum measurement theory, state operations, state preparations
 
 81P16 Quantum state spaces, operational and probabilistic concepts
-
-196
 
 81P17 Quantum entropies
 
@@ -13032,9 +11708,7 @@ XX Quantum theory
 
 81Qxx General mathematical topics and methods in quantum theory
 
-81Q05 Closed and approximate solutions to the Schr¨odinger, Dirac, Klein-Gordon and other equations of quantum
-
-mechanics
+81Q05 Closed and approximate solutions to the Schr¨odinger, Dirac, Klein-Gordon and other equations of quantum mechanics
 
 81Q10 Selfadjoint operator theory in quantum theory, including spectral analysis
 
@@ -13044,9 +11718,7 @@ mechanics
 
 81Q20 Semiclassical techniques, including WKB and Maslov methods applied to problems in quantum theory
 
-81Q30 Feynman integrals and graphs; applications of algebraic topology and algebraic geometry [See also 05Cxx,
-
-14D05, 32S40]
+81Q30 Feynman integrals and graphs; applications of algebraic topology and algebraic geometry [See also 05Cxx, 14D05, 32S40]
 
 81Q35 Quantum mechanics on special spaces: manifolds, fractals, graphs, lattices [See also 81R20]
 
@@ -13060,9 +11732,7 @@ mechanics
 
 81Q65 Alternative quantum mechanics (including hidden variables, etc.)
 
-81Q70 Differential geometric methods, including holonomy, Berry and Hannay phases, Aharonov-Bohm effect, etc.
-
-in quantum theory
+81Q70 Differential geometric methods, including holonomy, Berry and Hannay phases, Aharonov-Bohm effect, etc. in quantum theory
 
 81Q80 Special quantum systems, such as solvable systems
 
@@ -13070,17 +11740,11 @@ in quantum theory
 
 81Q99 None of the above, but in this section
 
-197
-
 81Rxx Groups and algebras in quantum theory
 
-81R05 Finite-dimensional groups and algebras motivated by physics and their representations [See also 20C35,
+81R05 Finite-dimensional groups and algebras motivated by physics and their representations [See also 20C35, 22E70]
 
-22E70]
-
-81R10 Infinite-dimensional groups and algebras motivated by physics, including Virasoro, Kac-Moody, W -algebras
-
-and other current algebras and their representations [See also 17B65, 17B67, 22E65, 22E67, 22E70]
+81R10 Infinite-dimensional groups and algebras motivated by physics, including Virasoro, Kac-Moody, W-algebras and other current algebras and their representations [See also 17B65, 17B67, 22E65, 22E67, 22E70]
 
 81R12 Groups and algebras in quantum theory and relations with integrable systems [See also 17Bxx, 37J35]
 
@@ -13094,9 +11758,7 @@ and other current algebras and their representations [See also 17B65, 17B67, 22E
 
 81R40 Symmetry breaking in quantum theory
 
-81R50 Quantum groups and related algebraic methods applied to problems in quantum theory [See also 16T20,
-
-17B37]
+81R50 Quantum groups and related algebraic methods applied to problems in quantum theory [See also 16T20, 17B37]
 
 81R60 Noncommutative geometry in quantum theory
 
@@ -13139,8 +11801,6 @@ and other current algebras and their representations [See also 17B65, 17B67, 22E
 81T13 Yang-Mills and other gauge theories in quantum field theory [See also 53C07, 58E15]
 
 81T15 Perturbative methods of renormalization applied to problems in quantum field theory
-
-198
 
 81T16 Nonperturbative methods of renormalization applied to problems in quantum field theory
 
@@ -13204,8 +11864,6 @@ and other current algebras and their representations [See also 17B65, 17B67, 22E
 
 81U99 None of the above, but in this section
 
-199
-
 81Vxx Applications of quantum theory to specific physical systems
 
 81V05 Strong interaction, including quantum chromodynamics
@@ -13266,8 +11924,6 @@ and other current algebras and their representations [See also 17B65, 17B67, 22E
 
 82-11 Research data for problems pertaining to statistical mechanics
 
-200
-
 82Bxx Equilibrium statistical mechanics
 
 82B03 Foundations of equilibrium statistical mechanics
@@ -13276,9 +11932,7 @@ and other current algebras and their representations [See also 17B65, 17B67, 22E
 
 82B10 Quantum equilibrium statistical mechanics (general)
 
-82B20 Lattice systems (Ising, dimer, Potts, etc.) and systems on graphs arising in equilibrium statistical mechanics
-
-[See also 05Cxx]
+82B20 Lattice systems (Ising, dimer, Potts, etc.) and systems on graphs arising in equilibrium statistical mechanics [See also 05Cxx]
 
 82B21 Continuum models (systems of particles, etc.) arising in equilibrium statistical mechanics
 
@@ -13300,33 +11954,23 @@ and other current algebras and their representations [See also 17B65, 17B67, 22E
 
 82B40 Kinetic theory of gases in equilibrium statistical mechanics
 
-82B41 Random walks, random surfaces, lattice animals, etc. in equilibrium statistical mechanics [See also 60G50,
-
-82C41]
+82B41 Random walks, random surfaces, lattice animals, etc. in equilibrium statistical mechanics [See also 60G50, 82C41]
 
 82B43 Percolation [See also 60K35]
 
-82B44 Disordered systems (random Ising models, random Schr¨odinger operators, etc.) in equilibrium statistical
-
-mechanics
+82B44 Disordered systems (random Ising models, random Schr¨odinger operators, etc.) in equilibrium statistical mechanics
 
 82B99 None of the above, but in this section
 
 82Cxx Time-dependent statistical mechanics (dynamic and nonequilibrium)
 
-82C03 Foundations of time
-
-
-
-dependent statistical mechanics
+82C03 Foundations of time dependent statistical mechanics
 
 82C05 Classical dynamic and nonequilibrium statistical mechanics (general)
 
 82C10 Quantum dynamics and nonequilibrium statistical mechanics (general)
 
-82C20 Dynamic lattice systems (kinetic Ising, etc.) and systems on graphs in time-dependent statistical mechanics
-
-[See also 05Cxx]
+82C20 Dynamic lattice systems (kinetic Ising, etc.) and systems on graphs in time-dependent statistical mechanics [See also 05Cxx]
 
 82C21 Dynamic continuum models (systems of particles, etc.) in time-dependent statistical mechanics
 
@@ -13334,29 +11978,15 @@ dependent statistical mechanics
 
 82C23 Exactly solvable dynamic models in time-dependent statistical mechanics [See also 37K60]
 
-82C24 Interface problems; diffusion
-
-
-
-limited aggregation in time
-
-
-
-dependent statistical mechanics
+82C24 Interface problems; diffusion limited aggregation in time dependent statistical mechanics
 
 82C26 Dynamic and nonequilibrium phase transitions (general) in statistical mechanics
 
 82C27 Dynamic critical phenomena in statistical mechanics
 
-201
+82C28 Dynamic renormalization group methods applied to problems in time-dependent statistical mechanics [See also 81T17]
 
-82C28 Dynamic renormalization group methods applied to problems in time-dependent statistical mechanics [See
-
-also 81T17]
-
-82C31 Stochastic methods (Fokker-Planck, Langevin, etc.) applied to problems in time-dependent statistical me-
-
-chanics [See also 60H10]
+82C31 Stochastic methods (Fokker-Planck, Langevin, etc.) applied to problems in time-dependent statistical mechanics [See also 60H10]
 
 82C32 Neural nets applied to problems in time-dependent statistical mechanics [See also 68T05, 91E40, 92B20]
 
@@ -13364,9 +11994,7 @@ chanics [See also 60H10]
 
 82C40 Kinetic theory of gases in time-dependent statistical mechanics
 
-82C41 Dynamics of random walks, random surfaces, lattice animals, etc. in time-dependent statistical mechanics
-
-[See also 60G50]
+82C41 Dynamics of random walks, random surfaces, lattice animals, etc. in time-dependent statistical mechanics [See also 60G50]
 
 82C43 Time-dependent percolation in statistical mechanics [See also 60K35]
 
@@ -13400,7 +12028,7 @@ chanics [See also 60H10]
 
 82D45 Statistical mechanics of ferroelectrics
 
-82D50 Statistical mechanics of superﬂuids
+82D50 Statistical mechanics of superfluids
 
 82D55 Statistical mechanics of superconductors
 
@@ -13413,8 +12041,6 @@ chanics [See also 60H10]
 82D80 Statistical mechanics of nanostructures and nanoparticles
 
 82D99 None of the above, but in this section
-
-202
 
 82Mxx Basic methods in statistical mechanics [See also 65-XX]
 
@@ -13442,9 +12068,7 @@ chanics [See also 60H10]
 
 83-XX Relativity and gravitational theory
 
-83-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to relativity and gravita-
-
-tional theory
+83-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to relativity and gravitational theory
 
 83-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to relativity and gravitational theory
 
@@ -13476,8 +12100,6 @@ tional theory
 
 83B99 None of the above, but in this section
 
-203
-
 83Cxx General relativity
 
 83C05 Einstein’s equations (general structure, canonical formalism, Cauchy problems)
@@ -13490,19 +12112,13 @@ tional theory
 
 and gravitational theory
 
-83C22 Einstein
-
-
-
-Maxwell equations
+83C22 Einstein-Maxwell equations
 
 83C25 Approximation procedures, weak fields in general relativity and gravitational theory
 
 83C27 Lattice gravity, Regge calculus and other discrete methods in general relativity and gravitational theory
 
-83C30 Asymptotic procedures (radiation, news functions, H-spaces, etc.) in general relativity and gravitational
-
-theory
+83C30 Asymptotic procedures (radiation, news functions, H-spaces, etc.) in general relativity and gravitational theory
 
 83C35 Gravitational waves
 
@@ -13540,23 +12156,13 @@ theory
 
 83E05 Geometrodynamics and the holographic principle [See also 81T35]
 
-83E15 Kaluza
-
-
-
-Klein and other higher
-
-
-
-dimensional theories
+83E15 Kaluza-Klein and other higher-dimensional theories
 
 83E30 String and superstring theories in gravitational theory [See also 81T30]
 
 83E50 Supergravity
 
 83E99 None of the above, but in this section
-
-204
 
 83Fxx Relativistic cosmology {For astrophysical cosmology, see 85A40}
 
@@ -13566,9 +12172,7 @@ dimensional theories
 
 85-XX Astronomy and astrophysics {For celestial mechanics, see 70F15}
 
-85-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to astronomy and astro-
-
-physics
+85-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to astronomy and astrophysics
 
 85-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to astronomy and astrophysics
 
@@ -13622,8 +12226,6 @@ physics
 
 86-05 Experimental work for problems pertaining to geophysics
 
-205
-
 86-06 Proceedings, conferences, collections, etc. pertaining to geophysics
 
 86-08 Computational methods for problems pertaining to geophysics
@@ -13658,27 +12260,19 @@ physics
 
 86A60 Geological problems
 
-86A70 Vulcanology; magma and lava ﬂow
+86A70 Vulcanology; magma and lava flow
 
 86A99 None of the above, but in this section
 
 90-XX Operations research, mathematical programming
 
-90-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to operations research and
+90-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to operations research and mathematical programming
 
-mathematical programming
+90-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to operations research and mathematical programming
 
-90-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to operations research and mathematical
+90-02 Research exposition (monographs, survey articles) pertaining to operations research and mathematical programming
 
-programming
-
-90-02 Research exposition (monographs, survey articles) pertaining to operations research and mathematical pro-
-
-gramming
-
-90-03 History of operations research and mathematical programming [Consider also classification numbers from
-
-Section 01]
+90-03 History of operations research and mathematical programming [Consider also classification numbers from Section 01]
 
 90-04 Software, source code, etc. for problems pertaining to operations research and mathematical programming
 
@@ -13688,13 +12282,9 @@ Section 01]
 
 90-08 Computational methods for problems pertaining to operations research and mathematical programming
 
-90-10 Mathematical modeling or simulation for problems pertaining to operations research and mathematical pro-
-
-gramming
+90-10 Mathematical modeling or simulation for problems pertaining to operations research and mathematical programming
 
 90-11 Research data for problems pertaining to operations research and mathematical programming
-
-206
 
 90Bxx Operations research and management science
 
@@ -13706,9 +12296,7 @@ gramming
 
 90B15 Stochastic network models in operations research {For network control, see 93B70}
 
-90B18 Communication networks in operations research [See also 68M10, 68M12, 68M18, 94A05] {For networks as
-
-computational models, see 68Q06}
+90B18 Communication networks in operations research [See also 68M10, 68M12, 68M18, 94A05] {For networks as computational models, see 68Q06}
 
 90B20 Traffic problems in operations research
 
@@ -13762,8 +12350,6 @@ computational models, see 68Q06}
 
 90C23 Polynomial optimization
 
-207
-
 90C24 Tropical optimization (e.g., max-plus optimization)
 
 90C25 Convex programming
@@ -13772,11 +12358,7 @@ computational models, see 68Q06}
 
 90C27 Combinatorial optimization
 
-90C29 Multi
-
-
-
-objective and goal programming
+90C29 Multi-objective and goal programming
 
 90C30 Nonlinear programming
 
@@ -13784,25 +12366,15 @@ objective and goal programming
 
 90C32 Fractional programming
 
-90C33 Complementarity and equilibrium problems and variational inequalities (finite dimensions) (aspects of math-
+90C33 Complementarity and equilibrium problems and variational inequalities (finite dimensions) (aspects of mathematical programming)
 
-ematical programming)
-
-90C34 Semi
-
-
-
-infinite programming
+90C34 Semi-infinite programming
 
 90C35 Programming involving graphs or networks [See also 05C90, 90C27]
 
 90C39 Dynamic programming [See also 49L20]
 
-90C40 Markov and semi
-
-
-
-Markov decision processes
+90C40 Markov and semi-Markov decision processes
 
 90C46 Optimality conditions and duality in mathematical programming [See also 49N15]
 
@@ -13810,47 +12382,19 @@ Markov decision processes
 
 90C48 Programming in abstract spaces
 
-90C49 Extreme
+90C49 Extreme-point and pivoting methods
 
-
-
-point and pivoting methods
-
-90C51 Interior
-
-
-
-point methods
+90C51 Interior-point methods
 
 90C52 Methods of reduced gradient type
 
-90C53 Methods of quasi
-
-
-
-Newton type
+90C53 Methods of quasi-Newton type
 
 90C55 Methods of successive quadratic programming type
 
 90C56 Derivative-free methods and methods using generalized derivatives [See also 49J52]
 
-90C57 Polyhedral combinatorics, branch
-
-
-
-and
-
-
-
-bound, branch
-
-
-
-and
-
-
-
-cut
+90C57 Polyhedral combinatorics, branch and bound, branch and cut
 
 90C59 Approximation methods and heuristics in mathematical programming
 
@@ -13862,13 +12406,9 @@ cut
 
 90C99 None of the above, but in this section
 
-208
-
 91-XX Game theory, economics, finance, and other social and behavioral sciences
 
-91-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to game theory, economics,
-
-and finance
+91-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to game theory, economics, and finance
 
 91-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to game theory, economics, and finance
 
@@ -13890,11 +12430,7 @@ and finance
 
 91Axx Game theory
 
-91A05 2
-
-
-
-person games
+91A05 2-person games
 
 91A06 n-person games, n > 2
 
@@ -13910,9 +12446,7 @@ person games
 
 91A15 Stochastic games, stochastic differential games
 
-91A16 Mean field games (aspects of game theory) {For partial differential equations, see 35Q89; for calculus of
-
-variations and optimal control, see 49N80}
+91A16 Mean field games (aspects of game theory) {For partial differential equations, see 35Q89; for calculus of variations and optimal control, see 49N80}
 
 91A18 Games in extensive form
 
@@ -13932,17 +12466,11 @@ variations and optimal control, see 49N80}
 
 91A28 Signaling and communication in game theory
 
-209
-
 91A30 Utility theory for games [See also 91B16]
 
 91A35 Decision theory for games [See also 62Cxx, 90B50, 91B06]
 
-91A40 Other game
-
-
-
-theoretic models
+91A40 Other game-theoretic models
 
 91A43 Games involving graphs {For games on graphs, see also 05C57}
 
@@ -13950,11 +12478,7 @@ theoretic models
 
 91A46 Combinatorial games
 
-91A50 Discrete
-
-
-
-time games
+91A50 Discrete-time games
 
 91A55 Games of timing
 
@@ -14008,19 +12532,13 @@ time games
 
 91B38 Production theory, theory of the firm
 
-210
-
 91B39 Labor markets
 
 91B41 Contract theory (moral hazard, adverse selection)
 
 91B42 Consumer behavior, demand theory
 
-91B43 Principal
-
-
-
-agent models
+91B43 Principal-agent models
 
 91B44 Economics of information
 
@@ -14073,8 +12591,6 @@ agent models
 91C20 Clustering in the social and behavioral sciences [See also 62H30]
 
 91C99 None of the above, but in this section
-
-211
 
 91Dxx Mathematical sociology (including anthropology)
 
@@ -14138,8 +12654,6 @@ agent models
 
 91G99 None of the above, but in this section
 
-212
-
 92-XX Biology and other natural sciences
 
 92-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to biology
@@ -14192,7 +12706,7 @@ agent models
 
 92C32 Pathology, pathophysiology
 
-92C35 Physiological ﬂow [See also 76Z05]
+92C35 Physiological flow [See also 76Z05]
 
 92C37 Cell biology
 
@@ -14203,8 +12717,6 @@ agent models
 92C45 Kinetics in biochemical problems (pharmacokinetics, enzyme kinetics, etc.) [See also 80A30]
 
 92C47 Biosensors (not for medical applications)
-
-213
 
 92C50 Medical applications (general)
 
@@ -14244,7 +12756,7 @@ agent models
 
 92E10 Molecular structure (graph-theoretic methods, methods of differential topology, etc.) [See also 05C92]
 
-92E20 Classical ﬂows, reactions, etc. in chemistry [See also 80A30, 80A32]
+92E20 Classical flows, reactions, etc. in chemistry [See also 80A30, 80A32]
 
 92E99 None of the above, but in this section
 
@@ -14256,9 +12768,7 @@ agent models
 
 93-XX Systems theory; control {For optimal control, see 49-XX}
 
-93-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to systems and control
-
-theory
+93-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to systems and control theory
 
 93-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to systems and control theory
 
@@ -14269,8 +12779,6 @@ theory
 93-04 Software, source code, etc. for problems pertaining to systems and control theory
 
 93-05 Experimental work for problems pertaining to systems and control theory
-
-214
 
 93-06 Proceedings, conferences, collections, etc. pertaining to systems and control theory
 
@@ -14290,17 +12798,9 @@ theory
 
 93A14 Decentralized systems
 
-93A15 Large
+93A15 Large-scale systems
 
-
-
-scale systems
-
-93A16 Multi
-
-
-
-agent systems
+93A16 Multi-agent systems
 
 93A99 None of the above, but in this section
 
@@ -14318,11 +12818,7 @@ agent systems
 
 93B12 Variable structure systems
 
-93B15 Realizations from input
-
-
-
-output data
+93B15 Realizations from input-output data
 
 93B17 Transformations
 
@@ -14342,17 +12838,11 @@ output data
 
 93B35 Sensitivity (robustness)
 
-93B36 H ∞
-
-
-
-control
+93B36 H ∞ control
 
 93B45 Model predictive control
 
 93B47 Iterative learning control
-
-215
 
 93B50 Synthesis problems
 
@@ -14390,9 +12880,7 @@ control
 
 93C29 Boolean control/observation systems
 
-93C30 Control/observation systems governed by functional relations other than differential equations (such as
-
-hybrid and switching systems)
+93C30 Control/observation systems governed by functional relations other than differential equations (such as hybrid and switching systems)
 
 93C35 Multivariable systems, multidimensional control systems
 
@@ -14404,17 +12892,9 @@ hybrid and switching systems)
 
 93C43 Delay control/observation systems
 
-93C55 Discrete
+93C55 Discrete-time control/observation systems
 
-
-
-time control/observation systems
-
-93C57 Sampled
-
-
-
-data control/observation systems
+93C57 Sampled-data control/observation systems
 
 93C62 Digital control/observation systems
 
@@ -14433,8 +12913,6 @@ data control/observation systems
 93C95 Application models in control theory
 
 93C99 None of the above, but in this section
-
-216
 
 93Dxx Stability of control systems
 
@@ -14456,11 +12934,7 @@ data control/observation systems
 
 93D30 Lyapunov and storage functions
 
-93D40 Finite
-
-
-
-time stability
+93D40 Finite-time stability
 
 93D50 Consensus
 
@@ -14490,13 +12964,9 @@ time stability
 
 94-XX Information and communication theory, circuits
 
-94-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to information and com-
+94-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to information and communication theory
 
-munication theory
-
-94-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to information and communication
-
-theory
+94-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to information and communication theory
 
 94-02 Research exposition (monographs, survey articles) pertaining to information and communication theory
 
@@ -14505,8 +12975,6 @@ theory
 94-04 Software, source code, etc. for problems pertaining to information and communication theory
 
 94-05 Experimental work for problems pertaining to information and communication theory
-
-217
 
 94-06 Proceedings, conferences, collections, etc. pertaining to information and communication theory
 
@@ -14520,9 +12988,7 @@ theory
 
 94A05 Communication theory [See also 60G35, 90B18]
 
-94A08 Image processing (compression, reconstruction, etc.) in information and communication theory [See also
-
-68U10]
+94A08 Image processing (compression, reconstruction, etc.) in information and communication theory [See also 68U10]
 
 94A11 Application of orthogonal and other special functions
 
@@ -14534,9 +13000,7 @@ theory
 
 94A15 Information theory (general) [See also 62B10] {For quantum-theoretic aspects, see also 81P45}
 
-94A16 Informational aspects of data analysis and big data [See also 62R07, 68T09] {For homological aspects, see
-
-55N31}
+94A16 Informational aspects of data analysis and big data [See also 62R07, 68T09] {For homological aspects, see 55N31}
 
 94A17 Measures of information, entropy [See also 62B10]
 
@@ -14562,15 +13026,7 @@ theory
 
 94A99 None of the above, but in this section
 
-94Bxx Theory of error
-
-
-
-correcting codes and error
-
-
-
-detecting codes
+94Bxx Theory of error-correcting codes and error-detecting codes
 
 94B05 Linear codes (general theory)
 
@@ -14580,19 +13036,11 @@ detecting codes
 
 94B15 Cyclic codes
 
-94B20 Burst
-
-
-
-correcting codes
-
-218
+94B20 Burst-correcting codes
 
 94B25 Combinatorial codes
 
-94B27 Geometric methods (including applications of algebraic geometry) applied to coding theory [See also 11T71,
-
-14G50]
+94B27 Geometric methods (including applications of algebraic geometry) applied to coding theory [See also 11T71, 14G50]
 
 94B30 Majority codes
 
@@ -14600,11 +13048,7 @@ correcting codes
 
 94B40 Arithmetic codes [See also 11T71, 14G50]
 
-94B50 Synchronization error
-
-
-
-correcting codes
+94B50 Synchronization error-correcting codes
 
 94B60 Other types of codes
 
@@ -14612,9 +13056,7 @@ correcting codes
 
 94B70 Error probability in coding theory
 
-94B75 Applications of the theory of convex sets and geometry of numbers (covering radius, etc.) to coding theory
-
-[See also 11H31, 11H71]
+94B75 Applications of the theory of convex sets and geometry of numbers (covering radius, etc.) to coding theory [See also 11H31, 11H71]
 
 94B99 None of the above, but in this section
 
@@ -14636,19 +13078,13 @@ correcting codes
 
 94Dxx Miscellaneous topics in information and communication theory
 
-94D05 Fuzzy sets and logic (in connection with information, communication, or circuits theory) [See also 03B52,
-
-03E72, 28E10]
+94D05 Fuzzy sets and logic (in connection with information, communication, or circuits theory) [See also 03B52, 03E72, 28E10]
 
 94D10 Boolean functions [See also 06E30] {For connections with circuits and networks, see 94C11}
 
 94D99 None of the above, but in this section
 
-97
-
-
-
-XX Mathematics education
+97-XX Mathematics education
 
 97-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to mathematics education
 
@@ -14662,13 +13098,9 @@ XX Mathematics education
 
 97-11 Research data for problems pertaining to mathematics education
 
-219
-
 97Axx History and society (aspects of mathematics education)
 
-97A30 History in mathematics education {For mathematics history, see 01-XX; for biographies, see 01A70; for
-
-history of mathematics education, see 97-03}
+97A30 History in mathematics education {For mathematics history, see 01-XX; for biographies, see 01A70; for history of mathematics education, see 97-03}
 
 97A40 Mathematics education and society {For sociology (and profession) of mathematics, see 01A80}
 
@@ -14730,8 +13162,6 @@ history of mathematics education, see 97-03}
 
 97D99 None of the above, but in this section
 
-220
-
 97Exx Education of foundations of mathematics
 
 97E10 Comprehensive works on education of foundations of mathematics
@@ -14790,8 +13220,6 @@ history of mathematics education, see 97-03}
 
 97G99 None of the above, but in this section
 
-221
-
 97Hxx Algebra education
 
 97H10 Comprehensive works on algebra education
@@ -14847,8 +13275,6 @@ history of mathematics education, see 97-03}
 97K80 Applied statistics (educational aspects)
 
 97K99 None of the above, but in this section
-
-222
 
 97Mxx Education of mathematical modeling and applications of mathematics
 
@@ -14906,13 +13332,9 @@ history of mathematics education, see 97-03}
 
 97P99 None of the above, but in this section
 
-223
-
 97Uxx Educational material and media and educational technology in mathematics education
 
-97U10 Comprehensive works on educational material and media and educational technology in mathematics edu-
-
-cation
+97U10 Comprehensive works on educational material and media and educational technology in mathematics education
 
 97U20 Textbooks, textbook research (aspects of mathematics education)
 
@@ -14929,5 +13351,3 @@ cation
 97U80 Audiovisual media (aspects of mathematics education)
 
 97U99 None of the above, but in this section
-
-224
