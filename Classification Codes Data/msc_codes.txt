@@ -978,8 +978,7 @@
 14A22 Noncommutative algebraic geometry [See also 16S38]
 14A23 Geometry over the field with one element
 14A25 Elementary questions in algebraic geometry
-14A30 Fundamental constructions in algebraic geometry involving higher and derived categories (homotopical al-
-gebraic geometry, derived algebraic geometry, etc.) {For categorical aspects, see 18Fxx, 18Gxx}
+14A30 Fundamental constructions in algebraic geometry involving higher and derived categories (homotopical algebraic geometry, derived algebraic geometry, etc.) {For categorical aspects, see 18Fxx, 18Gxx}
 14A99 None of the above, but in this section
 14Bxx Local theory in algebraic geometry
 14B05 Singularities in algebraic geometry [See also 14E15, 14H20, 14J17, 32Sxx, 58Kxx]
@@ -2764,8 +2763,7 @@ gebraic geometry, derived algebraic geometry, etc.) {For categorical aspects, se
 35Jxx Elliptic equations and elliptic systems {For global analysis, analysis on manifolds, see 58J10, 58J20}
 35J05 Laplace operator, Helmholtz equation (reduced wave equation), Poisson equation [See also 31Axx, 31Bxx]
 35J08 Green’s functions for elliptic equations
-35J10 Schr¨odinger operator, Schr¨odinger equation {For ordinary differential equations, see 34L40; for operator
-theory, see 47D08; for quantum theory, see 81Q05; for statistical mechanics, see 82B44}
+35J10 Schrodinger operator, Schr¨odinger equation {For ordinary differential equations, see 34L40; for operator theory, see 47D08; for quantum theory, see 81Q05; for statistical mechanics, see 82B44}
 35J15 Second-order elliptic equations
 35J20 Variational methods for second-order elliptic equations
 35J25 Boundary value problems for second-order elliptic equations
@@ -3543,8 +3541,7 @@ theory, see 47D08; for quantum theory, see 81Q05; for statistical mechanics, see
 46E22 Hilbert spaces with reproducing kernels (= (proper) functional Hilbert spaces, including de Branges-Rovnyak and other structured spaces) [See also 47B32]
 46E25 Rings and algebras of continuous, differentiable or analytic functions {For Banach function algebras, see 46J10, 46J15}
 46E27 Spaces of measures [See also 28A33, 46Gxx]
-46E30 Spaces of measurable functions (Lp-spaces, Orlicz spaces, K¨othe function spaces, Lorentz spaces, rearrange-
-ment invariant spaces, ideal spaces, etc.)
+46E30 Spaces of measurable functions (Lp-spaces, Orlicz spaces, K¨othe function spaces, Lorentz spaces, rearrangement invariant spaces, ideal spaces, etc.)
 46E35 Sobolev spaces and other spaces of “smooth” functions, embedding theorems, trace theorems
 46E36 Sobolev (and similar kinds of) spaces of functions on metric spaces; analysis on metric spaces
 46E39 Sobolev (and similar kinds of) spaces of functions of discrete variables
@@ -3720,8 +3717,7 @@ ment invariant spaces, ideal spaces, etc.)
 47B20 Subnormal operators, hyponormal operators, etc.
 47B25 Linear symmetric and selfadjoint operators (unbounded)
 47B28 Nonselfadjoint operators [See also 47A45, 81Q12]
-47B32 Linear operators in reproducing-kernel Hilbert spaces (including de Branges, de Branges-Rovnyak, and other
-structured spaces) [See also 46E22]
+47B32 Linear operators in reproducing-kernel Hilbert spaces (including de Branges, de Branges-Rovnyak, and other structured spaces) [See also 46E22]
 47B33 Linear composition operators
 47B34 Kernel operators
 47B35 Toeplitz operators, Hankel operators, Wiener-Hopf operators {For other integral operators, see also 45P05,
@@ -4019,8 +4015,7 @@ structured spaces) [See also 46E22]
 51M20 Polyhedra and polytopes; regular figures, division of spaces [See also 51F15]
 51M25 Length, area and volume in real or complex geometry [See also 26B15]
 51M30 Line geometries and their generalizations [See also 53A25]
-51M35 Synthetic treatment of fundamental manifolds in projective geometries (Grassmannians, Veronesians and
-their generalizations) [See also 14M15]
+51M35 Synthetic treatment of fundamental manifolds in projective geometries (Grassmannians, Veronesians and their generalizations) [See also 14M15]
 51M99 None of the above, but in this section
 51Nxx Analytic and descriptive geometry
 51N05 Descriptive geometry [See also 65D17, 68U07]
@@ -4241,8 +4236,7 @@ their generalizations) [See also 14M15]
 54C40 Algebraic properties of function spaces in general topology [See also 46Exx]
 54C45 C and C ∗ embedding
 54C50 Topology of special sets defined by functions [See also 26A21]
-54C55 Absolute neighborhood extensor, absolute extensor, absolute neighborhood retract (ANR), absolute retract
-spaces (general properties) [See also 55M15]
+54C55 Absolute neighborhood extensor, absolute extensor, absolute neighborhood retract (ANR), absolute retract spaces (general properties) [See also 55M15]
 54C56 Shape theory in general topology [See also 55P55, 57N25]
 54C60 Set-valued maps in general topology [See also 26E25, 28B20, 47H04, 58C06]
 54C65 Selections in general topology [See also 28B20]
@@ -5267,8 +5261,7 @@ spaces (general properties) [See also 55M15]
 68U35 Computing methodologies for information systems (hypertext navigation, interfaces, decision support, etc.) [See also 68M11]
 68U99 None of the above, but in this section
 68Vxx Computer science support for mathematical research and practice
-68V05 Computer assisted proofs of proofs-by-exhaustion type {For rigorous numerics, see 65Gxx; for proofs em-
-ploying automated or interactive theorem provers, see 68V15}
+68V05 Computer assisted proofs of proofs-by-exhaustion type {For rigorous numerics, see 65Gxx; for proofs employing automated or interactive theorem provers, see 68V15}
 68V15 Theorem proving (automated and interactive theorem provers, deduction, resolution, etc.) [See also 03B35]
 68V20 Formalization of mathematics in connection with theorem provers [See also 03B35, 68V15]
 68V25 Presentation and content markup for mathematics
@@ -6053,8 +6046,7 @@ ploying automated or interactive theorem provers, see 68V15}
 83C05 Einstein’s equations (general structure, canonical formalism, Cauchy problems)
 83C10 Equations of motion in general relativity and gravitational theory
 83C15 Exact solutions to problems in general relativity and gravitational theory
-83C20 Classes of solutions; algebraically special solutions, metrics with symmetries for problems in general relativity
-and gravitational theory
+83C20 Classes of solutions; algebraically special solutions, metrics with symmetries for problems in general relativity and gravitational theory
 83C22 Einstein-Maxwell equations
 83C25 Approximation procedures, weak fields in general relativity and gravitational theory
 83C27 Lattice gravity, Regge calculus and other discrete methods in general relativity and gravitational theory
