@@ -1,369 +1,369 @@
-class,description,identifier
-F.4.2, Grammars and Other Rewriting Systems,"['F', '4', '2']"
-D.4.4, Communications Management,"['D', '4', '4']"
-I.2.8," Problem Solving, Control Methods, and Search","['I', '2', '8']"
-K.6.0, General,"['K', '6', '0']"
-K.4.0, General,"['K', '4', '0']"
-G.2, DISCRETE MATHEMATICS,"['G', '2']"
-D.2.2, Design Tools and Techniques,"['D', '2', '2']"
-B.4.0, General,"['B', '4', '0']"
-I.7.3, Index Generation,"['I', '7', '3']"
-B.5.m, Miscellaneous,"['B', '5', 'm']"
-K.8, PERSONAL COMPUTING,"['K', '8']"
-F.2, ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY,"['F', '2']"
-H.5.m, Miscellaneous,"['H', '5', 'm']"
-J., Computer Applications,"['J', '']"
-I.0, GENERAL,"['I', '0']"
-I.4.3, Enhancement,"['I', '4', '3']"
-J.6, COMPUTER-AIDED ENGINEERING,"['J', '6']"
-D.3.4, Processors,"['D', '3', '4']"
-H.2.8, Database Applications,"['H', '2', '8']"
-K.5.2, Governmental Issues,"['K', '5', '2']"
-A.2," REFERENCE (e.g., dictionaries, encyclopedias, glossaries)","['A', '2']"
-D.4.2, Storage Management,"['D', '4', '2']"
-D.m, MISCELLANEOUS,"['D', 'm']"
-H.2.1, Logical Design,"['H', '2', '1']"
-I.6.4, Model Validation and Analysis,"['I', '6', '4']"
-I.2.1, Applications and Expert Systems,"['I', '2', '1']"
-I.6.5, Model Development,"['I', '6', '5']"
-C.5.1, Large and Medium (``Mainframe'') Computers,"['C', '5', '1']"
-H.4.1, Office Automation,"['H', '4', '1']"
-K.7.0, General,"['K', '7', '0']"
-C.2.4, Distributed Systems,"['C', '2', '4']"
-B.0, GENERAL,"['B', '0']"
-B.5.0, General,"['B', '5', '0']"
-H.3.3, Information Search and Retrieval,"['H', '3', '3']"
-B.5.3, Reliability and Testing,"['B', '5', '3']"
-B.7.0, General,"['B', '7', '0']"
-A.m, MISCELLANEOUS,"['A', 'm']"
-D.3.3, Language Constructs and Features,"['D', '3', '3']"
-K.8.0, General,"['K', '8', '0']"
-I.7.0, General,"['I', '7', '0']"
-D.2.8, Metrics,"['D', '2', '8']"
-F.3.m, Miscellaneous,"['F', '3', 'm']"
-I.7.4, Electronic Publishing,"['I', '7', '4']"
-B.1.m, Miscellaneous,"['B', '1', 'm']"
-B.6.2, Reliability and Testing,"['B', '6', '2']"
-G.1.m, Miscellaneous,"['G', '1', 'm']"
-H.5.1, Multimedia Information Systems,"['H', '5', '1']"
-C.2.3, Network Operations,"['C', '2', '3']"
-E.3, DATA ENCRYPTION,"['E', '3']"
-G.2.2, Graph Theory,"['G', '2', '2']"
-F., Theory of Computation,"['F', '']"
-B.7.3, Reliability and Testing,"['B', '7', '3']"
-F.4.m, Miscellaneous,"['F', '4', 'm']"
-I.1.3, Languages and Systems,"['I', '1', '3']"
-K.7.3," Testing, Certification, and Licensing","['K', '7', '3']"
-I.4.10, Image Representation,"['I', '4', '10']"
-C.5.2, Minicomputers,"['C', '5', '2']"
-I.5.5, Implementation,"['I', '5', '5']"
-H.2.2, Physical Design,"['H', '2', '2']"
-D.2.m, Miscellaneous,"['D', '2', 'm']"
-F.2.2, Nonnumerical Algorithms and Problems,"['F', '2', '2']"
-I.3, COMPUTER GRAPHICS,"['I', '3']"
-G.1.2, Approximation,"['G', '1', '2']"
-C.5, COMPUTER SYSTEM IMPLEMENTATION,"['C', '5']"
-I.2, ARTIFICIAL INTELLIGENCE,"['I', '2']"
-K.5, LEGAL ASPECTS OF COMPUTING,"['K', '5']"
-I.4.9, Applications,"['I', '4', '9']"
-I.6.6, Simulation Output Analysis,"['I', '6', '6']"
-I.4.5, Reconstruction,"['I', '4', '5']"
-K.5.1, Hardware/Software Protection,"['K', '5', '1']"
-B.5, REGISTER-TRANSFER-LEVEL IMPLEMENTATION,"['B', '5']"
-B.5.2, Design Aids,"['B', '5', '2']"
-C.5.3, Microcomputers,"['C', '5', '3']"
-H.1.2, User/Machine Systems,"['H', '1', '2']"
-E.1, DATA STRUCTURES,"['E', '1']"
-D.1.5, Object-oriented Programming,"['D', '1', '5']"
-H.3, INFORMATION STORAGE AND RETRIEVAL,"['H', '3']"
-D.2.5, Testing and Debugging,"['D', '2', '5']"
-F.4, MATHEMATICAL LOGIC AND FORMAL LANGUAGES,"['F', '4']"
-C.5.m, Miscellaneous,"['C', '5', 'm']"
-H.5.5, Sound and Music Computing,"['H', '5', '5']"
-I.4, IMAGE PROCESSING AND COMPUTER VISION,"['I', '4']"
-B.3.4," Reliability, Testing, and Fault-Tolerance","['B', '3', '4']"
-B.1.2, Control Structure Performance Analysis and Design Aids,"['B', '1', '2']"
-H.2.0, General,"['H', '2', '0']"
-F.3.0, General,"['F', '3', '0']"
-B.6.3, Design Aids,"['B', '6', '3']"
-D.2.13, Reusable Software,"['D', '2', '13']"
-G.1.10, Applications,"['G', '1', '10']"
-D.3, PROGRAMMING LANGUAGES,"['D', '3']"
-I.2.5, Programming Languages and Software,"['I', '2', '5']"
-I.5.m, Miscellaneous,"['I', '5', 'm']"
-I.5.0, General,"['I', '5', '0']"
-C.2.0, General,"['C', '2', '0']"
-C.m, MISCELLANEOUS,"['C', 'm']"
-I.1.4, Applications,"['I', '1', '4']"
-I.6.7, Simulation Support Systems,"['I', '6', '7']"
-D.1.m, Miscellaneous,"['D', '1', 'm']"
-A.0, GENERAL,"['A', '0']"
-G.1.9, Integral Equations,"['G', '1', '9']"
-I.2.10, Vision and Scene Understanding,"['I', '2', '10']"
-B.4.1, Data Communications Devices,"['B', '4', '1']"
-K.6.5, Security and Protection,"['K', '6', '5']"
-H.2.6, Database Machines,"['H', '2', '6']"
-B.3.2, Design Styles,"['B', '3', '2']"
-B.3.1, Semiconductor Memories,"['B', '3', '1']"
-D.4, OPERATING SYSTEMS,"['D', '4']"
-F.m, MISCELLANEOUS,"['F', 'm']"
-I.5.2, Design Methodology,"['I', '5', '2']"
-H.3.1, Content Analysis and Indexing,"['H', '3', '1']"
-F.3.2, Semantics of Programming Languages,"['F', '3', '2']"
-D., Software,"['D', '']"
-I.6.3, Applications,"['I', '6', '3']"
-K.m, MISCELLANEOUS,"['K', 'm']"
-K.4.1, Public Policy Issues,"['K', '4', '1']"
-K.5.m, Miscellaneous,"['K', '5', 'm']"
-B.3.0, General,"['B', '3', '0']"
-I.2.m, Miscellaneous,"['I', '2', 'm']"
-B.2.1, Design Styles,"['B', '2', '1']"
-B.7.m, Miscellaneous,"['B', '7', 'm']"
-F.1.2, Modes of Computation,"['F', '1', '2']"
-C.2.1, Network Architecture and Design,"['C', '2', '1']"
-K.7.1, Occupations,"['K', '7', '1']"
-I.4.8, Scene Analysis,"['I', '4', '8']"
-I.2.0, General,"['I', '2', '0']"
-I.1.1, Expressions and Their Representation,"['I', '1', '1']"
-H.3.0, General,"['H', '3', '0']"
-D.1.1, Applicative (Functional) Programming,"['D', '1', '1']"
-I.6.0, General,"['I', '6', '0']"
-H.2.4, Systems,"['H', '2', '4']"
-D.4.5, Reliability,"['D', '4', '5']"
-H.3.7, Digital Libraries,"['H', '3', '7']"
-I.6.2, Simulation Languages,"['I', '6', '2']"
-J.m, MISCELLANEOUS,"['J', 'm']"
-B.6, LOGIC DESIGN,"['B', '6']"
-I.1.m, Miscellaneous,"['I', '1', 'm']"
-I.4.2, Compression (Coding),"['I', '4', '2']"
-D.3.0, General,"['D', '3', '0']"
-G.2.0, General,"['G', '2', '0']"
-D.1.2, Automatic Programming,"['D', '1', '2']"
-I.2.9, Robotics,"['I', '2', '9']"
-F.4.0, General,"['F', '4', '0']"
-B.8.0, General,"['B', '8', '0']"
-A.1, INTRODUCTORY AND SURVEY,"['A', '1']"
-K.4, COMPUTERS AND SOCIETY,"['K', '4']"
-K.8.1, Application Packages,"['K', '8', '1']"
-B.4.m, Miscellaneous,"['B', '4', 'm']"
-B.2, ARITHMETIC AND LOGIC STRUCTURES,"['B', '2']"
-K.8.m, Miscellaneous,"['K', '8', 'm']"
-E.5, FILES,"['E', '5']"
-B.2.3," Reliability, Testing, and Fault-Tolerance","['B', '2', '3']"
-F.3.1, Specifying and Verifying and Reasoning about Programs,"['F', '3', '1']"
-I.4.m, Miscellaneous,"['I', '4', 'm']"
-B., Hardware,"['B', '']"
-K.4.2, Social Issues,"['K', '4', '2']"
-D.2.9, Management,"['D', '2', '9']"
-I., Computing Methodologies,"['I', '']"
-E., Data,"['E', '']"
-F.4.3, Formal Languages,"['F', '4', '3']"
-G.2.3, Applications,"['G', '2', '3']"
-I.3.m, Miscellaneous,"['I', '3', 'm']"
-I.3.1, Hardware Architecture,"['I', '3', '1']"
-F.2.1, Numerical Algorithms and Problems,"['F', '2', '1']"
-K.6.2, Installation Management,"['K', '6', '2']"
-D.4.8, Performance,"['D', '4', '8']"
-B.7.2, Design Aids,"['B', '7', '2']"
-B.8.2, Performance Analysis and Design Aids,"['B', '8', '2']"
-H.4.m, Miscellaneous,"['H', '4', 'm']"
-H.1.0, General,"['H', '1', '0']"
-H.5.4, Hypertext/Hypermedia,"['H', '5', '4']"
-C.5.0, General,"['C', '5', '0']"
-C.1.4, Parallel Architectures,"['C', '1', '4']"
-I.3.4, Graphics Utilities,"['I', '3', '4']"
-B.1.3," Control Structure Reliability, Testing, and Fault-Tolerance","['B', '1', '3']"
-G.2.m, Miscellaneous,"['G', '2', 'm']"
-C.2.6, Internetworking,"['C', '2', '6']"
-D.2, SOFTWARE ENGINEERING,"['D', '2']"
-H.1.1, Systems and Information Theory,"['H', '1', '1']"
-H.2.m, Miscellaneous,"['H', '2', 'm']"
-C.2.2, Network Protocols,"['C', '2', '2']"
-K.3.m, Miscellaneous,"['K', '3', 'm']"
-D.3.m, Miscellaneous,"['D', '3', 'm']"
-I.4.0, General,"['I', '4', '0']"
-B.6.m, Miscellaneous,"['B', '6', 'm']"
-F.2.3, Tradeoffs between Complexity Measures,"['F', '2', '3']"
-D.1.0, General,"['D', '1', '0']"
-G.m, MISCELLANEOUS,"['G', 'm']"
-H.2, DATABASE MANAGEMENT,"['H', '2']"
-C.1, PROCESSOR ARCHITECTURES,"['C', '1']"
-D.4.6, Security and Protection,"['D', '4', '6']"
-I.2.6, Learning,"['I', '2', '6']"
-J.0, GENERAL,"['J', '0']"
-F.1.3, Complexity Measures and Classes,"['F', '1', '3']"
-J.5, ARTS AND HUMANITIES,"['J', '5']"
-K.8.3, Management/Maintenance,"['K', '8', '3']"
-K.1, THE COMPUTER INDUSTRY,"['K', '1']"
-I.4.1, Digitization and Image Capture,"['I', '4', '1']"
-K.4.m, Miscellaneous,"['K', '4', 'm']"
-B.4, INPUT/OUTPUT AND DATA COMMUNICATIONS,"['B', '4']"
-I.1, SYMBOLIC AND ALGEBRAIC MANIPULATION,"['I', '1']"
-I.2.7, Natural Language Processing,"['I', '2', '7']"
-D.3.1, Formal Definitions and Theory,"['D', '3', '1']"
-F.2.m, Miscellaneous,"['F', '2', 'm']"
-G.1.3, Numerical Linear Algebra,"['G', '1', '3']"
-H.3.6, Library Automation,"['H', '3', '6']"
-D.2.10, Design,"['D', '2', '10']"
-F.1.1, Models of Computation,"['F', '1', '1']"
-G.1.4, Quadrature and Numerical Differentiation,"['G', '1', '4']"
-K.7, THE COMPUTING PROFESSION,"['K', '7']"
-H.4.2, Types of Systems,"['H', '4', '2']"
-K.0, GENERAL,"['K', '0']"
-B.8.m, Miscellaneous,"['B', '8', 'm']"
-D.1.4, Sequential Programming,"['D', '1', '4']"
-K.3.2, Computer and Information Science Education,"['K', '3', '2']"
-B.8.1," Reliability, Testing, and Fault-Tolerance","['B', '8', '1']"
-I.3.8, Applications,"['I', '3', '8']"
-B.2.4, High-Speed Arithmetic,"['B', '2', '4']"
-B.1.4, Microprogram Design Aids,"['B', '1', '4']"
-D.4.9, Systems Programs and Utilities,"['D', '4', '9']"
-D.4.m, Miscellaneous,"['D', '4', 'm']"
-K.7.2, Organizations,"['K', '7', '2']"
-H.5.2, User Interfaces,"['H', '5', '2']"
-I.6.m, Miscellaneous,"['I', '6', 'm']"
-H.3.m, Miscellaneous,"['H', '3', 'm']"
-K.3, COMPUTERS AND EDUCATION,"['K', '3']"
-G.3, PROBABILITY AND STATISTICS,"['G', '3']"
-H.0, GENERAL,"['H', '0']"
-C.2.5, Local and Wide-Area Networks,"['C', '2', '5']"
-I.3.5, Computational Geometry and Object Modeling,"['I', '3', '5']"
-K.7.m, Miscellaneous,"['K', '7', 'm']"
-K.2, HISTORY OF COMPUTING,"['K', '2']"
-K.8.2, Hardware,"['K', '8', '2']"
-D.4.0, General,"['D', '4', '0']"
-D.2.12, Interoperability,"['D', '2', '12']"
-K., Computing Milieux,"['K', '']"
-D.1.7, Visual Programming,"['D', '1', '7']"
-B.3, MEMORY STRUCTURES,"['B', '3']"
-F.3, LOGICS AND MEANINGS OF PROGRAMS,"['F', '3']"
-G., Mathematics of Computing,"['G', '']"
-B.m, MISCELLANEOUS,"['B', 'm']"
-B.6.0, General,"['B', '6', '0']"
-B.3.m, Miscellaneous,"['B', '3', 'm']"
-I.4.4, Restoration,"['I', '4', '4']"
-B.6.1, Design Styles,"['B', '6', '1']"
-G.1.8, Partial Differential Equations,"['G', '1', '8']"
-C.2, COMPUTER-COMMUNICATION NETWORKS,"['C', '2']"
-D.2.7," Distribution, Maintenance, and Enhancement","['D', '2', '7']"
-B.2.m, Miscellaneous,"['B', '2', 'm']"
-D.2.6, Programming Environments,"['D', '2', '6']"
-B.3.3, Performance Analysis and Design Aids,"['B', '3', '3']"
-I.5.1, Models,"['I', '5', '1']"
-I.1.2, Algorithms,"['I', '1', '2']"
-H., Information Systems,"['H', '']"
-C.1.1, Single Data Stream Architectures,"['C', '1', '1']"
-F.1, COMPUTATION BY ABSTRACT DEVICES,"['F', '1']"
-K.6.1, Project and People Management,"['K', '6', '1']"
-C.5.4, VLSI Systems,"['C', '5', '4']"
-I.4.6, Segmentation,"['I', '4', '6']"
-C.4, PERFORMANCE OF SYSTEMS,"['C', '4']"
-F.2.0, General,"['F', '2', '0']"
-I.7, DOCUMENT AND TEXT PROCESSING,"['I', '7']"
-B.1, CONTROL STRUCTURES AND MICROPROGRAMMING,"['B', '1']"
-D.2.4, Software/Program Verification,"['D', '2', '4']"
-J.2, PHYSICAL SCIENCES AND ENGINEERING,"['J', '2']"
-I.3.0, General,"['I', '3', '0']"
-D.1.3, Concurrent Programming,"['D', '1', '3']"
-D.4.7, Organization and Design,"['D', '4', '7']"
-B.4.3, Interconnections (Subsystems),"['B', '4', '3']"
-I.6.1, Simulation Theory,"['I', '6', '1']"
-H.5.0, General,"['H', '5', '0']"
-C.2.m, Miscellaneous,"['C', '2', 'm']"
-G.1.0, General,"['G', '1', '0']"
-K.6, MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS,"['K', '6']"
-D.4.1, Process Management,"['D', '4', '1']"
-B.1.5, Microcode Applications,"['B', '1', '5']"
-D.2.11, Software Architectures,"['D', '2', '11']"
-C.1.2, Multiple Data Stream Architectures (Multiprocessors),"['C', '1', '2']"
-E.2, DATA STORAGE REPRESENTATIONS,"['E', '2']"
-H.1.m, Miscellaneous,"['H', '1', 'm']"
-H.4, INFORMATION SYSTEMS APPLICATIONS,"['H', '4']"
-B.7, INTEGRATED CIRCUITS,"['B', '7']"
-K.6.4, System Management,"['K', '6', '4']"
-K.7.4, Professional Ethics,"['K', '7', '4']"
-E.m, MISCELLANEOUS,"['E', 'm']"
-J.7, COMPUTERS IN OTHER SYSTEMS,"['J', '7']"
-H.2.5, Heterogeneous Databases,"['H', '2', '5']"
-D.4.3, File Systems Management,"['D', '4', '3']"
-J.4, SOCIAL AND BEHAVIORAL SCIENCES,"['J', '4']"
-D.2.3, Coding Tools and Techniques,"['D', '2', '3']"
-I.2.11, Distributed Artificial Intelligence,"['I', '2', '11']"
-G.1.7, Ordinary Differential Equations,"['G', '1', '7']"
-I.7.2, Document Preparation,"['I', '7', '2']"
-J.1, ADMINISTRATIVE DATA PROCESSING,"['J', '1']"
-G.2.1, Combinatorics,"['G', '2', '1']"
-I.2.4, Knowledge Representation Formalisms and Methods,"['I', '2', '4']"
-G.0, GENERAL,"['G', '0']"
-E.4, CODING AND INFORMATION THEORY,"['E', '4']"
-G.1.6, Optimization,"['G', '1', '6']"
-G.1.1, Interpolation,"['G', '1', '1']"
-B.2.0, General,"['B', '2', '0']"
-C.3, SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS,"['C', '3']"
-B.1.0, General,"['B', '1', '0']"
-C.0, GENERAL,"['C', '0']"
-D.1.6, Logic Programming,"['D', '1', '6']"
-G.4, MATHEMATICAL SOFTWARE,"['G', '4']"
-A., General Literature,"['A', '']"
-F.0, GENERAL,"['F', '0']"
-I.7.5, Document Capture,"['I', '7', '5']"
-H.2.7, Database Administration,"['H', '2', '7']"
-K.5.0, General,"['K', '5', '0']"
-I.4.7, Feature Measurement,"['I', '4', '7']"
-I.6.8, Types of Simulation,"['I', '6', '8']"
-K.4.4, Electronic Commerce,"['K', '4', '4']"
-I.3.7, Three-Dimensional Graphics and Realism,"['I', '3', '7']"
-H.m, MISCELLANEOUS,"['H', 'm']"
-D.2.0, General,"['D', '2', '0']"
-F.1.m, Miscellaneous,"['F', '1', 'm']"
-K.6.3, Software Management,"['K', '6', '3']"
-I.5.4, Applications,"['I', '5', '4']"
-C.5.5, Servers,"['C', '5', '5']"
-H.2.3, Languages,"['H', '2', '3']"
-H.4.0, General,"['H', '4', '0']"
-C.1.m, Miscellaneous,"['C', '1', 'm']"
-I.2.2, Automatic Programming,"['I', '2', '2']"
-I.2.3, Deduction and Theorem Proving,"['I', '2', '3']"
-I.7.m, Miscellaneous,"['I', '7', 'm']"
-C.1.0, General,"['C', '1', '0']"
-G.1.5, Roots of Nonlinear Equations,"['G', '1', '5']"
-D.0, GENERAL,"['D', '0']"
-J.3, LIFE AND MEDICAL SCIENCES,"['J', '3']"
-D.1, PROGRAMMING TECHNIQUES,"['D', '1']"
-I.5.3, Clustering,"['I', '5', '3']"
-K.3.1, Computer Uses in Education,"['K', '3', '1']"
-C., Computer Systems Organization,"['C', '']"
-K.6.m, Miscellaneous,"['K', '6', 'm']"
-B.4.5," Reliability, Testing, and Fault-Tolerance","['B', '4', '5']"
-B.5.1, Design,"['B', '5', '1']"
-H.3.5, Online Information Services,"['H', '3', '5']"
-D.3.2, Language Classifications,"['D', '3', '2']"
-B.8, PERFORMANCE AND RELIABILITY,"['B', '8']"
-F.1.0, General,"['F', '1', '0']"
-H.5.3, Group and Organization Interfaces,"['H', '5', '3']"
-I.1.0, General,"['I', '1', '0']"
-H.4.3, Communications Applications,"['H', '4', '3']"
-F.3.3, Studies of Program Constructs,"['F', '3', '3']"
-I.6, SIMULATION AND MODELING,"['I', '6']"
-H.3.2, Information Storage,"['H', '3', '2']"
-B.2.2, Performance Analysis and Design Aids,"['B', '2', '2']"
-H.5," INFORMATION INTERFACES AND PRESENTATION (e.g., HCI)","['H', '5']"
-C.1.3, Other Architecture Styles,"['C', '1', '3']"
-I.3.3, Picture/Image Generation,"['I', '3', '3']"
-F.4.1, Mathematical Logic,"['F', '4', '1']"
-B.4.2, Input/Output Devices,"['B', '4', '2']"
-K.3.0, General,"['K', '3', '0']"
-D.2.1, Requirements/Specifications,"['D', '2', '1']"
-I.5, PATTERN RECOGNITION,"['I', '5']"
-I.m, MISCELLANEOUS,"['I', 'm']"
-B.4.4, Performance Analysis and Design Aids,"['B', '4', '4']"
-E.0, GENERAL,"['E', '0']"
-G.1, NUMERICAL ANALYSIS,"['G', '1']"
-B.7.1, Types and Design Styles,"['B', '7', '1']"
-B.1.1, Control Design Styles,"['B', '1', '1']"
-I.7.1, Document and Text Editing,"['I', '7', '1']"
-K.4.3, Organizational Impacts,"['K', '4', '3']"
-H.1, MODELS AND PRINCIPLES,"['H', '1']"
-H.3.4, Systems and Software,"['H', '3', '4']"
-I.3.6, Methodology and Techniques,"['I', '3', '6']"
-I.3.2, Graphics Systems,"['I', '3', '2']"
+class,full_text
+F.4,Class: Theory of computation Subclass: Mathematical logic and formal languages
+D.4.1,Class: Software Subclass: Operating systems Subsubclass: Process management
+C.0,Class: Computer systems organization Subclass: General
+K.8.m,Class: Computing milieux Subclass: Personal computing Subsubclass: Miscellaneous
+I.3.8,Class: Computing methodologies Subclass: Computer graphics Subsubclass: Applications
+I.1.2,Class: Computing methodologies Subclass: Symbolic and algebraic manipulation Subsubclass: Algorithms
+I.1.m,Class: Computing methodologies Subclass: Symbolic and algebraic manipulation Subsubclass: Miscellaneous
+D.1.2,Class: Software Subclass: Programming techniques Subsubclass: Automatic programming
+D.2.1,Class: Software Subclass: Software engineering Subsubclass: Requirements/specifications
+B.1.m,Class: Hardware Subclass: Control structures and microprogramming Subsubclass: Miscellaneous
+F.4.m,Class: Theory of computation Subclass: Mathematical logic and formal languages Subsubclass: Miscellaneous
+E.,Class: Data
+F.4.2,Class: Theory of computation Subclass: Mathematical logic and formal languages Subsubclass: Grammars and other rewriting systems
+B.3.3,Class: Hardware Subclass: Memory structures Subsubclass: Performance analysis and design aids
+J.,Class: Computer applications
+F.2.0,Class: Theory of computation Subclass: Analysis of algorithms and problem complexity Subsubclass: General
+H.2.7,Class: Information systems Subclass: Database management Subsubclass: Database administration
+K.2,Class: Computing milieux Subclass: History of computing
+H.1.1,Class: Information systems Subclass: Models and principles Subsubclass: Systems and information theory
+I.5.1,Class: Computing methodologies Subclass: Pattern recognition Subsubclass: Models
+D.3,Class: Software Subclass: Programming languages
+H.2.5,Class: Information systems Subclass: Database management Subsubclass: Heterogeneous databases
+I.4.3,Class: Computing methodologies Subclass: Image processing and computer vision Subsubclass: Enhancement
+B.4.3,Class: Hardware Subclass: Input/output and data communications Subsubclass: Interconnections (subsystems)
+H.5,"Class: Information systems Subclass: Information interfaces and presentation (e.g., hci)"
+B.3.2,Class: Hardware Subclass: Memory structures Subsubclass: Design styles
+H.2.1,Class: Information systems Subclass: Database management Subsubclass: Logical design
+D.2.0,Class: Software Subclass: Software engineering Subsubclass: General
+H.2.2,Class: Information systems Subclass: Database management Subsubclass: Physical design
+F.2.2,Class: Theory of computation Subclass: Analysis of algorithms and problem complexity Subsubclass: Nonnumerical algorithms and problems
+B.7.0,Class: Hardware Subclass: Integrated circuits Subsubclass: General
+D.2,Class: Software Subclass: Software engineering
+G.4,Class: Mathematics of computing Subclass: Mathematical software
+I.3.6,Class: Computing methodologies Subclass: Computer graphics Subsubclass: Methodology and techniques
+D.2.5,Class: Software Subclass: Software engineering Subsubclass: Testing and debugging
+I.4.6,Class: Computing methodologies Subclass: Image processing and computer vision Subsubclass: Segmentation
+I.4.5,Class: Computing methodologies Subclass: Image processing and computer vision Subsubclass: Reconstruction
+G.1.2,Class: Mathematics of computing Subclass: Numerical analysis Subsubclass: Approximation
+K.7.0,Class: Computing milieux Subclass: The computing profession Subsubclass: General
+I.6.m,Class: Computing methodologies Subclass: Simulation and modeling Subsubclass: Miscellaneous
+I.2.3,Class: Computing methodologies Subclass: Artificial intelligence Subsubclass: Deduction and theorem proving
+G.2.1,Class: Mathematics of computing Subclass: Discrete mathematics Subsubclass: Combinatorics
+B.1.3,"Class: Hardware Subclass: Control structures and microprogramming Subsubclass: Control structure reliability, testing, and fault-tolerance"
+B.2,Class: Hardware Subclass: Arithmetic and logic structures
+J.4,Class: Computer applications Subclass: Social and behavioral sciences
+I.2.10,Class: Computing methodologies Subclass: Artificial intelligence Subsubclass: Vision and scene understanding
+I.3.0,Class: Computing methodologies Subclass: Computer graphics Subsubclass: General
+I.2.11,Class: Computing methodologies Subclass: Artificial intelligence Subsubclass: Distributed artificial intelligence
+G.2.0,Class: Mathematics of computing Subclass: Discrete mathematics Subsubclass: General
+B.2.2,Class: Hardware Subclass: Arithmetic and logic structures Subsubclass: Performance analysis and design aids
+K.4.0,Class: Computing milieux Subclass: Computers and society Subsubclass: General
+I.0,Class: Computing methodologies Subclass: General
+B.6.1,Class: Hardware Subclass: Logic design Subsubclass: Design styles
+G.m,Class: Mathematics of computing Subclass: Miscellaneous
+K.8.1,Class: Computing milieux Subclass: Personal computing Subsubclass: Application packages
+B.1.4,Class: Hardware Subclass: Control structures and microprogramming Subsubclass: Microprogram design aids
+B.6.3,Class: Hardware Subclass: Logic design Subsubclass: Design aids
+B.4.2,Class: Hardware Subclass: Input/output and data communications Subsubclass: Input/output devices
+C.5.5,Class: Computer systems organization Subclass: Computer system implementation Subsubclass: Servers
+I.7.2,Class: Computing methodologies Subclass: Document and text processing Subsubclass: Document preparation
+D.2.4,Class: Software Subclass: Software engineering Subsubclass: Software/program verification
+I.3.5,Class: Computing methodologies Subclass: Computer graphics Subsubclass: Computational geometry and object modeling
+B.4.4,Class: Hardware Subclass: Input/output and data communications Subsubclass: Performance analysis and design aids
+C.2.3,Class: Computer systems organization Subclass: Computer-communication networks Subsubclass: Network operations
+C.2.0,Class: Computer systems organization Subclass: Computer-communication networks Subsubclass: General
+I.7.5,Class: Computing methodologies Subclass: Document and text processing Subsubclass: Document capture
+B.7.1,Class: Hardware Subclass: Integrated circuits Subsubclass: Types and design styles
+D.2.6,Class: Software Subclass: Software engineering Subsubclass: Programming environments
+H.1,Class: Information systems Subclass: Models and principles
+K.4.1,Class: Computing milieux Subclass: Computers and society Subsubclass: Public policy issues
+D.2.3,Class: Software Subclass: Software engineering Subsubclass: Coding tools and techniques
+G.2.m,Class: Mathematics of computing Subclass: Discrete mathematics Subsubclass: Miscellaneous
+B.2.4,Class: Hardware Subclass: Arithmetic and logic structures Subsubclass: High-speed arithmetic
+H.5.0,"Class: Information systems Subclass: Information interfaces and presentation (e.g., hci) Subsubclass: General"
+H.0,Class: Information systems Subclass: General
+B.1,Class: Hardware Subclass: Control structures and microprogramming
+C.1.2,Class: Computer systems organization Subclass: Processor architectures Subsubclass: Multiple data stream architectures (multiprocessors)
+F.4.0,Class: Theory of computation Subclass: Mathematical logic and formal languages Subsubclass: General
+F.,Class: Theory of computation
+K.4.m,Class: Computing milieux Subclass: Computers and society Subsubclass: Miscellaneous
+B.1.0,Class: Hardware Subclass: Control structures and microprogramming Subsubclass: General
+D.1.3,Class: Software Subclass: Programming techniques Subsubclass: Concurrent programming
+F.0,Class: Theory of computation Subclass: General
+F.3.0,Class: Theory of computation Subclass: Logics and meanings of programs Subsubclass: General
+H.,Class: Information systems
+B.1.1,Class: Hardware Subclass: Control structures and microprogramming Subsubclass: Control design styles
+I.4,Class: Computing methodologies Subclass: Image processing and computer vision
+B.2.0,Class: Hardware Subclass: Arithmetic and logic structures Subsubclass: General
+K.3.m,Class: Computing milieux Subclass: Computers and education Subsubclass: Miscellaneous
+C.1.4,Class: Computer systems organization Subclass: Processor architectures Subsubclass: Parallel architectures
+K.6.5,Class: Computing milieux Subclass: Management of computing and information systems Subsubclass: Security and protection
+D.3.4,Class: Software Subclass: Programming languages Subsubclass: Processors
+F.2,Class: Theory of computation Subclass: Analysis of algorithms and problem complexity
+H.4.m,Class: Information systems Subclass: Information systems applications Subsubclass: Miscellaneous
+D.2.2,Class: Software Subclass: Software engineering Subsubclass: Design tools and techniques
+K.6.2,Class: Computing milieux Subclass: Management of computing and information systems Subsubclass: Installation management
+B.4.m,Class: Hardware Subclass: Input/output and data communications Subsubclass: Miscellaneous
+G.1.9,Class: Mathematics of computing Subclass: Numerical analysis Subsubclass: Integral equations
+H.4.2,Class: Information systems Subclass: Information systems applications Subsubclass: Types of systems
+E.3,Class: Data Subclass: Data encryption
+F.1.2,Class: Theory of computation Subclass: Computation by abstract devices Subsubclass: Modes of computation
+B.7,Class: Hardware Subclass: Integrated circuits
+B.m,Class: Hardware Subclass: Miscellaneous
+I.1.3,Class: Computing methodologies Subclass: Symbolic and algebraic manipulation Subsubclass: Languages and systems
+B.8.1,"Class: Hardware Subclass: Performance and reliability Subsubclass: Reliability, testing, and fault-tolerance"
+H.2.4,Class: Information systems Subclass: Database management Subsubclass: Systems
+I.6.6,Class: Computing methodologies Subclass: Simulation and modeling Subsubclass: Simulation output analysis
+G.1.1,Class: Mathematics of computing Subclass: Numerical analysis Subsubclass: Interpolation
+I.7.m,Class: Computing methodologies Subclass: Document and text processing Subsubclass: Miscellaneous
+D.3.1,Class: Software Subclass: Programming languages Subsubclass: Formal definitions and theory
+B.0,Class: Hardware Subclass: General
+H.4.1,Class: Information systems Subclass: Information systems applications Subsubclass: Office automation
+I.2.6,Class: Computing methodologies Subclass: Artificial intelligence Subsubclass: Learning
+K.0,Class: Computing milieux Subclass: General
+K.5.0,Class: Computing milieux Subclass: Legal aspects of computing Subsubclass: General
+B.1.2,Class: Hardware Subclass: Control structures and microprogramming Subsubclass: Control structure performance analysis and design aids
+B.3.0,Class: Hardware Subclass: Memory structures Subsubclass: General
+B.,Class: Hardware
+H.3.7,Class: Information systems Subclass: Information storage and retrieval Subsubclass: Digital libraries
+I.3.2,Class: Computing methodologies Subclass: Computer graphics Subsubclass: Graphics systems
+H.5.4,"Class: Information systems Subclass: Information interfaces and presentation (e.g., hci) Subsubclass: Hypertext/hypermedia"
+H.3.3,Class: Information systems Subclass: Information storage and retrieval Subsubclass: Information search and retrieval
+D.4.4,Class: Software Subclass: Operating systems Subsubclass: Communications management
+H.4.0,Class: Information systems Subclass: Information systems applications Subsubclass: General
+K.6.0,Class: Computing milieux Subclass: Management of computing and information systems Subsubclass: General
+K.,Class: Computing milieux
+C.4,Class: Computer systems organization Subclass: Performance of systems
+B.7.3,Class: Hardware Subclass: Integrated circuits Subsubclass: Reliability and testing
+K.7.1,Class: Computing milieux Subclass: The computing profession Subsubclass: Occupations
+I.4.0,Class: Computing methodologies Subclass: Image processing and computer vision Subsubclass: General
+I.2.2,Class: Computing methodologies Subclass: Artificial intelligence Subsubclass: Automatic programming
+H.1.0,Class: Information systems Subclass: Models and principles Subsubclass: General
+J.0,Class: Computer applications Subclass: General
+B.3.1,Class: Hardware Subclass: Memory structures Subsubclass: Semiconductor memories
+C.2.4,Class: Computer systems organization Subclass: Computer-communication networks Subsubclass: Distributed systems
+G.1.0,Class: Mathematics of computing Subclass: Numerical analysis Subsubclass: General
+D.3.2,Class: Software Subclass: Programming languages Subsubclass: Language classifications
+I.4.1,Class: Computing methodologies Subclass: Image processing and computer vision Subsubclass: Digitization and image capture
+D.4.9,Class: Software Subclass: Operating systems Subsubclass: Systems programs and utilities
+B.8.m,Class: Hardware Subclass: Performance and reliability Subsubclass: Miscellaneous
+K.4.3,Class: Computing milieux Subclass: Computers and society Subsubclass: Organizational impacts
+G.1.10,Class: Mathematics of computing Subclass: Numerical analysis Subsubclass: Applications
+D.1,Class: Software Subclass: Programming techniques
+B.5,Class: Hardware Subclass: Register-transfer-level implementation
+D.4.3,Class: Software Subclass: Operating systems Subsubclass: File systems management
+H.5.m,"Class: Information systems Subclass: Information interfaces and presentation (e.g., hci) Subsubclass: Miscellaneous"
+I.6.5,Class: Computing methodologies Subclass: Simulation and modeling Subsubclass: Model development
+H.3.0,Class: Information systems Subclass: Information storage and retrieval Subsubclass: General
+D.4.2,Class: Software Subclass: Operating systems Subsubclass: Storage management
+G.0,Class: Mathematics of computing Subclass: General
+B.3,Class: Hardware Subclass: Memory structures
+D.4.5,Class: Software Subclass: Operating systems Subsubclass: Reliability
+K.4.4,Class: Computing milieux Subclass: Computers and society Subsubclass: Electronic commerce
+B.4,Class: Hardware Subclass: Input/output and data communications
+H.5.1,"Class: Information systems Subclass: Information interfaces and presentation (e.g., hci) Subsubclass: Multimedia information systems"
+C.1.3,Class: Computer systems organization Subclass: Processor architectures Subsubclass: Other architecture styles
+H.5.3,"Class: Information systems Subclass: Information interfaces and presentation (e.g., hci) Subsubclass: Group and organization interfaces"
+D.1.6,Class: Software Subclass: Programming techniques Subsubclass: Logic programming
+I.3.7,Class: Computing methodologies Subclass: Computer graphics Subsubclass: Three-dimensional graphics and realism
+C.,Class: Computer systems organization
+C.2.6,Class: Computer systems organization Subclass: Computer-communication networks Subsubclass: Internetworking
+I.2.9,Class: Computing methodologies Subclass: Artificial intelligence Subsubclass: Robotics
+F.3.m,Class: Theory of computation Subclass: Logics and meanings of programs Subsubclass: Miscellaneous
+C.1.1,Class: Computer systems organization Subclass: Processor architectures Subsubclass: Single data stream architectures
+F.2.3,Class: Theory of computation Subclass: Analysis of algorithms and problem complexity Subsubclass: Tradeoffs between complexity measures
+C.2.1,Class: Computer systems organization Subclass: Computer-communication networks Subsubclass: Network architecture and design
+G.3,Class: Mathematics of computing Subclass: Probability and statistics
+H.3.2,Class: Information systems Subclass: Information storage and retrieval Subsubclass: Information storage
+H.2.3,Class: Information systems Subclass: Database management Subsubclass: Languages
+K.5.1,Class: Computing milieux Subclass: Legal aspects of computing Subsubclass: Hardware/software protection
+A.1,Class: General literature Subclass: Introductory and survey
+B.5.2,Class: Hardware Subclass: Register-transfer-level implementation Subsubclass: Design aids
+E.2,Class: Data Subclass: Data storage representations
+K.3.0,Class: Computing milieux Subclass: Computers and education Subsubclass: General
+G.2,Class: Mathematics of computing Subclass: Discrete mathematics
+D.2.7,"Class: Software Subclass: Software engineering Subsubclass: Distribution, maintenance, and enhancement"
+I.5.4,Class: Computing methodologies Subclass: Pattern recognition Subsubclass: Applications
+C.5.3,Class: Computer systems organization Subclass: Computer system implementation Subsubclass: Microcomputers
+I.m,Class: Computing methodologies Subclass: Miscellaneous
+I.5.2,Class: Computing methodologies Subclass: Pattern recognition Subsubclass: Design methodology
+K.7.3,"Class: Computing milieux Subclass: The computing profession Subsubclass: Testing, certification, and licensing"
+C.1,Class: Computer systems organization Subclass: Processor architectures
+J.5,Class: Computer applications Subclass: Arts and humanities
+F.4.3,Class: Theory of computation Subclass: Mathematical logic and formal languages Subsubclass: Formal languages
+F.1,Class: Theory of computation Subclass: Computation by abstract devices
+I.,Class: Computing methodologies
+G.2.3,Class: Mathematics of computing Subclass: Discrete mathematics Subsubclass: Applications
+D.1.5,Class: Software Subclass: Programming techniques Subsubclass: Object-oriented programming
+C.3,Class: Computer systems organization Subclass: Special-purpose and application-based systems
+B.5.0,Class: Hardware Subclass: Register-transfer-level implementation Subsubclass: General
+B.5.1,Class: Hardware Subclass: Register-transfer-level implementation Subsubclass: Design
+I.6.7,Class: Computing methodologies Subclass: Simulation and modeling Subsubclass: Simulation support systems
+D.3.m,Class: Software Subclass: Programming languages Subsubclass: Miscellaneous
+I.5.3,Class: Computing methodologies Subclass: Pattern recognition Subsubclass: Clustering
+B.6.m,Class: Hardware Subclass: Logic design Subsubclass: Miscellaneous
+C.2.2,Class: Computer systems organization Subclass: Computer-communication networks Subsubclass: Network protocols
+I.3.4,Class: Computing methodologies Subclass: Computer graphics Subsubclass: Graphics utilities
+I.7.3,Class: Computing methodologies Subclass: Document and text processing Subsubclass: Index generation
+H.1.m,Class: Information systems Subclass: Models and principles Subsubclass: Miscellaneous
+J.3,Class: Computer applications Subclass: Life and medical sciences
+D.4.m,Class: Software Subclass: Operating systems Subsubclass: Miscellaneous
+H.1.2,Class: Information systems Subclass: Models and principles Subsubclass: User/machine systems
+C.5,Class: Computer systems organization Subclass: Computer system implementation
+I.2.0,Class: Computing methodologies Subclass: Artificial intelligence Subsubclass: General
+D.1.4,Class: Software Subclass: Programming techniques Subsubclass: Sequential programming
+H.5.2,"Class: Information systems Subclass: Information interfaces and presentation (e.g., hci) Subsubclass: User interfaces"
+I.2.8,"Class: Computing methodologies Subclass: Artificial intelligence Subsubclass: Problem solving, control methods, and search"
+G.,Class: Mathematics of computing
+I.6,Class: Computing methodologies Subclass: Simulation and modeling
+K.7,Class: Computing milieux Subclass: The computing profession
+F.1.3,Class: Theory of computation Subclass: Computation by abstract devices Subsubclass: Complexity measures and classes
+C.5.1,Class: Computer systems organization Subclass: Computer system implementation Subsubclass: Large and medium (``mainframe'') computers
+D.m,Class: Software Subclass: Miscellaneous
+I.3.1,Class: Computing methodologies Subclass: Computer graphics Subsubclass: Hardware architecture
+I.1.0,Class: Computing methodologies Subclass: Symbolic and algebraic manipulation Subsubclass: General
+I.7.4,Class: Computing methodologies Subclass: Document and text processing Subsubclass: Electronic publishing
+K.7.2,Class: Computing milieux Subclass: The computing profession Subsubclass: Organizations
+I.7.1,Class: Computing methodologies Subclass: Document and text processing Subsubclass: Document and text editing
+I.4.4,Class: Computing methodologies Subclass: Image processing and computer vision Subsubclass: Restoration
+D.2.13,Class: Software Subclass: Software engineering Subsubclass: Reusable software
+G.1.3,Class: Mathematics of computing Subclass: Numerical analysis Subsubclass: Numerical linear algebra
+I.7.0,Class: Computing methodologies Subclass: Document and text processing Subsubclass: General
+I.4.8,Class: Computing methodologies Subclass: Image processing and computer vision Subsubclass: Scene analysis
+B.8,Class: Hardware Subclass: Performance and reliability
+H.4,Class: Information systems Subclass: Information systems applications
+B.3.m,Class: Hardware Subclass: Memory structures Subsubclass: Miscellaneous
+D.3.3,Class: Software Subclass: Programming languages Subsubclass: Language constructs and features
+I.2.m,Class: Computing methodologies Subclass: Artificial intelligence Subsubclass: Miscellaneous
+I.1.1,Class: Computing methodologies Subclass: Symbolic and algebraic manipulation Subsubclass: Expressions and their representation
+D.4.6,Class: Software Subclass: Operating systems Subsubclass: Security and protection
+B.2.3,"Class: Hardware Subclass: Arithmetic and logic structures Subsubclass: Reliability, testing, and fault-tolerance"
+K.m,Class: Computing milieux Subclass: Miscellaneous
+F.3.1,Class: Theory of computation Subclass: Logics and meanings of programs Subsubclass: Specifying and verifying and reasoning about programs
+H.3.6,Class: Information systems Subclass: Information storage and retrieval Subsubclass: Library automation
+G.2.2,Class: Mathematics of computing Subclass: Discrete mathematics Subsubclass: Graph theory
+F.2.1,Class: Theory of computation Subclass: Analysis of algorithms and problem complexity Subsubclass: Numerical algorithms and problems
+C.1.0,Class: Computer systems organization Subclass: Processor architectures Subsubclass: General
+C.5.2,Class: Computer systems organization Subclass: Computer system implementation Subsubclass: Minicomputers
+K.8.3,Class: Computing milieux Subclass: Personal computing Subsubclass: Management/maintenance
+K.8.0,Class: Computing milieux Subclass: Personal computing Subsubclass: General
+K.6.3,Class: Computing milieux Subclass: Management of computing and information systems Subsubclass: Software management
+J.1,Class: Computer applications Subclass: Administrative data processing
+K.5.m,Class: Computing milieux Subclass: Legal aspects of computing Subsubclass: Miscellaneous
+G.1,Class: Mathematics of computing Subclass: Numerical analysis
+F.3,Class: Theory of computation Subclass: Logics and meanings of programs
+H.4.3,Class: Information systems Subclass: Information systems applications Subsubclass: Communications applications
+D.1.7,Class: Software Subclass: Programming techniques Subsubclass: Visual programming
+J.2,Class: Computer applications Subclass: Physical sciences and engineering
+D.,Class: Software
+G.1.5,Class: Mathematics of computing Subclass: Numerical analysis Subsubclass: Roots of nonlinear equations
+I.6.2,Class: Computing methodologies Subclass: Simulation and modeling Subsubclass: Simulation languages
+H.2.m,Class: Information systems Subclass: Database management Subsubclass: Miscellaneous
+H.3.4,Class: Information systems Subclass: Information storage and retrieval Subsubclass: Systems and software
+D.2.8,Class: Software Subclass: Software engineering Subsubclass: Metrics
+A.2,"Class: General literature Subclass: Reference (e.g., dictionaries, encyclopedias, glossaries)"
+G.1.8,Class: Mathematics of computing Subclass: Numerical analysis Subsubclass: Partial differential equations
+C.5.m,Class: Computer systems organization Subclass: Computer system implementation Subsubclass: Miscellaneous
+I.2.1,Class: Computing methodologies Subclass: Artificial intelligence Subsubclass: Applications and expert systems
+H.m,Class: Information systems Subclass: Miscellaneous
+B.2.m,Class: Hardware Subclass: Arithmetic and logic structures Subsubclass: Miscellaneous
+K.3,Class: Computing milieux Subclass: Computers and education
+I.6.4,Class: Computing methodologies Subclass: Simulation and modeling Subsubclass: Model validation and analysis
+I.4.2,Class: Computing methodologies Subclass: Image processing and computer vision Subsubclass: Compression (coding)
+I.3,Class: Computing methodologies Subclass: Computer graphics
+B.4.1,Class: Hardware Subclass: Input/output and data communications Subsubclass: Data communications devices
+K.8.2,Class: Computing milieux Subclass: Personal computing Subsubclass: Hardware
+K.7.m,Class: Computing milieux Subclass: The computing profession Subsubclass: Miscellaneous
+D.2.12,Class: Software Subclass: Software engineering Subsubclass: Interoperability
+E.4,Class: Data Subclass: Coding and information theory
+B.1.5,Class: Hardware Subclass: Control structures and microprogramming Subsubclass: Microcode applications
+B.4.5,"Class: Hardware Subclass: Input/output and data communications Subsubclass: Reliability, testing, and fault-tolerance"
+D.2.9,Class: Software Subclass: Software engineering Subsubclass: Management
+J.7,Class: Computer applications Subclass: Computers in other systems
+D.4.8,Class: Software Subclass: Operating systems Subsubclass: Performance
+I.6.8,Class: Computing methodologies Subclass: Simulation and modeling Subsubclass: Types of simulation
+I.3.m,Class: Computing methodologies Subclass: Computer graphics Subsubclass: Miscellaneous
+F.1.1,Class: Theory of computation Subclass: Computation by abstract devices Subsubclass: Models of computation
+K.7.4,Class: Computing milieux Subclass: The computing profession Subsubclass: Professional ethics
+H.2.6,Class: Information systems Subclass: Database management Subsubclass: Database machines
+I.2.5,Class: Computing methodologies Subclass: Artificial intelligence Subsubclass: Programming languages and software
+K.3.1,Class: Computing milieux Subclass: Computers and education Subsubclass: Computer uses in education
+H.2.8,Class: Information systems Subclass: Database management Subsubclass: Database applications
+K.6,Class: Computing milieux Subclass: Management of computing and information systems
+A.,Class: General literature
+B.8.0,Class: Hardware Subclass: Performance and reliability Subsubclass: General
+I.6.0,Class: Computing methodologies Subclass: Simulation and modeling Subsubclass: General
+B.6.2,Class: Hardware Subclass: Logic design Subsubclass: Reliability and testing
+I.5,Class: Computing methodologies Subclass: Pattern recognition
+K.4.2,Class: Computing milieux Subclass: Computers and society Subsubclass: Social issues
+H.5.5,"Class: Information systems Subclass: Information interfaces and presentation (e.g., hci) Subsubclass: Sound and music computing"
+I.6.1,Class: Computing methodologies Subclass: Simulation and modeling Subsubclass: Simulation theory
+I.6.3,Class: Computing methodologies Subclass: Simulation and modeling Subsubclass: Applications
+E.0,Class: Data Subclass: General
+E.1,Class: Data Subclass: Data structures
+D.2.11,Class: Software Subclass: Software engineering Subsubclass: Software architectures
+I.4.7,Class: Computing methodologies Subclass: Image processing and computer vision Subsubclass: Feature measurement
+B.6,Class: Hardware Subclass: Logic design
+A.m,Class: General literature Subclass: Miscellaneous
+C.m,Class: Computer systems organization Subclass: Miscellaneous
+E.5,Class: Data Subclass: Files
+C.2.5,Class: Computer systems organization Subclass: Computer-communication networks Subsubclass: Local and wide-area networks
+B.6.0,Class: Hardware Subclass: Logic design Subsubclass: General
+C.1.m,Class: Computer systems organization Subclass: Processor architectures Subsubclass: Miscellaneous
+I.1,Class: Computing methodologies Subclass: Symbolic and algebraic manipulation
+F.3.3,Class: Theory of computation Subclass: Logics and meanings of programs Subsubclass: Studies of program constructs
+I.4.m,Class: Computing methodologies Subclass: Image processing and computer vision Subsubclass: Miscellaneous
+I.5.0,Class: Computing methodologies Subclass: Pattern recognition Subsubclass: General
+D.4.7,Class: Software Subclass: Operating systems Subsubclass: Organization and design
+J.m,Class: Computer applications Subclass: Miscellaneous
+C.2.m,Class: Computer systems organization Subclass: Computer-communication networks Subsubclass: Miscellaneous
+B.4.0,Class: Hardware Subclass: Input/output and data communications Subsubclass: General
+I.4.10,Class: Computing methodologies Subclass: Image processing and computer vision Subsubclass: Image representation
+F.m,Class: Theory of computation Subclass: Miscellaneous
+G.1.6,Class: Mathematics of computing Subclass: Numerical analysis Subsubclass: Optimization
+I.7,Class: Computing methodologies Subclass: Document and text processing
+K.5.2,Class: Computing milieux Subclass: Legal aspects of computing Subsubclass: Governmental issues
+B.8.2,Class: Hardware Subclass: Performance and reliability Subsubclass: Performance analysis and design aids
+D.4.0,Class: Software Subclass: Operating systems Subsubclass: General
+B.3.4,"Class: Hardware Subclass: Memory structures Subsubclass: Reliability, testing, and fault-tolerance"
+D.1.m,Class: Software Subclass: Programming techniques Subsubclass: Miscellaneous
+I.5.5,Class: Computing methodologies Subclass: Pattern recognition Subsubclass: Implementation
+H.2.0,Class: Information systems Subclass: Database management Subsubclass: General
+I.1.4,Class: Computing methodologies Subclass: Symbolic and algebraic manipulation Subsubclass: Applications
+K.5,Class: Computing milieux Subclass: Legal aspects of computing
+D.1.1,Class: Software Subclass: Programming techniques Subsubclass: Applicative (functional) programming
+F.2.m,Class: Theory of computation Subclass: Analysis of algorithms and problem complexity Subsubclass: Miscellaneous
+F.4.1,Class: Theory of computation Subclass: Mathematical logic and formal languages Subsubclass: Mathematical logic
+F.3.2,Class: Theory of computation Subclass: Logics and meanings of programs Subsubclass: Semantics of programming languages
+H.2,Class: Information systems Subclass: Database management
+B.2.1,Class: Hardware Subclass: Arithmetic and logic structures Subsubclass: Design styles
+J.6,Class: Computer applications Subclass: Computer-aided engineering
+I.2,Class: Computing methodologies Subclass: Artificial intelligence
+H.3.m,Class: Information systems Subclass: Information storage and retrieval Subsubclass: Miscellaneous
+K.8,Class: Computing milieux Subclass: Personal computing
+G.1.7,Class: Mathematics of computing Subclass: Numerical analysis Subsubclass: Ordinary differential equations
+C.5.0,Class: Computer systems organization Subclass: Computer system implementation Subsubclass: General
+A.0,Class: General literature Subclass: General
+I.5.m,Class: Computing methodologies Subclass: Pattern recognition Subsubclass: Miscellaneous
+B.7.2,Class: Hardware Subclass: Integrated circuits Subsubclass: Design aids
+D.2.m,Class: Software Subclass: Software engineering Subsubclass: Miscellaneous
+K.6.1,Class: Computing milieux Subclass: Management of computing and information systems Subsubclass: Project and people management
+C.2,Class: Computer systems organization Subclass: Computer-communication networks
+B.7.m,Class: Hardware Subclass: Integrated circuits Subsubclass: Miscellaneous
+K.6.m,Class: Computing milieux Subclass: Management of computing and information systems Subsubclass: Miscellaneous
+B.5.m,Class: Hardware Subclass: Register-transfer-level implementation Subsubclass: Miscellaneous
+I.2.4,Class: Computing methodologies Subclass: Artificial intelligence Subsubclass: Knowledge representation formalisms and methods
+F.1.m,Class: Theory of computation Subclass: Computation by abstract devices Subsubclass: Miscellaneous
+K.4,Class: Computing milieux Subclass: Computers and society
+D.2.10,Class: Software Subclass: Software engineering Subsubclass: Design
+C.5.4,Class: Computer systems organization Subclass: Computer system implementation Subsubclass: Vlsi systems
+F.1.0,Class: Theory of computation Subclass: Computation by abstract devices Subsubclass: General
+H.3.1,Class: Information systems Subclass: Information storage and retrieval Subsubclass: Content analysis and indexing
+D.1.0,Class: Software Subclass: Programming techniques Subsubclass: General
+D.4,Class: Software Subclass: Operating systems
+K.6.4,Class: Computing milieux Subclass: Management of computing and information systems Subsubclass: System management
+B.5.3,Class: Hardware Subclass: Register-transfer-level implementation Subsubclass: Reliability and testing
+H.3,Class: Information systems Subclass: Information storage and retrieval
+I.4.9,Class: Computing methodologies Subclass: Image processing and computer vision Subsubclass: Applications
+I.2.7,Class: Computing methodologies Subclass: Artificial intelligence Subsubclass: Natural language processing
+K.3.2,Class: Computing milieux Subclass: Computers and education Subsubclass: Computer and information science education
+D.3.0,Class: Software Subclass: Programming languages Subsubclass: General
+G.1.4,Class: Mathematics of computing Subclass: Numerical analysis Subsubclass: Quadrature and numerical differentiation
+E.m,Class: Data Subclass: Miscellaneous
+I.3.3,Class: Computing methodologies Subclass: Computer graphics Subsubclass: Picture/image generation
+D.0,Class: Software Subclass: General
+K.1,Class: Computing milieux Subclass: The computer industry
+G.1.m,Class: Mathematics of computing Subclass: Numerical analysis Subsubclass: Miscellaneous
+H.3.5,Class: Information systems Subclass: Information storage and retrieval Subsubclass: Online information services
