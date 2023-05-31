@@ -8,7 +8,7 @@ Consider this a humble foray into building in public, here's what I want to do, 
 
 ### Data
 
-The dataset I have the [arXiv Paper Abstracts](https://www.kaggle.com/datasets/spsayakpaul/arxiv-paper-abstracts) hosted on Kaggle, it's not the official [arXiv Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv), which I discovered exists recently, the dataset I'm using is miniscule at around 56k paper abstracts, but it's a start. I'm using this dataset because it's a lot smaller and I can train a model on my laptop, the official dataset is 1.7 million papers, and I don't have the resources to train a model on that (YET).
+The dataset I have is the [arXiv Paper Abstracts](https://www.kaggle.com/datasets/spsayakpaul/arxiv-paper-abstracts) hosted on Kaggle, it's not the official [arXiv Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv), which I discovered exists recently, the dataset I'm using is miniscule at around 56k paper abstracts, but it's a start. I'm using this dataset because it's a lot smaller and I can train a model on my laptop, the official dataset is 1.7 million papers, and I don't have the resources to train a model on that (YET).
 
 ### Preprocessing
 
